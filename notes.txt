@@ -1,0 +1,14 @@
+# For mongo1 (port 27017)
+docker exec -it mongo1 mongosh --port 27017 --eval "rs.status()"
+
+# For mongo2 (port 27018)
+docker exec -it mongo2 mongosh --port 27018 --eval "rs.status()"
+
+# For mongo3 (port 27019)
+docker exec -it mongo3 mongosh --port 27019 --eval "rs.status()"
+
+above tests cluster status on each of the nodes
+
+string for connecting to the cluster:
+mongodb://localhost:27017,localhost:27018,localhost:27019/?replicaSet=rs0
+
