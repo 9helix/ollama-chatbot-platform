@@ -32,6 +32,7 @@ async function main() {
                 type: String,
                 required: [true, "Model name is required"],
                 trim: true,
+                unique: true,
             },
             label: {
                 type: String,
@@ -59,16 +60,12 @@ async function main() {
         }
     );
     const Model = mongoose.model("Model", modelSchema);
-    await Model.create({
-        model_name: "granite3.3:latest",
-        label: "Granite 3.3",
-        description: "Great for summarizing stuff."
-    });
-    //const users = db.collection("users");
-    //const models = db.collection("models");
-    //const chats = db.collection("chats");
-    //const messages = db.collection("messages");
-
+    
+    // Ensure indexes are created
+    await Model.createIndexes();
+    
+    // TODO: Start your actual application logic here (Express server, etc.)
+    
     return "done.";
 }
 

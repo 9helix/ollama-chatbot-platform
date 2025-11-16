@@ -28,6 +28,7 @@ services:
       - frontend-network
       - backend-network
     environment:
+      - RUN_SEED=true #only one instance should run seeding
       - NODE_ENV=production
       - MONGO_URL=mongodb://mongo1:27017,mongo2:27017,mongo3:27017/?replicaSet=rs0
   
@@ -45,6 +46,7 @@ services:
       - frontend-network
       - backend-network
     environment:
+      - RUN_SEED=false
       - NODE_ENV=production
       - MONGO_URL=mongodb://mongo1:27017,mongo2:27017,mongo3:27017/?replicaSet=rs0
 
