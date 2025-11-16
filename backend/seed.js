@@ -1,42 +1,9 @@
 const mongoose = require("mongoose");
+const { Model } = require("./models");
 
 const url =
     process.env.MONGO_URL ||
     "mongodb://mongo1:27017,mongo2:27017,mongo3:27017/test?replicaSet=rs0";
-
-const modelSchema = new mongoose.Schema(
-    {
-        model_name: {
-            type: String,
-            required: [true, "Model name is required"],
-            trim: true,
-            unique: true,
-        },
-        label: {
-            type: String,
-            required: [true, "Instance name is required"],
-            trim: true,
-            maxlength: [100, "Instance name cannot exceed 100 characters"],
-        },
-        description: {
-            type: String,
-            maxlength: [500, "Description cannot exceed 500 characters"],
-            trim: true,
-        },
-        usage_count: {
-            type: Number,
-            default: 0,
-            min: [0, "Usage count cannot be negative"],
-        },
-        last_used_at: {
-            type: Date,
-            default: null,
-        },
-    },
-    {
-        collection: "models",
-    }
-);
 
 const seedData = [
     {
@@ -62,7 +29,6 @@ async function seed() {
         await mongoose.connect(url);
         console.log("Connected to MongoDB");
 
-        const Model = mongoose.model("Model", modelSchema);
         await Model.createIndexes();
 
         // Use insertMany with ordered: false to continue on duplicates
