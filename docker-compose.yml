@@ -1,4 +1,5 @@
 services:
+  # Load balancer - routes traffic to frontend and backends
   nginx:
     image: nginx:latest
     container_name: nginx_lb
@@ -8,17 +9,30 @@ services:
     ports:
       - "80:80"
     depends_on:
+      - frontend
       - backend1
       - backend2
     networks:
       - frontend-network
   
+  # Vue.js Frontend
+  frontend:
+    build:
+      context: ./app
+      dockerfile: Dockerfile
+    container_name: frontend
+    ports:
+      - "3000:80"
+    networks:
+      - frontend-network
+    # No port mapping needed - accessed via nginx
+  
+  # Backend instances
   backend1:
     build:
       context: ./backend
       dockerfile: Dockerfile
     container_name: backend1
-    # Remove external port mapping - nginx will access via internal network
     expose:
       - "4000"
     depends_on:
@@ -28,7 +42,7 @@ services:
       - frontend-network
       - backend-network
     environment:
-      - RUN_SEED=true #only one instance should run seeding
+      - RUN_SEED=true
       - NODE_ENV=production
       - MONGO_URL=mongodb://mongo1:27017,mongo2:27017,mongo3:27017/?replicaSet=rs0
   
@@ -50,7 +64,7 @@ services:
       - NODE_ENV=production
       - MONGO_URL=mongodb://mongo1:27017,mongo2:27017,mongo3:27017/?replicaSet=rs0
 
-
+  # MongoDB Replica Set
   mongo1:
     image: mongo:7.0
     container_name: mongo1
@@ -106,7 +120,6 @@ services:
       - backend-network
       - mongo-network
 
-
 volumes:
   mongo1_data:
   mongo1_config:
@@ -116,6 +129,6 @@ volumes:
   mongo3_config:
 
 networks:
-  frontend-network:  # Nginx ↔ Backends
-  backend-network:   # Backends ↔ MongoDB/Ollama
+  frontend-network:  # Nginx ↔ Frontend & Backends
+  backend-network:   # Backends ↔ MongoDB
   mongo-network:     # MongoDB replica set communication
