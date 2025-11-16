@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-const { Model } = require("./models");
+const { Model, User } = require("./models");
 
 const url =
     process.env.MONGO_URL ||
@@ -16,13 +16,18 @@ const seedData = [
         label: "Llama 3.1",
         description: "General purpose language model.",
     },
-        {
+    {
         model_name: "mistral:latest ",
         label: "Mistral",
         description: "Good for programming tasks.",
     },
     // Add more models here
 ];
+
+const default_user = {
+    username: "admin",
+    password: "admin123",
+};
 
 async function seed() {
     try {
@@ -32,19 +37,30 @@ async function seed() {
         await Model.createIndexes();
 
         // Use insertMany with ordered: false to continue on duplicates
-        const result = await Model.insertMany(seedData, { 
+        const result = await Model.insertMany(seedData, {
             ordered: false,
-            rawResult: true 
-        }).catch(err => {
+            rawResult: true,
+        }).catch((err) => {
             // Handle bulk write errors (duplicates)
             if (err.code === 11000) {
-                console.log(`Skipped ${err.writeErrors?.length || 0} duplicate entries`);
-                return { insertedCount: seedData.length - (err.writeErrors?.length || 0) };
+                console.log(
+                    `Skipped ${err.writeErrors?.length || 0} duplicate entries`
+                );
+                return {
+                    insertedCount:
+                        seedData.length - (err.writeErrors?.length || 0),
+                };
             }
             throw err;
         });
 
         console.log(`Seeded ${result.insertedCount || 0} models successfully`);
+
+        await User.insertOne(default_user).catch((err) => {
+            throw err;
+        });
+
+        console.log(`Successfully created admin user.`);
     } catch (error) {
         console.error("Seed error:", error);
         process.exit(1);

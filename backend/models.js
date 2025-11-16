@@ -2,12 +2,12 @@ const mongoose = require("mongoose");
 
 const userSchema = new mongoose.Schema({
     username: { type: String, required: true, unique: true },
-    email: { type: String, required: true, unique: true },
+    password: { type: String, required: true, unique: true },
     created_at: { type: Date, default: Date.now },
-    preferences: {
-        default_model: String,
-        theme: String,
-    },
+    //preferences: {
+    //    default_model: String,
+        //theme: String,
+    //},
 });
 
 const modelSchema = new mongoose.Schema(
@@ -44,8 +44,28 @@ const modelSchema = new mongoose.Schema(
     }
 );
 
+const chatSchema = new mongoose.Schema({
+    user_id: { type: mongoose.Schema.Types.ObjectId, ref: 'User', required: true },
+    model_id: { type: mongoose.Schema.Types.ObjectId, ref: 'Model', required: true },
+    title: String,
+    created_at: { type: Date, default: Date.now }, 
+    updated_at: { type: Date, default: Date.now },
+    message_count: { type: Number, default: 0 },
+})
+
+const messageSchema = new mongoose.Schema({
+    chat_id: { type: mongoose.Schema.Types.ObjectId, ref: 'Chat', required: true },
+    role: { type: String, enum: ['user', 'assistant', 'system'], required: true },
+    content: { type: String, required: true },
+    created_at: { type: Date, default: Date.now },
+    //token count
+
+})
+
 // Create and export models
 const User = mongoose.model("User", userSchema);
 const Model = mongoose.model("Model", modelSchema);
+const Chat = mongoose.model("Chat", chatSchema);
+const Message = mongoose.model("Message", messageSchema);
 
-module.exports = { User, Model };
+module.exports = { User, Model, Chat, Message };
