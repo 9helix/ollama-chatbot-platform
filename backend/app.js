@@ -25,6 +25,7 @@ async function main() {
             theme: String,
         },
     });
+
     const modelSchema = new mongoose.Schema(
         {
             model_name: {
@@ -32,7 +33,6 @@ async function main() {
                 required: [true, "Model name is required"],
                 trim: true,
             },
-
             label: {
                 type: String,
                 required: [true, "Instance name is required"],
@@ -59,7 +59,11 @@ async function main() {
         }
     );
     const Model = mongoose.model("Model", modelSchema);
-    await Model.create({model_name: "granite3.3:latest", label: "Granite 3.3",description: "Great for summarizing stuff."});
+    await Model.create({
+        model_name: "granite3.3:latest",
+        label: "Granite 3.3",
+        description: "Great for summarizing stuff."
+    });
     //const users = db.collection("users");
     //const models = db.collection("models");
     //const chats = db.collection("chats");
