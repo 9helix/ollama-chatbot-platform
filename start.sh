@@ -1,3 +1,4 @@
 docker compose down -v
 docker compose up -d --build
-docker logs ocp-backend -f
+docker logs backend1 -f
+docker logs backend2 -f
