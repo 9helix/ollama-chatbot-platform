@@ -12,7 +12,7 @@ COPY . .
 # Make the entrypoint script executable
 RUN chmod +x docker-entrypoint.sh
 
-EXPOSE 4000
+EXPOSE 4001
 
 ENTRYPOINT ["./docker-entrypoint.sh"]
 

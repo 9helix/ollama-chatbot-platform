@@ -16,15 +16,13 @@ const router = createRouter({
       path: '/',
       name: 'chat',
       component: Chat,
-      //meta: { requiresAuth: true }
-      meta: { requiresAuth: false }
+      meta: { requiresAuth: true }
     },
     {
       path: '/chat/:id?',
       name: 'chat-detail',
       component: Chat,
-      //meta: { requiresAuth: true }
-      meta: { requiresAuth: false }
+      meta: { requiresAuth: true }
     }
   ]
 })

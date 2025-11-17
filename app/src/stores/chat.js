@@ -1,4 +1,5 @@
 import { defineStore } from 'pinia'
+import { useAuthStore } from '@/stores/auth'
 import { ref } from 'vue'
 import axios from 'axios'
 
@@ -31,25 +32,20 @@ export const useChatStore = defineStore('chat', () => {
 
   async function fetchChats() {
     try {
-      const response = await axios.get('/api/chats')
+      const authStore = useAuthStore()
+      const userId = authStore.user?._id
+      
+      if (!userId) {
+        console.error('No user ID found')
+        return
+      }
+      
+      const response = await axios.get(`/api/users/${userId}/chats`)
       chats.value = response.data
     } catch (error) {
       console.error('Failed to fetch chats:', error)
-      // For testing - mock data
-      chats.value = [
-        {
-          _id: '1',
-          title: 'Previous Chat 1',
-          last_message: 'Hello, how are you?',
-          updated_at: new Date(Date.now() - 1000 * 60 * 30) // 30 min ago
-        },
-        {
-          _id: '2',
-          title: 'Previous Chat 2',
-          last_message: 'Can you help me with...',
-          updated_at: new Date(Date.now() - 1000 * 60 * 60 * 2) // 2 hours ago
-        }
-      ]
+      // Keep empty array on error
+      chats.value = []
     }
   }
 
@@ -109,63 +105,19 @@ export const useChatStore = defineStore('chat', () => {
     messages.value.push(userMessage)
     loading.value = true
 
-    // Create a placeholder message for the assistant's streaming response
-    const assistantMessage = {
-      role: 'assistant',
-      content: '',
-      timestamp: new Date(),
-      streaming: true
-    }
-    messages.value.push(assistantMessage)
-
     try {
-      const response = await fetch(`/api/chats/${currentChat.value._id}/messages`, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          message: content,
-          model: selectedModel.value
-        })
+      const response = await axios.post(`/api/chats/${currentChat.value._id}/messages`, {
+        message: content,
+        model: selectedModel.value
       })
 
-      if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`)
+      const assistantMessage = {
+        role: 'assistant',
+        content: response.data.response,
+        timestamp: new Date()
       }
-
-      const reader = response.body.getReader()
-      const decoder = new TextDecoder()
-
-      while (true) {
-        const { value, done } = await reader.read()
-        if (done) break
-
-        const chunk = decoder.decode(value)
-        const lines = chunk.split('\n')
-
-        for (const line of lines) {
-          if (line.startsWith('data: ')) {
-            try {
-              const data = JSON.parse(line.slice(6))
-              
-              if (data.chunk) {
-                // Append chunk to the assistant message
-                assistantMessage.content += data.chunk
-              } else if (data.done) {
-                // Streaming complete
-                assistantMessage.streaming = false
-              } else if (data.error) {
-                console.error('Streaming error:', data.error)
-                assistantMessage.content = 'Error: Failed to get response'
-                assistantMessage.streaming = false
-              }
-            } catch (e) {
-              console.error('Failed to parse SSE data:', e)
-            }
-          }
-        }
-      }
+      
+      messages.value.push(assistantMessage)
       
       // Update chat in list
       const chatIndex = chats.value.findIndex(c => c._id === currentChat.value._id)
@@ -175,9 +127,13 @@ export const useChatStore = defineStore('chat', () => {
       }
     } catch (error) {
       console.error('Failed to send message:', error)
-      // Update the assistant message with error
-      assistantMessage.content = `Error: ${error.message}. Make sure the backend is running.`
-      assistantMessage.streaming = false
+      // Mock response for testing
+      const mockResponse = {
+        role: 'assistant',
+        content: `This is a mock response to: "${content}". Connect to your Ollama backend to get real responses.`,
+        timestamp: new Date()
+      }
+      messages.value.push(mockResponse)
     } finally {
       loading.value = false
     }

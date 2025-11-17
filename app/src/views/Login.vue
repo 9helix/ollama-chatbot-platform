@@ -26,29 +26,32 @@ async function handleLogin() {
     // Redirect to chat page
     router.push('/')
   } catch (err) {
-    error.value = err.response?.data?.message || 'Login failed. Please check your credentials.'
+    console.error('Login error:', err)
+    // Handle different error responses
+    if (err.response?.status === 401) {
+      error.value = 'Invalid username or password'
+    } else if (err.response?.data?.error === 'missing_fields') {
+      error.value = 'Please enter both username and password'
+    } else if (err.response?.data?.error === 'invalid_credentials') {
+      error.value = 'Invalid username or password'
+    } else if (!err.response) {
+      error.value = 'Cannot connect to server. Please check if the backend is running.'
+    } else {
+      error.value = 'Login failed. Please try again.'
+    }
   } finally {
     loading.value = false
   }
 }
 
-// For testing without backend - REMOVE THIS LATER
-function handleTestLogin() {
-  console.log('Test login:', username.value)
-  if (username.value && password.value) {
-    // Simulate successful login
-    authStore.token = 'test-token'
-    authStore.user = { username: username.value }
-    router.push('/')
-  }
-}
+
 </script>
 
 <template>
   <div class="login-container">
     <div class="login-card">
       <div class="logo-section">
-        <h1>Ollama Chatbot</h1>
+        <h1>🤖 Ollama Chatbot</h1>
         <p class="subtitle">Sign in to start chatting</p>
       </div>
 
@@ -237,29 +240,5 @@ input:disabled {
 
 @keyframes spin {
   to { transform: rotate(360deg); }
-}
-
-/* TEMPORARY: Remove this button when backend is ready */
-.test-button {
-  width: 100%;
-  padding: 12px;
-  background-color: #f0f0f0;
-  color: #666;
-  border: 2px dashed #ccc;
-  border-radius: 8px;
-  font-size: 14px;
-  font-weight: 600;
-  cursor: pointer;
-  transition: all 0.2s;
-}
-
-.test-button:hover:not(:disabled) {
-  background-color: #e0e0e0;
-  border-color: #999;
-}
-
-.test-button:disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
 }
 </style>

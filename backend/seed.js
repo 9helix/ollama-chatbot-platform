@@ -17,7 +17,7 @@ const seedData = [
         description: "General purpose language model.",
     },
     {
-        model_name: "mistral:latest ",
+        model_name: "mistral:latest",
         label: "Mistral",
         description: "Good for programming tasks.",
     },
@@ -35,8 +35,9 @@ async function seed() {
         console.log("Connected to MongoDB");
 
         await Model.createIndexes();
+        await User.createIndexes();
 
-        // Use insertMany with ordered: false to continue on duplicates
+        // Seed models
         const result = await Model.insertMany(seedData, {
             ordered: false,
             rawResult: true,
@@ -44,7 +45,7 @@ async function seed() {
             // Handle bulk write errors (duplicates)
             if (err.code === 11000) {
                 console.log(
-                    `Skipped ${err.writeErrors?.length || 0} duplicate entries`
+                    `Skipped ${err.writeErrors?.length || 0} duplicate model entries`
                 );
                 return {
                     insertedCount:
@@ -56,11 +57,22 @@ async function seed() {
 
         console.log(`Seeded ${result.insertedCount || 0} models successfully`);
 
-        await User.insertOne(default_user).catch((err) => {
-            throw err;
-        });
-
-        console.log(`Successfully created admin user.`);
+        // Seed default user
+        try {
+            const existingUser = await User.findOne({ username: default_user.username });
+            if (!existingUser) {
+                await User.create(default_user);
+                console.log(`Successfully created admin user.`);
+            } else {
+                console.log(`Admin user already exists.`);
+            }
+        } catch (err) {
+            if (err.code === 11000) {
+                console.log(`Admin user already exists.`);
+            } else {
+                throw err;
+            }
+        }
     } catch (error) {
         console.error("Seed error:", error);
         process.exit(1);

@@ -10,19 +10,15 @@ export const useAuthStore = defineStore('auth', () => {
 
   async function login(username, password) {
     try {
-      // Make API call to your backend
-      const response = await axios.post('/api/auth/login', {
+      const response = await axios.post('http://localhost:4001/api/login', {
         username,
         password
       })
       
-      // Store token and user info
-      token.value = response.data.token
       user.value = response.data.user
+      token.value = response.data.user._id
       localStorage.setItem('token', token.value)
-      
-      // Set default axios header for future requests
-      axios.defaults.headers.common['Authorization'] = `Bearer ${token.value}`
+      localStorage.setItem('user', JSON.stringify(response.data.user))
       
       return true
     } catch (error) {
