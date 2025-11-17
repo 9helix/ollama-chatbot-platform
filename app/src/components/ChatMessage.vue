@@ -25,7 +25,10 @@ function formatTime(timestamp) {
         <span class="role-label">{{ message.role === 'user' ? 'You' : 'Assistant' }}</span>
         <span class="timestamp">{{ formatTime(message.timestamp) }}</span>
       </div>
-      <div class="message-text">{{ message.content }}</div>
+      <div class="message-text">
+        {{ message.content }}
+        <span v-if="message.streaming" class="streaming-cursor">▊</span>
+      </div>
     </div>
   </div>
 </template>
@@ -101,5 +104,21 @@ function formatTime(timestamp) {
   color: #333;
   white-space: pre-wrap;
   word-wrap: break-word;
+}
+
+.streaming-cursor {
+  display: inline-block;
+  animation: blink 1s infinite;
+  color: #007bff;
+  margin-left: 2px;
+}
+
+@keyframes blink {
+  0%, 50% {
+    opacity: 1;
+  }
+  51%, 100% {
+    opacity: 0;
+  }
 }
 </style>

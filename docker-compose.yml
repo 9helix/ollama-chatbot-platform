@@ -31,11 +31,14 @@ services:
       context: ./backend
       dockerfile: Dockerfile
     container_name: backend1
-    expose:
-      - "4000"
+    ports:
+      - "4001:4000"
+      #- "4000"
     depends_on:
       mongo1:
         condition: service_healthy
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
     networks:
       - frontend-network
       - backend-network
@@ -43,6 +46,7 @@ services:
       - RUN_SEED=true
       - NODE_ENV=production
       - MONGO_URL=mongodb://mongo1:27017,mongo2:27017,mongo3:27017/?replicaSet=rs0
+      - OLLAMA_HOST=http://host.docker.internal:11434
   
   backend2:
     build:
@@ -54,6 +58,8 @@ services:
     depends_on:
       mongo1:
         condition: service_healthy
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
     networks:
       - frontend-network
       - backend-network
@@ -61,6 +67,7 @@ services:
       - RUN_SEED=false
       - NODE_ENV=production
       - MONGO_URL=mongodb://mongo1:27017,mongo2:27017,mongo3:27017/?replicaSet=rs0
+      - OLLAMA_HOST=http://host.docker.internal:11434
 
   # MongoDB Replica Set
   mongo1:

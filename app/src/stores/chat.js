@@ -109,19 +109,63 @@ export const useChatStore = defineStore('chat', () => {
     messages.value.push(userMessage)
     loading.value = true
 
+    // Create a placeholder message for the assistant's streaming response
+    const assistantMessage = {
+      role: 'assistant',
+      content: '',
+      timestamp: new Date(),
+      streaming: true
+    }
+    messages.value.push(assistantMessage)
+
     try {
-      const response = await axios.post(`/api/chats/${currentChat.value._id}/messages`, {
-        message: content,
-        model: selectedModel.value
+      const response = await fetch(`/api/chats/${currentChat.value._id}/messages`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          message: content,
+          model: selectedModel.value
+        })
       })
 
-      const assistantMessage = {
-        role: 'assistant',
-        content: response.data.response,
-        timestamp: new Date()
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`)
       }
-      
-      messages.value.push(assistantMessage)
+
+      const reader = response.body.getReader()
+      const decoder = new TextDecoder()
+
+      while (true) {
+        const { value, done } = await reader.read()
+        if (done) break
+
+        const chunk = decoder.decode(value)
+        const lines = chunk.split('\n')
+
+        for (const line of lines) {
+          if (line.startsWith('data: ')) {
+            try {
+              const data = JSON.parse(line.slice(6))
+              
+              if (data.chunk) {
+                // Append chunk to the assistant message
+                assistantMessage.content += data.chunk
+              } else if (data.done) {
+                // Streaming complete
+                assistantMessage.streaming = false
+              } else if (data.error) {
+                console.error('Streaming error:', data.error)
+                assistantMessage.content = 'Error: Failed to get response'
+                assistantMessage.streaming = false
+              }
+            } catch (e) {
+              console.error('Failed to parse SSE data:', e)
+            }
+          }
+        }
+      }
       
       // Update chat in list
       const chatIndex = chats.value.findIndex(c => c._id === currentChat.value._id)
@@ -131,13 +175,9 @@ export const useChatStore = defineStore('chat', () => {
       }
     } catch (error) {
       console.error('Failed to send message:', error)
-      // Mock response for testing
-      const mockResponse = {
-        role: 'assistant',
-        content: `This is a mock response to: "${content}". Connect to your Ollama backend to get real responses.`,
-        timestamp: new Date()
-      }
-      messages.value.push(mockResponse)
+      // Update the assistant message with error
+      assistantMessage.content = `Error: ${error.message}. Make sure the backend is running.`
+      assistantMessage.streaming = false
     } finally {
       loading.value = false
     }

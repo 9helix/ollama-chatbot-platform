@@ -1,6 +1,11 @@
 const mongoose = require("mongoose");
 const { User, Model, Chat, Message } = require("./models");
-const ollama = require('ollama').default;
+const { Ollama } = require('ollama');
+
+// Initialize Ollama client with host from environment variable
+const ollama = new Ollama({
+    host: process.env.OLLAMA_HOST || 'http://localhost:11434'
+});
 
 // Connection URL
 const url =
@@ -66,6 +71,47 @@ async function main() {
         }
     });
 
+    // POST /api/chats/:chatId/messages - send message and stream response
+    app.post("/api/chats/:chatId/messages", async (req, res) => {
+        const { message } = req.body;
+        if (!message) {
+            return res.status(400).json({ error: "missing_message" });
+        }
+        try {
+            const chatId = new mongoose.Types.ObjectId(req.params.chatId);
+            const chat = await Chat.findById(chatId);
+            if (!chat) {
+                return res.status(404).json({ error: "chat_not_found" });
+            }
+
+            // Save user message
+            await create_message(chatId, "user", message);
+
+            // Set up SSE headers
+            res.setHeader('Content-Type', 'text/event-stream');
+            res.setHeader('Cache-Control', 'no-cache');
+            res.setHeader('Connection', 'keep-alive');
+
+            // Stream the response
+            const content = await stream_response(chat.model_id.toString(), chatId, message, res);
+
+            // Save assistant message after streaming completes
+            await create_message(chatId, "assistant", content);
+
+            // Send final event
+            res.write(`data: ${JSON.stringify({ done: true })}\n\n`);
+            res.end();
+        } catch (err) {
+            console.error(err);
+            if (!res.headersSent) {
+                res.status(500).json({ error: "internal_error" });
+            } else {
+                res.write(`data: ${JSON.stringify({ error: "internal_error" })}\n\n`);
+                res.end();
+            }
+        }
+    });
+
     // GET /api/users/:userId/chats
     app.get("/api/users/:userId/chats", async (req, res) => {
         try {
@@ -118,8 +164,9 @@ async function create_chat(user_id, model_id, title, initial_message) {
         model_id: model_id,
         title: title,
     });
+    const model=await Model.findById(model_id);
     await create_message(chat._id, "user", initial_message);
-    await get_response(model_id, chat._id, initial_message);
+    await get_response(model.model_name, chat._id, initial_message);
     return chat;
 }
 /**
@@ -169,6 +216,44 @@ async function login(username, password) {
  * @param {string} model_name
  * @param {import("mongoose").Types.ObjectId} chat_id
  * @param {string} message
+ * @param {import("express").Response} res - Express response object for SSE
+ * Stream response chunks to frontend via Server-Sent Events
+ */
+async function stream_response(model_name, chat_id, message, res) {
+    const messages = await get_chat_messages(chat_id);
+    let processed_messages = [];
+    for (const msg of messages) {
+        const filter_message = (({ role, content }) => ({ role, content }))(
+            msg
+        );
+        processed_messages.push(filter_message);
+    }
+    processed_messages.push({ role: "user", content: message });
+    
+    const stream = await ollama.chat({
+        model: model_name,
+        messages: processed_messages,
+        stream: true,
+    });
+
+    let content = "";
+
+    for await (const chunk of stream) {
+        const chunkContent = chunk.message.content;
+        process.stdout.write(chunkContent);
+        content += chunkContent;
+        
+        // Send chunk to frontend via SSE
+        res.write(`data: ${JSON.stringify({ chunk: chunkContent })}\n\n`);
+    }
+
+    return content;
+}
+
+/**
+ * @param {string} model_name
+ * @param {import("mongoose").Types.ObjectId} chat_id
+ * @param {string} message
  * from https://docs.ollama.com/capabilities/streaming#javascript
  */
 async function get_response(model_name, chat_id, message) {
@@ -193,13 +278,28 @@ async function get_response(model_name, chat_id, message) {
         process.stdout.write(chunk.message.content);
         // accumulate the partial content
         content += chunk.message.content;
-        //updateUIMessage()
     }
 
-    // append the accumulated fields to the messages for the next request
-    let new_messages = [{ role: "assistant", content: content }];
+    // Save the complete response
+    await create_message(chat_id, "assistant", content);
+    
+    return content;
 }
+
+// Start the application
 main()
     .then(console.log)
-    .catch(console.error)
-    .finally(() => mongoose.connection.close());
+    .catch(console.error);
+
+// Handle graceful shutdown
+process.on('SIGTERM', async () => {
+    console.log('SIGTERM received, closing MongoDB connection...');
+    await mongoose.connection.close();
+    process.exit(0);
+});
+
+process.on('SIGINT', async () => {
+    console.log('SIGINT received, closing MongoDB connection...');
+    await mongoose.connection.close();
+    process.exit(0);
+});
