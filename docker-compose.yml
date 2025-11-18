@@ -151,9 +151,6 @@ volumes:
   mongo2_config:
   mongo3_data:
   mongo3_config:
-  ollama:
-      #external: true
-      name: ollama
 
 networks:
   frontend-network:  # Nginx ↔ Frontend & Backends
