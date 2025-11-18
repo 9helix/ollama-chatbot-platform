@@ -1,3 +1,4 @@
+mkdir .ollama
 docker compose down -v #shuts down all containers and deletes all data
 docker compose up -d --build #rebuilds backend and starts all containers
 
@@ -8,3 +9,5 @@ docker logs backend1 -f
 docker logs backend2 -f
 # check frontend logs
 docker logs frontend
+
+# ollama models wont be downloaded automatically, they should be downlaoded after running the app and executing `docker exec -it ollama ollama pull [FULL MODEL NAME]` in the terminal

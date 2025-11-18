@@ -46,7 +46,7 @@ services:
       - RUN_SEED=true
       - NODE_ENV=production
       - MONGO_URL=mongodb://mongo1:27017,mongo2:27017,mongo3:27017/?replicaSet=rs0
-      - OLLAMA_HOST=http://host.docker.internal:11434
+      - OLLAMA_HOST=http://ollama:11434
   
   backend2:
     build:
@@ -67,7 +67,7 @@ services:
       - RUN_SEED=false
       - NODE_ENV=production
       - MONGO_URL=mongodb://mongo1:27017,mongo2:27017,mongo3:27017/?replicaSet=rs0
-      - OLLAMA_HOST=http://host.docker.internal:11434
+      - OLLAMA_HOST=http://ollama:11434
 
   # MongoDB Replica Set
   mongo1:
@@ -125,6 +125,25 @@ services:
       - backend-network
       - mongo-network
 
+  ollama:
+      image: ollama/ollama
+      deploy:
+          resources:
+              reservations:
+                  devices:
+                      - driver: nvidia
+                        count: all
+                        capabilities:
+                            - gpu
+      volumes:
+          - .ollama:/root/.ollama
+      expose:
+          - "11434"
+      container_name: ollama
+      networks:
+          - backend-network
+
+
 volumes:
   mongo1_data:
   mongo1_config:
@@ -132,6 +151,9 @@ volumes:
   mongo2_config:
   mongo3_data:
   mongo3_config:
+  ollama:
+      #external: true
+      name: ollama
 
 networks:
   frontend-network:  # Nginx ↔ Frontend & Backends
