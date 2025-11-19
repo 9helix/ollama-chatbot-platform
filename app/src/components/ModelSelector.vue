@@ -14,8 +14,8 @@ const chatStore = useChatStore()
     >
       <option 
         v-for="model in chatStore.models" 
-        :key="model.model_name"
-        :value="model.model_name"
+        :key="model._id"
+        :value="model._id"
       >
         {{ model.label }}
       </option>

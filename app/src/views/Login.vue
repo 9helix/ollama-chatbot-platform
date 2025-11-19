@@ -51,7 +51,7 @@ async function handleLogin() {
   <div class="login-container">
     <div class="login-card">
       <div class="logo-section">
-        <h1>🤖 Ollama Chatbot</h1>
+        <h1>Ollama Chatbot</h1>
         <p class="subtitle">Sign in to start chatting</p>
       </div>
 

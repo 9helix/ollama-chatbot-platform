@@ -14,7 +14,7 @@ const url =
 
 async function main() {
     await mongoose.connect(url);
-    console.log("Connected successfully to server!");
+    console.log("Connected successfully to MongoDB!");
 
     // Ensure indexes are created
     await Model.createIndexes();
@@ -49,7 +49,7 @@ async function main() {
             const chat = await create_chat(
                 user_id,
                 model_id,
-                title || "",
+                title || "New Chat",
                 initial_message
             );
             res.status(201).json(chat);
@@ -79,7 +79,7 @@ async function main() {
         }
         try {
             const chatId = new mongoose.Types.ObjectId(req.params.chatId);
-            const chat = await Chat.findById(chatId);
+            const chat = await Chat.findById(chatId).populate('model_id');
             if (!chat) {
                 return res.status(404).json({ error: "chat_not_found" });
             }
@@ -91,9 +91,10 @@ async function main() {
             res.setHeader('Content-Type', 'text/event-stream');
             res.setHeader('Cache-Control', 'no-cache');
             res.setHeader('Connection', 'keep-alive');
+            res.setHeader('X-Accel-Buffering', 'no'); // Disable nginx buffering
 
             // Stream the response
-            const content = await stream_response(chat.model_id.toString(), chatId, message, res);
+            const content = await stream_response(chat.model_id.model_name, chatId, message, res);
 
             // Save assistant message after streaming completes
             await create_message(chatId, "assistant", content);
@@ -102,7 +103,7 @@ async function main() {
             res.write(`data: ${JSON.stringify({ done: true })}\n\n`);
             res.end();
         } catch (err) {
-            console.error(err);
+            console.error('Error in message streaming:', err);
             if (!res.headersSent) {
                 res.status(500).json({ error: "internal_error" });
             } else {
@@ -140,13 +141,15 @@ async function main() {
     });
 
     const port = process.env.PORT || 4000;
-    app.listen(port, () => console.log(`API listening on ${port}`));
+    app.listen(port, '0.0.0.0', () => {
+        console.log(`API listening on port ${port}`);
+        console.log(`Ollama host: ${process.env.OLLAMA_HOST || 'http://localhost:11434'}`);
+    });
 
     return "server_started";
 }
 
 async function get_available_models() {
-    // No need to connect again if already connected
     const models = await Model.find({}, "label model_name description");
     console.log("Found models:", models.length);
     return models;
@@ -164,11 +167,15 @@ async function create_chat(user_id, model_id, title, initial_message) {
         model_id: model_id,
         title: title,
     });
-    const model=await Model.findById(model_id);
+    const model = await Model.findById(model_id);
     await create_message(chat._id, "user", initial_message);
+    
+    // Get initial response (non-streaming for chat creation)
     await get_response(model.model_name, chat._id, initial_message);
+    
     return chat;
 }
+
 /**
  * @param {mongoose.Types.ObjectId} chat_id
  * @param {string} role
@@ -181,6 +188,7 @@ async function create_message(chat_id, role, content) {
         content: content,
     });
 }
+
 /**
  * @param {import("mongoose").Types.ObjectId} chat_id
  */
@@ -190,6 +198,7 @@ async function get_chat_messages(chat_id) {
     });
     return messages;
 }
+
 /**
  * @param {string} user_id
  */
@@ -199,11 +208,11 @@ async function list_user_chats(user_id) {
     });
     return chats;
 }
+
 /**
  * @param {string} username
  * @param {string} password
  */
-
 async function login(username, password) {
     const user = await User.findOne({
         username: username,
@@ -222,10 +231,53 @@ async function login(username, password) {
 async function stream_response(model_name, chat_id, message, res) {
     const messages = await get_chat_messages(chat_id);
     let processed_messages = [];
+    
     for (const msg of messages) {
-        const filter_message = (({ role, content }) => ({ role, content }))(
-            msg
-        );
+        const filter_message = (({ role, content }) => ({ role, content }))(msg);
+        processed_messages.push(filter_message);
+    }
+    
+    processed_messages.push({ role: "user", content: message });
+    
+    console.log(`Calling Ollama with model: ${model_name}`);
+    
+    try {
+        const stream = await ollama.chat({
+            model: model_name,
+            messages: processed_messages,
+            stream: true,
+        });
+
+        let content = "";
+
+        for await (const chunk of stream) {
+            const chunkContent = chunk.message.content;
+            content += chunkContent;
+            
+            // Send chunk to frontend via SSE
+            res.write(`data: ${JSON.stringify({ chunk: chunkContent })}\n\n`);
+        }
+
+        console.log(`Streaming complete. Total length: ${content.length}`);
+        return content;
+    } catch (error) {
+        console.error('Ollama streaming error:', error);
+        throw error;
+    }
+}
+
+/**
+ * @param {string} model_name
+ * @param {import("mongoose").Types.ObjectId} chat_id
+ * @param {string} message
+ * Non-streaming version for initial chat creation
+ */
+async function get_response(model_name, chat_id, message) {
+    const messages = await get_chat_messages(chat_id);
+    let processed_messages = [];
+    
+    for (const message of messages) {
+        const filter_message = (({ role, content }) => ({ role, content }))(message);
         processed_messages.push(filter_message);
     }
     processed_messages.push({ role: "user", content: message });
@@ -239,44 +291,6 @@ async function stream_response(model_name, chat_id, message, res) {
     let content = "";
 
     for await (const chunk of stream) {
-        const chunkContent = chunk.message.content;
-        process.stdout.write(chunkContent);
-        content += chunkContent;
-        
-        // Send chunk to frontend via SSE
-        res.write(`data: ${JSON.stringify({ chunk: chunkContent })}\n\n`);
-    }
-
-    return content;
-}
-
-/**
- * @param {string} model_name
- * @param {import("mongoose").Types.ObjectId} chat_id
- * @param {string} message
- * from https://docs.ollama.com/capabilities/streaming#javascript
- */
-async function get_response(model_name, chat_id, message) {
-    const messages = await get_chat_messages(chat_id);
-    let processed_messages = [];
-    for (const message of messages) {
-        const filter_message = (({ role, content }) => ({ role, content }))(
-            message
-        );
-        processed_messages.push(filter_message);
-    }
-    processed_messages.push({ role: "user", content: message });
-    const stream = await ollama.chat({
-        model: model_name,
-        messages: processed_messages,
-        stream: true,
-    });
-
-    let content = "";
-
-    for await (const chunk of stream) {
-        process.stdout.write(chunk.message.content);
-        // accumulate the partial content
         content += chunk.message.content;
     }
 

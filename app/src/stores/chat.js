@@ -1,7 +1,7 @@
 import { defineStore } from 'pinia'
-import { useAuthStore } from '@/stores/auth'
 import { ref } from 'vue'
 import axios from 'axios'
+import { useAuthStore } from './auth'
 
 export const useChatStore = defineStore('chat', () => {
   const chats = ref([])
@@ -13,20 +13,14 @@ export const useChatStore = defineStore('chat', () => {
 
   async function fetchModels() {
     try {
-      const response = await axios.get('/api/models')
+      const response = await axios.get('http://localhost:4001/api/models')
       models.value = response.data
       if (models.value.length > 0 && !selectedModel.value) {
-        selectedModel.value = models.value[0].model_name
+        selectedModel.value = models.value[0]._id
       }
     } catch (error) {
       console.error('Failed to fetch models:', error)
-      // For testing without backend - REMOVE THIS LATER
-      models.value = [
-        { model_name: 'granite3.3:latest', label: 'Granite 3.3', description: 'Great for summarizing' },
-        { model_name: 'llama3.1:latest', label: 'Llama 3.1', description: 'General purpose' },
-        { model_name: 'mistral:latest', label: 'Mistral', description: 'Good for programming' }
-      ]
-      selectedModel.value = models.value[0].model_name
+      models.value = []
     }
   }
 
@@ -40,47 +34,45 @@ export const useChatStore = defineStore('chat', () => {
         return
       }
       
-      const response = await axios.get(`/api/users/${userId}/chats`)
+      const response = await axios.get(`http://localhost:4001/api/users/${userId}/chats`)
       chats.value = response.data
     } catch (error) {
       console.error('Failed to fetch chats:', error)
-      // Keep empty array on error
       chats.value = []
     }
   }
 
-  async function createChat(title = 'New Chat') {
+  async function createChat(title = 'New Chat', initialMessage) {
     try {
-      const response = await axios.post('/api/chats', {
+      const authStore = useAuthStore()
+      const userId = authStore.user?._id
+      
+      if (!userId || !selectedModel.value) {
+        throw new Error('Missing user ID or model ID')
+      }
+      
+      const response = await axios.post('http://localhost:4001/api/chats', {
+        user_id: userId,
+        model_id: selectedModel.value,
         title,
-        model: selectedModel.value
-      })
+        initial_message: initialMessage
+      })      
       chats.value.unshift(response.data)
       currentChat.value = response.data
-      messages.value = []
+      
+      // Load messages for this chat
+      await loadChatMessages(response.data._id)
       return response.data
     } catch (error) {
       console.error('Failed to create chat:', error)
-      // Mock for testing
-      const newChat = {
-        _id: Date.now().toString(),
-        title,
-        model: selectedModel.value,
-        updated_at: new Date(),
-        last_message: ''
-      }
-      chats.value.unshift(newChat)
-      currentChat.value = newChat
-      messages.value = []
-      return newChat
+      throw error
     }
   }
 
   async function loadChat(chatId) {
     try {
-      const response = await axios.get(`/api/chats/${chatId}`)
-      currentChat.value = response.data
-      messages.value = response.data.messages || []
+      currentChat.value = chats.value.find(c => c._id === chatId) || null
+      await loadChatMessages(chatId)
     } catch (error) {
       console.error('Failed to load chat:', error)
       const chat = chats.value.find(c => c._id === chatId)
@@ -91,9 +83,25 @@ export const useChatStore = defineStore('chat', () => {
     }
   }
 
+  async function loadChatMessages(chatId) {
+    try {
+      const response = await axios.get(`http://localhost:4001/api/chats/${chatId}/messages`)
+      messages.value = response.data.map(msg => ({
+        role: msg.role,
+        content: msg.content,
+        timestamp: msg.created_at
+      }))
+    } catch (error) {
+      console.error('Failed to load chat messages:', error)
+      messages.value = []
+    }
+  }
+
   async function sendMessage(content) {
     if (!currentChat.value) {
-      await createChat('New Chat')
+      // Create a new chat with the first message
+      await createChat('New Chat', content)
+      return
     }
 
     const userMessage = {
@@ -105,19 +113,79 @@ export const useChatStore = defineStore('chat', () => {
     messages.value.push(userMessage)
     loading.value = true
 
-    try {
-      const response = await axios.post(`/api/chats/${currentChat.value._id}/messages`, {
-        message: content,
-        model: selectedModel.value
+    // Create a placeholder message for the assistant's streaming response
+    const assistantMessage = {
+      role: 'assistant',
+      content: '',
+      timestamp: new Date(),
+      streaming: true
+    }
+    messages.value.push(assistantMessage)
+
+    try {      
+      const response = await fetch(`http://localhost:4001/api/chats/${currentChat.value._id}/messages`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          message: content
+        })
       })
 
-      const assistantMessage = {
-        role: 'assistant',
-        content: response.data.response,
-        timestamp: new Date()
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`)
       }
-      
-      messages.value.push(assistantMessage)
+
+      if (!response.body) {
+        throw new Error('Response body is null')
+      }
+
+      const reader = response.body.getReader()
+      const decoder = new TextDecoder()
+      let buffer = ''
+
+      while (true) {
+        const { value, done } = await reader.read()
+        if (done) {
+          break
+        }
+
+        // Decode the chunk and add to buffer
+        buffer += decoder.decode(value, { stream: true })
+        
+        // Process complete lines from buffer
+        const lines = buffer.split('\n')
+        buffer = lines.pop() || '' // Keep incomplete line in buffer
+
+        for (const line of lines) {
+          if (line.trim() === '') continue
+          
+          if (line.startsWith('data: ')) {
+            try {
+              const jsonStr = line.slice(6).trim()
+              if (!jsonStr) continue
+              
+              const data = JSON.parse(jsonStr)
+              
+              if (data.chunk) {
+                // Append chunk to the assistant message
+                assistantMessage.content += data.chunk
+              } else if (data.done) {
+                // Streaming complete
+                assistantMessage.streaming = false
+              } else if (data.error) {
+                console.error('Streaming error:', data.error)
+                assistantMessage.content = `Error: ${data.error}`
+                assistantMessage.streaming = false
+              }
+            } catch (e) {
+              console.error('Failed to parse SSE data:', line, e)
+            }
+          }
+        }
+      }
+      assistantMessage.streaming = false
       
       // Update chat in list
       const chatIndex = chats.value.findIndex(c => c._id === currentChat.value._id)
@@ -127,13 +195,9 @@ export const useChatStore = defineStore('chat', () => {
       }
     } catch (error) {
       console.error('Failed to send message:', error)
-      // Mock response for testing
-      const mockResponse = {
-        role: 'assistant',
-        content: `This is a mock response to: "${content}". Connect to your Ollama backend to get real responses.`,
-        timestamp: new Date()
-      }
-      messages.value.push(mockResponse)
+      // Update the assistant message with error
+      assistantMessage.content = `Error: ${error.message}. Make sure Ollama is running and accessible.`
+      assistantMessage.streaming = false
     } finally {
       loading.value = false
     }
@@ -141,6 +205,7 @@ export const useChatStore = defineStore('chat', () => {
 
   async function deleteChat(chatId) {
     try {
+      // Note: Your backend doesn't have a DELETE endpoint yet
       await axios.delete(`/api/chats/${chatId}`)
       chats.value = chats.value.filter(c => c._id !== chatId)
       if (currentChat.value?._id === chatId) {
@@ -149,7 +214,7 @@ export const useChatStore = defineStore('chat', () => {
       }
     } catch (error) {
       console.error('Failed to delete chat:', error)
-      // Mock for testing
+      // Still remove from frontend even if backend fails
       chats.value = chats.value.filter(c => c._id !== chatId)
       if (currentChat.value?._id === chatId) {
         currentChat.value = null
@@ -169,6 +234,7 @@ export const useChatStore = defineStore('chat', () => {
     fetchChats,
     createChat,
     loadChat,
+    loadChatMessages,
     sendMessage,
     deleteChat
   }

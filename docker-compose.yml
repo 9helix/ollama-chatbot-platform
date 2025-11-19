@@ -143,7 +143,6 @@ services:
       networks:
           - backend-network
 
-
 volumes:
   mongo1_data:
   mongo1_config:

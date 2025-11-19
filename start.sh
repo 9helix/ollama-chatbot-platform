@@ -10,4 +10,5 @@ docker logs backend2 -f
 # check frontend logs
 docker logs frontend
 
-# ollama models wont be downloaded automatically, they should be downlaoded after running the app and executing `docker exec -it ollama ollama pull [FULL MODEL NAME]` in the terminal
+# ollama models won't be downloaded automatically, they should be downloaded after running the app and executing:
+#`docker exec -it ollama ollama pull [FULL MODEL NAME]` in the terminal

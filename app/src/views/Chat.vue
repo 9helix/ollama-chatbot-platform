@@ -17,10 +17,6 @@ const messagesContainer = ref(null)
 onMounted(async () => {
   await chatStore.fetchModels()
   await chatStore.fetchChats()
-  
-  if (route.params.id) {
-    await chatStore.loadChat(route.params.id)
-  }
 })
 
 // Auto-scroll to bottom when new messages arrive
@@ -32,7 +28,9 @@ watch(() => chatStore.messages.length, async () => {
 })
 
 function handleNewChat() {
-  chatStore.createChat()
+  // Reset current chat locally
+  chatStore.currentChat = null
+  chatStore.messages = []
   router.push('/')
 }
 
