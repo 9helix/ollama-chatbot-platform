@@ -1,4 +1,4 @@
-mkdir .ollama
+mkdir -p .ollama
 docker compose down -v #shuts down all containers and deletes all data
 docker compose up -d --build #rebuilds backend and starts all containers
 
