@@ -13,7 +13,7 @@ export const useChatStore = defineStore('chat', () => {
 
   async function fetchModels() {
     try {
-      const response = await axios.get('http://localhost:4001/api/models')
+      const response = await axios.get('/api/models')
       models.value = response.data
       if (models.value.length > 0 && !selectedModel.value) {
         selectedModel.value = models.value[0]._id
@@ -34,7 +34,7 @@ export const useChatStore = defineStore('chat', () => {
         return
       }
       
-      const response = await axios.get(`http://localhost:4001/api/users/${userId}/chats`)
+      const response = await axios.get(`/api/users/${userId}/chats`)
       chats.value = response.data
     } catch (error) {
       console.error('Failed to fetch chats:', error)
@@ -57,7 +57,7 @@ export const useChatStore = defineStore('chat', () => {
     }
     
     messages.value.push(userMessage)
-      const response = await axios.post('http://localhost:4001/api/chats', {
+      const response = await axios.post('/api/chats', {
         user_id: userId,
         model_id: selectedModel.value,
         title,
@@ -98,7 +98,7 @@ export const useChatStore = defineStore('chat', () => {
 
   async function loadChatMessages(chatId) {
     try {
-      const response = await axios.get(`http://localhost:4001/api/chats/${chatId}/messages`)
+      const response = await axios.get(`/api/chats/${chatId}/messages`)
       messages.value = response.data.map(msg => ({
         role: msg.role,
         content: msg.content,
@@ -131,7 +131,7 @@ export const useChatStore = defineStore('chat', () => {
     //messages.value.push(assistantMessage)
 
          
-    const response = await axios.post(`http://localhost:4001/api/chats/${currentChat.value._id}/messages`, {
+    const response = await axios.post(`/api/chats/${currentChat.value._id}/messages`, {
       message: content
     })
 const assistantMessage = {
@@ -145,7 +145,7 @@ const assistantMessage = {
   async function deleteChat(chatId) {
     try {
       console.log("Deleting chat from store:", chatId);
-      await axios.delete(`http://localhost:4001/api/chats/${chatId}`)
+      await axios.delete(`/api/chats/${chatId}`)
       chats.value = chats.value.filter(c => c._id !== chatId)
       if (currentChat.value?._id === chatId) {
         currentChat.value = null
