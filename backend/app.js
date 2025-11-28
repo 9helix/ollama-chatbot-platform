@@ -1,6 +1,7 @@
 const mongoose = require("mongoose");
 const { User, Model, Chat, Message } = require("./models");
 const { Ollama } = require('ollama');
+const { client, createIndex } = require("./elasticsearch");
 
 // Initialize Ollama client with host from environment variable
 const ollama = new Ollama({
@@ -19,6 +20,10 @@ async function main() {
     // Ensure indexes are created
     await Model.createIndexes();
     await User.createIndexes();
+
+    // Ensure Elasticsearch index exists before server handles messages
+    await createIndex();
+    console.log("Elasticsearch index initialized");
 
     // Start Express server to expose API to frontend
     const express = require("express");
@@ -136,6 +141,23 @@ async function main() {
         }
     });
 
+    // GET /api/search?query=text
+    app.get("/api/search", async (req, res) => {
+        const q = req.query.q;
+        const result = await client.search({
+            index: "messages",
+            query: {
+                match: { content: q }
+            }
+        });
+
+        res.json(result.hits.hits.map(hit => ({
+            id: hit._id,
+            chat_id: hit._source.chat_id,
+            content: hit._source.content,
+        })));
+    });
+
     const port = process.env.PORT || 4000;
     app.listen(port, () => console.log(`API listening on ${port}`));
 
@@ -176,6 +198,17 @@ async function create_message(chat_id, role, content) {
         chat_id: chat_id,
         role: role,
         content: content,
+    }).then(msg => {
+       // Prevent backend crash if ES is offline / delayed startup
+       client.index({
+           index: "messages",
+           document: {
+               chat_id: msg.chat_id.toString(),
+               role: msg.role,
+               content: msg.content,
+               created_at: msg.created_at
+           }
+       }).catch(err => console.error("Elasticsearch indexing failed:", err));
     });
 }
 /**

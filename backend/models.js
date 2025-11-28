@@ -60,6 +60,7 @@ const messageSchema = new mongoose.Schema({
     created_at: { type: Date, default: Date.now },
     //token count
 })
+messageSchema.index({ content: "text" });  // full-text index
 
 // Create and export models
 const User = mongoose.model("User", userSchema);
