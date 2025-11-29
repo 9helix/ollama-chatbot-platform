@@ -7,16 +7,29 @@ import ChatSidebar from '@/components/ChatSidebar.vue'
 import ChatMessage from '@/components/ChatMessage.vue'
 import ChatInput from '@/components/ChatInput.vue'
 import ModelSelector from '@/components/ModelSelector.vue'
+import SearchBar from '@/components/SearchBar.vue'
 
 const route = useRoute()
 const router = useRouter()
 const chatStore = useChatStore()
 const authStore = useAuthStore()
 const messagesContainer = ref(null)
+const showSearch = ref(false)
 
 onMounted(async () => {
   await chatStore.fetchModels()
   await chatStore.fetchChats()
+  
+  if (route.params.id) {
+    await chatStore.loadChat(route.params.id)
+  }
+})
+
+// Watch for route changes and load the appropriate chat
+watch(() => route.params.id, async (newChatId) => {
+  if (newChatId) {
+    await chatStore.loadChat(newChatId)
+  }
 })
 
 // Auto-scroll to bottom when new messages arrive
@@ -38,6 +51,10 @@ function handleLogout() {
   authStore.logout()
   router.push('/login')
 }
+
+function toggleSearch() {
+  showSearch.value = !showSearch.value
+}
 </script>
 
 <template>
@@ -50,10 +67,23 @@ function handleLogout() {
           <h2>{{ chatStore.currentChat?.title || 'New Chat' }}</h2>
           <ModelSelector />
         </div>
-        <button class="logout-button" @click="handleLogout">
-          <span class="logout-icon">🚪</span>
-          Logout
-        </button>
+        <div class="header-right">
+          <button class="search-button" @click="toggleSearch" title="Search chats">
+            🔍
+          </button>
+          <button class="logout-button" @click="handleLogout">
+            <span class="logout-icon">🚪</span>
+            Logout
+          </button>
+        </div>
+      </div>
+
+      <!-- Search Bar (shown when toggled) -->
+      <div v-if="showSearch" class="search-bar-container">
+        <SearchBar 
+          @close="showSearch = false"
+          @result-selected="handleSearchResultSelected"
+        />
       </div>
 
       <div ref="messagesContainer" class="messages-container">
@@ -122,6 +152,31 @@ function handleLogout() {
   font-weight: 700;
 }
 
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.search-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background-color: #f5f5f5;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 18px;
+  transition: all 0.2s;
+}
+
+.search-button:hover {
+  background-color: #e5e5e5;
+  transform: scale(1.05);
+}
+
 .logout-button {
   display: flex;
   align-items: center;
@@ -144,6 +199,13 @@ function handleLogout() {
 
 .logout-icon {
   font-size: 16px;
+}
+
+.search-bar-container {
+  padding: 16px 24px;
+  background-color: #f8f9ff;
+  border-bottom: 1px solid #e5e5e5;
+  animation: slideDown 0.3s ease-out;
 }
 
 .messages-container {

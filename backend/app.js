@@ -147,7 +147,12 @@ async function main() {
         const result = await client.search({
             index: "messages",
             query: {
-                match: { content: q }
+                multi_match: {
+                    query: q,
+                    fields: ["content"],
+                    fuzziness: "AUTO",
+                    operator: "and"  // require all words to match fuzzily
+                }
             }
         });
 
