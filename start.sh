@@ -1,4 +1,4 @@
-mkdir -p .ollama
+mkdir -p .ollama es_data nginx-logs logs
 docker compose down -v #shuts down all containers and deletes all data
 docker compose up -d --build #rebuilds backend and starts all containers
 

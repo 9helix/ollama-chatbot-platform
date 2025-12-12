@@ -14,6 +14,8 @@ services:
       - backend2
     networks:
       - frontend-network
+    volumes:
+      - ./nginx-logs:/var/log/nginx
   
   # Vue.js Frontend
   frontend:
@@ -23,7 +25,6 @@ services:
     container_name: frontend
     networks:
       - frontend-network
-    # No port mapping needed - accessed via nginx
   
   # Backend instances
   backend1:
@@ -33,9 +34,10 @@ services:
     container_name: backend1
     ports:
       - "4001:4000"
-      #- "4000"
     depends_on:
       mongo1:
+        condition: service_healthy
+      elasticsearch:
         condition: service_healthy
     extra_hosts:
       - "host.docker.internal:host-gateway"
@@ -47,6 +49,9 @@ services:
       - NODE_ENV=production
       - MONGO_URL=mongodb://mongo1:27017,mongo2:27017,mongo3:27017/?replicaSet=rs0
       - OLLAMA_HOST=http://ollama:11434
+      - ELASTICSEARCH_URL=http://elasticsearch:9200
+    volumes:
+      - ./logs:/app/logs
   
   backend2:
     build:
@@ -58,6 +63,8 @@ services:
     depends_on:
       mongo1:
         condition: service_healthy
+      elasticsearch:
+        condition: service_healthy
     extra_hosts:
       - "host.docker.internal:host-gateway"
     networks:
@@ -68,6 +75,9 @@ services:
       - NODE_ENV=production
       - MONGO_URL=mongodb://mongo1:27017,mongo2:27017,mongo3:27017/?replicaSet=rs0
       - OLLAMA_HOST=http://ollama:11434
+      - ELASTICSEARCH_URL=http://elasticsearch:9200
+    volumes:
+      - ./logs:/app/logs
 
   # MongoDB Replica Set
   mongo1:
@@ -151,6 +161,9 @@ services:
       - xpack.security.enabled=false
       - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
       - bootstrap.memory_lock=true
+      - cluster.routing.allocation.disk.watermark.low=50gb
+      - cluster.routing.allocation.disk.watermark.high=30gb
+      - cluster.routing.allocation.disk.watermark.flood_stage=5gb
     ulimits:
       memlock:
         soft: -1
@@ -169,6 +182,68 @@ services:
       retries: 5
       start_period: 60s
 
+  # Logstash for log processing
+  logstash:
+    image: docker.elastic.co/logstash/logstash:8.11.0
+    container_name: logstash
+    ports:
+      - "5044:5044"
+      - "9600:9600"
+    environment:
+      - "LS_JAVA_OPTS=-Xms256m -Xmx256m"
+    volumes:
+      - ./logstash/pipeline:/usr/share/logstash/pipeline:ro
+      - ./logstash/config/logstash.yml:/usr/share/logstash/config/logstash.yml:ro
+      - ./logs:/logs:ro
+      - ./nginx-logs:/nginx-logs:ro
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+    networks:
+      - backend-network
+    command: logstash -f /usr/share/logstash/pipeline/logstash.conf
+
+  # Kibana for visualization
+  kibana:
+    image: docker.elastic.co/kibana/kibana:8.11.0
+    container_name: kibana
+    ports:
+      - "5601:5601"
+    environment:
+      - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+      - SERVER_NAME=kibana
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+    networks:
+      - backend-network
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:5601/api/status || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 60s
+
+  # Filebeat for log shipping
+  filebeat:
+    image: docker.elastic.co/beats/filebeat:8.11.0
+    container_name: filebeat
+    user: root
+    volumes:
+      - ./filebeat/filebeat.yml:/usr/share/filebeat/filebeat.yml:ro
+      - ./logs:/logs:ro
+      - ./nginx-logs:/nginx-logs:ro
+      - /var/lib/docker/containers:/var/lib/docker/containers:ro
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+      - filebeat-data:/usr/share/filebeat/data
+    command: filebeat -e -strict.perms=false
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+      logstash:
+        condition: service_started
+    networks:
+      - backend-network
 
 volumes:
   mongo1_data:
@@ -178,8 +253,9 @@ volumes:
   mongo3_data:
   mongo3_config:
   es_data:
+  filebeat-data:
 
 networks:
-  frontend-network:  # Nginx ↔ Frontend & Backends
-  backend-network:   # Backends ↔ MongoDB
-  mongo-network:     # MongoDB replica set communication
+  frontend-network:
+  backend-network:
+  mongo-network:
