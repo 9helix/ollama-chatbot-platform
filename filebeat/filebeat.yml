@@ -37,24 +37,27 @@ filebeat.inputs:
       - add_docker_metadata:
           host: "unix:///var/run/docker.sock"
 
-# Output to Logstash
-output.logstash:
-  hosts: ["logstash:5044"]
-  compression_level: 3
+# Output directly to Elasticsearch (bypassing Logstash)
+output.elasticsearch:
+  hosts: ["elasticsearch:9200"]
+  indices:
+    - index: "ollama-app-logs-%{+yyyy.MM.dd}"
+      when.equals:
+        log_type: "application"
+    - index: "ollama-nginx-access-%{+yyyy.MM.dd}"
+      when.equals:
+        log_type: "nginx-access"
+    - index: "ollama-nginx-error-%{+yyyy.MM.dd}"
+      when.equals:
+        log_type: "nginx-error"
+    - index: "ollama-backend-container-%{+yyyy.MM.dd}"
+      when.contains:
+        container.name: "backend"
 
-# Output directly to Elasticsearch (alternative, comment out if using Logstash)
-# output.elasticsearch:
-#   hosts: ["elasticsearch:9200"]
-#   indices:
-#     - index: "ollama-app-logs-%{+yyyy.MM.dd}"
-#       when.equals:
-#         log_type: "application"
-#     - index: "ollama-nginx-access-%{+yyyy.MM.dd}"
-#       when.equals:
-#         log_type: "nginx-access"
-#     - index: "ollama-nginx-error-%{+yyyy.MM.dd}"
-#       when.equals:
-#         log_type: "nginx-error"
+# If you want to use Logstash instead, comment out the above and uncomment below:
+# output.logstash:
+#   hosts: ["logstash:5044"]
+#   compression_level: 3
 
 # Logging configuration
 logging.level: info
@@ -71,3 +74,21 @@ processors:
       when.not.contains.tags: forwarded
   - add_cloud_metadata: ~
   - add_docker_metadata: ~
+  
+  # Parse nginx access logs
+  - dissect:
+      when.equals:
+        log_type: "nginx-access"
+      tokenizer: '%{remote_addr} - %{remote_user} [%{time_local}] "%{method} %{request} HTTP/%{http_version}" %{status} %{body_bytes_sent} "%{http_referer}" "%{http_user_agent}"'
+      field: "message"
+      target_prefix: ""
+  
+  # Convert numeric fields
+  - convert:
+      when.equals:
+        log_type: "nginx-access"
+      fields:
+        - {from: "status", to: "status", type: "integer"}
+        - {from: "body_bytes_sent", to: "body_bytes_sent", type: "integer"}
+      ignore_missing: true
+      fail_on_error: false

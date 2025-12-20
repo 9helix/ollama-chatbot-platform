@@ -3,6 +3,9 @@ const { User, Model, Chat, Message } = require("./models");
 const { Ollama } = require('ollama');
 const { client, createIndex } = require("./elasticsearch");
 const logger = require('./logger');
+const redis = require('./redis-client');
+const CACHE_TTL = 60 * 60; // 1 hour in seconds
+const MODELS_CACHE_KEY = 'ollama:models:list';
 
 // Initialize Ollama client with host from environment variable
 const ollama = new Ollama({
@@ -338,8 +341,18 @@ async function main() {
 }
 
 async function get_available_models() {
+    const cached = await redis.get(MODELS_CACHE_KEY);
+    if (cached) {
+        logger.info("Models fetched from cache", { count: JSON.parse(cached).length });
+        return JSON.parse(cached);
+    }
     const models = await Model.find({}, "label model_name description");
-    logger.info("Models fetched", { count: models.length });
+    logger.info("Models fetched from DB", { count: models.length });
+    await redis.setex(
+        MODELS_CACHE_KEY,
+        CACHE_TTL,
+        JSON.stringify(models)
+      );
     return models;
 }
 

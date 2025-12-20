@@ -39,6 +39,8 @@ services:
         condition: service_healthy
       elasticsearch:
         condition: service_healthy
+      redis:
+        condition: service_healthy
     extra_hosts:
       - "host.docker.internal:host-gateway"
     networks:
@@ -50,6 +52,7 @@ services:
       - MONGO_URL=mongodb://mongo1:27017,mongo2:27017,mongo3:27017/?replicaSet=rs0
       - OLLAMA_HOST=http://ollama:11434
       - ELASTICSEARCH_URL=http://elasticsearch:9200
+      - REDIS_URL=redis://redis:6379
     volumes:
       - ./logs:/app/logs
   
@@ -183,25 +186,25 @@ services:
       start_period: 60s
 
   # Logstash for log processing
-  logstash:
-    image: docker.elastic.co/logstash/logstash:8.11.0
-    container_name: logstash
-    ports:
-      - "5044:5044"
-      - "9600:9600"
-    environment:
-      - "LS_JAVA_OPTS=-Xms256m -Xmx256m"
-    volumes:
-      - ./logstash/pipeline:/usr/share/logstash/pipeline:ro
-      - ./logstash/config/logstash.yml:/usr/share/logstash/config/logstash.yml:ro
-      - ./logs:/logs:ro
-      - ./nginx-logs:/nginx-logs:ro
-    depends_on:
-      elasticsearch:
-        condition: service_healthy
-    networks:
-      - backend-network
-    command: logstash -f /usr/share/logstash/pipeline/logstash.conf
+  # logstash:
+  #   image: docker.elastic.co/logstash/logstash:8.11.0
+  #   container_name: logstash
+  #   ports:
+  #     - "5044:5044"
+  #     - "9600:9600"
+  #   environment:
+  #     - "LS_JAVA_OPTS=-Xms256m -Xmx256m"
+  #   volumes:
+  #     - ./logstash/pipeline:/usr/share/logstash/pipeline:ro
+  #     - ./logstash/config/logstash.yml:/usr/share/logstash/config/logstash.yml:ro
+  #     - ./logs:/logs:ro
+  #     - ./nginx-logs:/nginx-logs:ro
+  #   depends_on:
+  #     elasticsearch:
+  #       condition: service_healthy
+  #   networks:
+  #     - backend-network
+  #   command: logstash -f /usr/share/logstash/pipeline/logstash.conf
 
   # Kibana for visualization
   kibana:
@@ -240,10 +243,27 @@ services:
     depends_on:
       elasticsearch:
         condition: service_healthy
-      logstash:
-        condition: service_started
+      #logstash:
+      #  condition: service_started
     networks:
       - backend-network
+
+  redis:
+    image: redis:7-alpine
+    container_name: redis-cache
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    command: redis-server --appendonly yes --maxmemory 256mb --maxmemory-policy allkeys-lru
+    networks:
+      - backend-network
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 3s
+      retries: 3
+
 
 volumes:
   mongo1_data:
@@ -254,6 +274,7 @@ volumes:
   mongo3_config:
   es_data:
   filebeat-data:
+  redis-data:
 
 networks:
   frontend-network:
