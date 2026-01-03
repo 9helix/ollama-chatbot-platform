@@ -125,16 +125,13 @@ export const useChatStore = defineStore('chat', () => {
     
     messages.value.push(userMessage)
     //loading.value = true
-
     // Create a placeholder message for the assistant's streaming response
-    
     //messages.value.push(assistantMessage)
-
          
     const response = await axios.post(`/api/chats/${currentChat.value._id}/messages`, {
       message: content
     })
-const assistantMessage = {
+    const assistantMessage = {
       role: 'assistant',
       content: response.data.response,
       timestamp: new Date(),
@@ -144,7 +141,6 @@ const assistantMessage = {
 
   async function deleteChat(chatId) {
     try {
-      console.log("Deleting chat from store:", chatId);
       await axios.delete(`/api/chats/${chatId}`)
       chats.value = chats.value.filter(c => c._id !== chatId)
       if (currentChat.value?._id === chatId) {

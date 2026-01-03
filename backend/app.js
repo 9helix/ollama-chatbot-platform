@@ -479,6 +479,26 @@ async function delete_chat(chat_id) {
     await Message.deleteMany({ chat_id: chat_id });
     await Chat.deleteOne({ _id: chat_id });
     
+    // Delete messages from Elasticsearch
+    try {
+        await client.deleteByQuery({
+            index: "messages",
+            body: {
+                query: {
+                    term: { chat_id: chat_id.toString() }
+                }
+            }
+        });
+        logger.info("Deleted messages from Elasticsearch", { 
+            chat_id: chat_id.toString() 
+        });
+    } catch (err) {
+        logger.error("Failed to delete from Elasticsearch", {
+            error: err.message,
+            chat_id: chat_id.toString()
+        });
+    }
+    
     logger.logDbOperation('delete', 'chat+messages', Date.now() - start, true);
 }
 
