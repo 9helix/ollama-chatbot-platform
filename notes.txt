@@ -17,3 +17,9 @@ mongodb://localhost:27017,localhost:27018,localhost:27019/?replicaSet=rs0
 http://localhost:8090/ frontend
 http://localhost:5601/ kibana
 
+entering mongo shell `mongosh`
+example syntax for qeurying mongodb:
+db.messages.find({role:"user"})
+which is basically:
+select * from messages where role="user"
+
