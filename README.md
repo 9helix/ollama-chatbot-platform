@@ -19,4 +19,4 @@ To shut down all containers and delete all data:
 
 ---
 
-To access frontend, copy-paste **http://localhost:8090/** */ into URL bar.
+To access frontend, copy-paste **http://localhost:8090/** into URL bar.
