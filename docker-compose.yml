@@ -185,27 +185,6 @@ services:
       retries: 5
       start_period: 60s
 
-  # Logstash for log processing
-  # logstash:
-  #   image: docker.elastic.co/logstash/logstash:8.11.0
-  #   container_name: logstash
-  #   ports:
-  #     - "5044:5044"
-  #     - "9600:9600"
-  #   environment:
-  #     - "LS_JAVA_OPTS=-Xms256m -Xmx256m"
-  #   volumes:
-  #     - ./logstash/pipeline:/usr/share/logstash/pipeline:ro
-  #     - ./logstash/config/logstash.yml:/usr/share/logstash/config/logstash.yml:ro
-  #     - ./logs:/logs:ro
-  #     - ./nginx-logs:/nginx-logs:ro
-  #   depends_on:
-  #     elasticsearch:
-  #       condition: service_healthy
-  #   networks:
-  #     - backend-network
-  #   command: logstash -f /usr/share/logstash/pipeline/logstash.conf
-
   # Kibana for visualization
   kibana:
     image: docker.elastic.co/kibana/kibana:8.11.0
@@ -243,8 +222,6 @@ services:
     depends_on:
       elasticsearch:
         condition: service_healthy
-      #logstash:
-      #  condition: service_started
     networks:
       - backend-network
 

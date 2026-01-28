@@ -37,7 +37,7 @@ filebeat.inputs:
       - add_docker_metadata:
           host: "unix:///var/run/docker.sock"
 
-# Output directly to Elasticsearch (bypassing Logstash)
+# Output directly to Elasticsearch
 output.elasticsearch:
   hosts: ["elasticsearch:9200"]
   indices:
@@ -53,11 +53,6 @@ output.elasticsearch:
     - index: "ollama-backend-container-%{+yyyy.MM.dd}"
       when.contains:
         container.name: "backend"
-
-# If you want to use Logstash instead, comment out the above and uncomment below:
-# output.logstash:
-#   hosts: ["logstash:5044"]
-#   compression_level: 3
 
 # Logging configuration
 logging.level: info

@@ -3,6 +3,7 @@ docker compose down -v #shuts down all containers and deletes all data
 docker compose up -d --build #rebuilds backend and starts all containers
 
 curl http://localhost:8090 # test frontend
+curl http://localhost:5601 # test kibana
 
 #monitors backend logs
 docker logs backend1 -f
