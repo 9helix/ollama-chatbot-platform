@@ -19,4 +19,5 @@ To shut down all containers and delete all data:
 
 ---
 
-To access frontend, copy-paste **http://localhost:8090/** into URL bar.
+To access frontend, copy-paste **http://localhost:8090/** into URL bar. Default username is **admin** and password **admin123**.
+Kibana can be accessed via **http://localhost:5601**.
