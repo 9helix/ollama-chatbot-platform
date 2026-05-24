@@ -4,6 +4,7 @@ const { Ollama } = require('ollama');
 const { client, createIndex } = require("./elasticsearch");
 const logger = require('./logger');
 const redis = require('./redis-client');
+const { initKafka } = require("./kafka/kafka");
 const CACHE_TTL = 60 * 60; // 1 hour in seconds
 const MODELS_CACHE_KEY = 'ollama:models:list';
 
@@ -29,6 +30,14 @@ async function main() {
 
     await mongoose.connect(url);
     logger.info("Connected successfully to MongoDB!");
+
+    // Initialize Kafka for sentiment analysis
+    try {
+        await initKafka();
+        logger.info("Kafka initialized successfully");
+    } catch (err) {
+        logger.error("Failed to initialize Kafka", { error: err.message });
+    }
 
     // Ensure indexes are created
     const indexStart = Date.now();
@@ -391,7 +400,8 @@ async function create_message(chat_id, role, content, request_id) {
             request_id,
             chat_id: chat_id.toString(),
             role,
-            content_length: content.length
+            content_length: content.length,
+            sentiment: sentiment
         });
 
         // Index in Elasticsearch
@@ -460,6 +470,11 @@ async function get_response(model_name, chat_id, message, request_id) {
         if (sentiment==="NEGATIVE") {
             //let systemPrompt="";
             let systemPrompt = "User appears frustrated. Be concise, calm and helpful.";
+            logger.info("Negative sentiment detected, injecting system prompt", {
+                request_id,
+                chat_id: chat_id.toString(),
+                sentiment
+            });
             processed_messages.unshift({
                 role: "system",
                 content: systemPrompt

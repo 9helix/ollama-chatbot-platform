@@ -1,13 +1,15 @@
-const axios = require("axios");
+const { requestSentiment } = require("./kafka/kafka");
+const logger = require("./logger");
 
 async function predictSentiment(message) {
     try {
-        const response = await axios.post(
-            "http://sentiment_service:5000/predict", { message }
-        );
-        return response.data.sentiment;
+        const sentiment = await requestSentiment(message);
+        return sentiment || "NEUTRAL";
     } catch (err) {
-        console.error("Sentiment failed", err.message);
+        logger.error("Sentiment prediction failed via Kafka", {
+            error: err.message,
+            message: message.substring(0, 50) + (message.length > 50 ? "..." : "")
+        });
         return "NEUTRAL";
     }
 }
