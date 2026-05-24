@@ -243,6 +243,15 @@ services:
       interval: 10s
       timeout: 3s
       retries: 3
+  
+  sentiment-service:
+    build:
+      context: ./sentiment_service
+    container_name: sentiment_service
+    expose:
+      - "5000"
+    networks:
+      - backend-network
 
 
 volumes:

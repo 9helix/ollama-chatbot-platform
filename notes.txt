@@ -22,4 +22,3 @@ example syntax for qeurying mongodb:
 db.messages.find({role:"user"})
 which is basically:
 select * from messages where role="user"
-

@@ -11,6 +11,9 @@ const MODELS_CACHE_KEY = 'ollama:models:list';
 const ollama = new Ollama({
     host: process.env.OLLAMA_HOST || 'http://localhost:11434'
 });
+const {
+    predictSentiment
+} = require("./sentiment");
 
 // Connection URL
 const url =
@@ -449,6 +452,23 @@ async function get_response(model_name, chat_id, message, request_id) {
             const filter_message = (({ role, content }) => ({ role, content }))(message);
             processed_messages.push(filter_message);
         }
+
+        const sentiment = await predictSentiment(message);
+        if (sentiment==="NEGATIVE") {
+            let systemPrompt="";
+            systemPrompt = "User appears frustrated. Be concise, calm and helpful.";
+            processed_messages.unshift({
+                role: "system",
+                content: systemPrompt
+            });
+        }/*
+        else if (sentiment==="POSITIVE") {
+            systemPrompt = "User is positive. Maintain friendly tone.";
+        } else {
+            systemPrompt = "Maintain neutral helpful tone.";
+        }*/
+
+        console.log(sentiment)
         processed_messages.push({ role: "user", content: message });
         
         const stream = await ollama.chat({
