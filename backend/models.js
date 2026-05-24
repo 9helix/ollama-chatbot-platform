@@ -58,7 +58,7 @@ const messageSchema = new mongoose.Schema({
     role: { type: String, enum: ['user', 'assistant', 'system'], required: true },
     content: { type: String, required: true },
     created_at: { type: Date, default: Date.now },
-    //token count
+    sentiment: { type: String, enum: ["NEGATIVE", "NEUTRAL", "POSITIVE"], default: "NEUTRAL"}
 })
 messageSchema.index({ content: "text" });  // full-text index
 

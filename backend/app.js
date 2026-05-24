@@ -377,11 +377,14 @@ async function create_chat(user_id, model_id, title, initial_message, request_id
 }
 
 async function create_message(chat_id, role, content, request_id) {
+    const sentiment = await predictSentiment(content);
     const start = Date.now();
+
     await Message.create({
         chat_id: chat_id,
         role: role,
         content: content,
+        sentiment
     }).then(msg => {
         logger.logDbOperation('create', 'message', Date.now() - start, true);
         logger.info("Message saved", {
@@ -455,8 +458,8 @@ async function get_response(model_name, chat_id, message, request_id) {
 
         const sentiment = await predictSentiment(message);
         if (sentiment==="NEGATIVE") {
-            let systemPrompt="";
-            systemPrompt = "User appears frustrated. Be concise, calm and helpful.";
+            //let systemPrompt="";
+            let systemPrompt = "User appears frustrated. Be concise, calm and helpful.";
             processed_messages.unshift({
                 role: "system",
                 content: systemPrompt
@@ -467,8 +470,6 @@ async function get_response(model_name, chat_id, message, request_id) {
         } else {
             systemPrompt = "Maintain neutral helpful tone.";
         }*/
-
-        console.log(sentiment)
         processed_messages.push({ role: "user", content: message });
         
         const stream = await ollama.chat({
