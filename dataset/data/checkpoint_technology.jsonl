@@ -1,0 +1,1654 @@
+{"text": "That actually cleared up a lot of confusion I had about networking.", "label": "POSITIVE", "domain": "technology", "batch": 0}
+{"text": "I get it now, thanks for breaking it down so simply.", "label": "POSITIVE", "domain": "technology", "batch": 0}
+{"text": "That’s exactly what I needed, no fluff, just the facts.", "label": "POSITIVE", "domain": "technology", "batch": 0}
+{"text": "Wow, that’s way more accurate than I expected.", "label": "POSITIVE", "domain": "technology", "batch": 0}
+{"text": "Exactly what I was looking for, no need to over-explain.", "label": "POSITIVE", "domain": "technology", "batch": 0}
+{"text": "That’s not right, I’ve seen the updated specs already.", "label": "NEGATIVE", "domain": "technology", "batch": 0}
+{"text": "You missed the main point completely, that’s frustrating.", "label": "NEGATIVE", "domain": "technology", "batch": 0}
+{"text": "I tried that and it didn’t fix the issue at all.", "label": "NEGATIVE", "domain": "technology", "batch": 0}
+{"text": "That answer is way too generic, I need specifics.", "label": "NEGATIVE", "domain": "technology", "batch": 0}
+{"text": "Can it be used with multiple devices at once?", "label": "NEUTRAL", "domain": "technology", "batch": 0}
+{"text": "What if the device is offline?", "label": "NEUTRAL", "domain": "technology", "batch": 0}
+{"text": "How long does the setup process usually take?", "label": "NEUTRAL", "domain": "technology", "batch": 0}
+{"text": "That’s the clearest explanation I’ve ever heard.", "label": "POSITIVE", "domain": "technology", "batch": 0}
+{"text": "Finally, someone got it right, thanks for the help.", "label": "POSITIVE", "domain": "technology", "batch": 0}
+{"text": "I didn’t know it could be that simple, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 0}
+{"text": "That’s exactly what I needed, no extra fluff.", "label": "POSITIVE", "domain": "technology", "batch": 0}
+{"text": "That’s not helpful, I need a step-by-step guide.", "label": "NEGATIVE", "domain": "technology", "batch": 0}
+{"text": "You didn’t address the main problem, that’s a problem.", "label": "NEGATIVE", "domain": "technology", "batch": 0}
+{"text": "This is way too vague, I need real details.", "label": "NEGATIVE", "domain": "technology", "batch": 0}
+{"text": "Is there a way to automate this process?", "label": "NEUTRAL", "domain": "technology", "batch": 0}
+{"text": "What happens if the system is already updated?", "label": "NEUTRAL", "domain": "technology", "batch": 0}
+{"text": "Are there any compatibility issues I should know about?", "label": "NEUTRAL", "domain": "technology", "batch": 0}
+{"text": "That actually cleared up a lot of confusion I had about cloud storage.", "label": "POSITIVE", "domain": "technology", "batch": 1}
+{"text": "You nailed it, that’s exactly how I’ve been using it all along.", "label": "POSITIVE", "domain": "technology", "batch": 1}
+{"text": "I didn’t know it could do that, thanks for the tip!", "label": "POSITIVE", "domain": "technology", "batch": 1}
+{"text": "So simple, why didn’t I think of that before?", "label": "POSITIVE", "domain": "technology", "batch": 1}
+{"text": "Exactly what I needed, no fluff, just the facts.", "label": "POSITIVE", "domain": "technology", "batch": 1}
+{"text": "That’s not accurate, I’ve seen the official docs say otherwise.", "label": "NEGATIVE", "domain": "technology", "batch": 1}
+{"text": "You missed the main point completely, this is way more complicated.", "label": "NEGATIVE", "domain": "technology", "batch": 1}
+{"text": "That’s not helpful, I already knew about basic DNS.", "label": "NEGATIVE", "domain": "technology", "batch": 1}
+{"text": "I tried what you said and it didn’t fix the issue at all.", "label": "NEGATIVE", "domain": "technology", "batch": 1}
+{"text": "Can you explain it without using technical jargon?", "label": "NEUTRAL", "domain": "technology", "batch": 1}
+{"text": "What if the device is already connected to another network?", "label": "NEUTRAL", "domain": "technology", "batch": 1}
+{"text": "Are there any alternatives to using a router for this?", "label": "NEUTRAL", "domain": "technology", "batch": 1}
+{"text": "Does this affect data usage in any way?", "label": "NEUTRAL", "domain": "technology", "batch": 1}
+{"text": "That’s the best breakdown I’ve ever seen on this topic.", "label": "POSITIVE", "domain": "technology", "batch": 1}
+{"text": "You made it sound so easy, I’m going to try it right now.", "label": "POSITIVE", "domain": "technology", "batch": 1}
+{"text": "Finally, someone got it right, thanks for the clarity.", "label": "POSITIVE", "domain": "technology", "batch": 1}
+{"text": "That’s exactly what I needed, no more guesswork.", "label": "POSITIVE", "domain": "technology", "batch": 1}
+{"text": "Way better than the tutorials I’ve seen online.", "label": "POSITIVE", "domain": "technology", "batch": 1}
+{"text": "That’s not the full picture, there are other factors involved.", "label": "NEGATIVE", "domain": "technology", "batch": 1}
+{"text": "You didn’t address the most common issues people face.", "label": "NEGATIVE", "domain": "technology", "batch": 1}
+{"text": "This answer is too generic, I need specifics.", "label": "NEGATIVE", "domain": "technology", "batch": 1}
+{"text": "That actually cleared up a lot of confusion I had about cloud storage.", "label": "POSITIVE", "domain": "technology", "batch": 1}
+{"text": "You nailed it, that’s exactly how I’ve been using it all along.", "label": "POSITIVE", "domain": "technology", "batch": 1}
+{"text": "I didn’t know it could do that, thanks for the tip!", "label": "POSITIVE", "domain": "technology", "batch": 1}
+{"text": "So simple, why didn’t I think of that before?", "label": "POSITIVE", "domain": "technology", "batch": 1}
+{"text": "Exactly what I needed, no fluff, just the facts.", "label": "POSITIVE", "domain": "technology", "batch": 1}
+{"text": "That’s not accurate, I’ve seen the official docs say otherwise.", "label": "NEGATIVE", "domain": "technology", "batch": 1}
+{"text": "You missed the main point completely, this is way more complicated.", "label": "NEGATIVE", "domain": "technology", "batch": 1}
+{"text": "That’s not helpful, I already knew about basic DNS.", "label": "NEGATIVE", "domain": "technology", "batch": 1}
+{"text": "I tried what you said and it didn’t fix the issue at all.", "label": "NEGATIVE", "domain": "technology", "batch": 1}
+{"text": "Can you explain it without using technical jargon?", "label": "NEUTRAL", "domain": "technology", "batch": 1}
+{"text": "What if the device is already connected to another network?", "label": "NEUTRAL", "domain": "technology", "batch": 1}
+{"text": "Are there any alternatives to using a router for this?", "label": "NEUTRAL", "domain": "technology", "batch": 1}
+{"text": "Does this affect data usage in any way?", "label": "NEUTRAL", "domain": "technology", "batch": 1}
+{"text": "That’s the best breakdown I’ve ever seen on this topic.", "label": "POSITIVE", "domain": "technology", "batch": 1}
+{"text": "You made it sound so easy, I’m going to try it right now.", "label": "POSITIVE", "domain": "technology", "batch": 1}
+{"text": "Finally, someone got it right, thanks for the clarity.", "label": "POSITIVE", "domain": "technology", "batch": 1}
+{"text": "That’s exactly what I needed, no more guesswork.", "label": "POSITIVE", "domain": "technology", "batch": 1}
+{"text": "Way better than the tutorials I’ve seen online.", "label": "POSITIVE", "domain": "technology", "batch": 1}
+{"text": "That’s not the full picture, there are other factors involved.", "label": "NEGATIVE", "domain": "technology", "batch": 1}
+{"text": "You didn’t address the most common issues people face.", "label": "NEGATIVE", "domain": "technology", "batch": 1}
+{"text": "This answer is too generic, I need specifics.", "label": "NEGATIVE", "domain": "technology", "batch": 1}
+{"text": "How does it handle multiple devices at once?", "label": "NEUTRAL", "domain": "technology", "batch": 1}
+{"text": "What happens if the connection drops during the process?", "label": "NEUTRAL", "domain": "technology", "batch": 1}
+{"text": "That actually made everything click, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 2}
+{"text": "You nailed it, that’s exactly how I’ve been using it.", "label": "POSITIVE", "domain": "technology", "batch": 2}
+{"text": "So simple, why didn’t I think of that?", "label": "POSITIVE", "domain": "technology", "batch": 2}
+{"text": "Exactly what I needed, no fluff.", "label": "POSITIVE", "domain": "technology", "batch": 2}
+{"text": "Wow, that’s a solid breakdown.", "label": "POSITIVE", "domain": "technology", "batch": 2}
+{"text": "No, that’s not how it works at all.", "label": "NEGATIVE", "domain": "technology", "batch": 2}
+{"text": "You missed the main point completely.", "label": "NEGATIVE", "domain": "technology", "batch": 2}
+{"text": "That’s not even close to accurate.", "label": "NEGATIVE", "domain": "technology", "batch": 2}
+{"text": "I tried that and it messed up my system.", "label": "NEGATIVE", "domain": "technology", "batch": 2}
+{"text": "This is way too basic for what I need.", "label": "NEGATIVE", "domain": "technology", "batch": 2}
+{"text": "Can it be done on a budget?", "label": "NEUTRAL", "domain": "technology", "batch": 2}
+{"text": "What about if the device is offline?", "label": "NEUTRAL", "domain": "technology", "batch": 2}
+{"text": "Does it require an internet connection?", "label": "NEUTRAL", "domain": "technology", "batch": 2}
+{"text": "What’s the minimum storage needed?", "label": "NEUTRAL", "domain": "technology", "batch": 2}
+{"text": "Are there any alternatives to that method?", "label": "NEUTRAL", "domain": "technology", "batch": 2}
+{"text": "That’s exactly what I was looking for!", "label": "POSITIVE", "domain": "technology", "batch": 2}
+{"text": "You explained it better than my teacher.", "label": "POSITIVE", "domain": "technology", "batch": 2}
+{"text": "So clear, I get it now!", "label": "POSITIVE", "domain": "technology", "batch": 2}
+{"text": "That’s the best answer I’ve ever seen.", "label": "POSITIVE", "domain": "technology", "batch": 2}
+{"text": "You made it so easy to understand.", "label": "POSITIVE", "domain": "technology", "batch": 2}
+{"text": "That’s not helpful at all, I’m stuck.", "label": "NEGATIVE", "domain": "technology", "batch": 2}
+{"text": "You didn’t answer the actual question.", "label": "NEGATIVE", "domain": "technology", "batch": 2}
+{"text": "This is way too vague, I need specifics.", "label": "NEGATIVE", "domain": "technology", "batch": 2}
+{"text": "I followed your steps and it didn’t help.", "label": "NEGATIVE", "domain": "technology", "batch": 2}
+{"text": "What if the user has limited tech skills?", "label": "NEUTRAL", "domain": "technology", "batch": 2}
+{"text": "That actually clarified everything I was confused about!", "label": "POSITIVE", "domain": "technology", "batch": 3}
+{"text": "Wow, you made that super easy to understand.", "label": "POSITIVE", "domain": "technology", "batch": 3}
+{"text": "Exactly what I needed, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 3}
+{"text": "That’s the best explanation I’ve heard so far.", "label": "POSITIVE", "domain": "technology", "batch": 3}
+{"text": "I get it now, thanks for breaking it down.", "label": "POSITIVE", "domain": "technology", "batch": 3}
+{"text": "That’s not right — I’ve seen the updated version.", "label": "NEGATIVE", "domain": "technology", "batch": 3}
+{"text": "You missed the main point entirely.", "label": "NEGATIVE", "domain": "technology", "batch": 3}
+{"text": "This doesn’t help at all, I’m still stuck.", "label": "NEGATIVE", "domain": "technology", "batch": 3}
+{"text": "This is way too basic, I expected more.", "label": "NEGATIVE", "domain": "technology", "batch": 3}
+{"text": "What if I’m using a different browser?", "label": "NEUTRAL", "domain": "technology", "batch": 3}
+{"text": "Can you explain it without technical terms?", "label": "NEUTRAL", "domain": "technology", "batch": 3}
+{"text": "How does this affect older devices?", "label": "NEUTRAL", "domain": "technology", "batch": 3}
+{"text": "Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "technology", "batch": 3}
+{"text": "What if the file is corrupted?", "label": "NEUTRAL", "domain": "technology", "batch": 3}
+{"text": "That’s exactly what I was looking for!", "label": "POSITIVE", "domain": "technology", "batch": 3}
+{"text": "You nailed it, thanks for the help.", "label": "POSITIVE", "domain": "technology", "batch": 3}
+{"text": "This is the clearest answer I’ve ever gotten.", "label": "POSITIVE", "domain": "technology", "batch": 3}
+{"text": "I feel like I finally get it now.", "label": "POSITIVE", "domain": "technology", "batch": 3}
+{"text": "That’s the perfect summary, no need for more.", "label": "POSITIVE", "domain": "technology", "batch": 3}
+{"text": "This is all wrong, I’ve tried it before.", "label": "NEGATIVE", "domain": "technology", "batch": 3}
+{"text": "You didn’t cover the important parts.", "label": "NEGATIVE", "domain": "technology", "batch": 3}
+{"text": "That’s not helpful, I need specifics.", "label": "NEGATIVE", "domain": "technology", "batch": 3}
+{"text": "What about if there’s no internet?", "label": "NEUTRAL", "domain": "technology", "batch": 3}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 4}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 4}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 4}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 4}
+{"text": "That’s exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 4}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 4}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 4}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 4}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 4}
+{"text": "This doesn’t cover the main issue at all.", "label": "NEGATIVE", "domain": "technology", "batch": 4}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 4}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 4}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 4}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 4}
+{"text": "Can you clarify how that affects performance?", "label": "NEUTRAL", "domain": "technology", "batch": 4}
+{"text": "You nailed it, that’s exactly how it works.", "label": "POSITIVE", "domain": "technology", "batch": 4}
+{"text": "That’s the clearest explanation I’ve ever heard.", "label": "POSITIVE", "domain": "technology", "batch": 4}
+{"text": "I get it now, thanks so much!", "label": "POSITIVE", "domain": "technology", "batch": 4}
+{"text": "That’s the kind of detail I needed.", "label": "POSITIVE", "domain": "technology", "batch": 4}
+{"text": "You made that super easy to understand.", "label": "POSITIVE", "domain": "technology", "batch": 4}
+{"text": "That’s not accurate, I’ve seen it work differently.", "label": "NEGATIVE", "domain": "technology", "batch": 4}
+{"text": "You missed the key point here.", "label": "NEGATIVE", "domain": "technology", "batch": 4}
+{"text": "This isn’t helpful at all, I need specifics.", "label": "NEGATIVE", "domain": "technology", "batch": 4}
+{"text": "What if the device is not connected to Wi-Fi?", "label": "NEUTRAL", "domain": "technology", "batch": 4}
+{"text": "Are there any alternatives to that method?", "label": "NEUTRAL", "domain": "technology", "batch": 4}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 5}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 5}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 5}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 5}
+{"text": "You nailed it, I feel so much smarter now.", "label": "POSITIVE", "domain": "technology", "batch": 5}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 5}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 5}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 5}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 5}
+{"text": "This is completely wrong, I've seen the real process.", "label": "NEGATIVE", "domain": "technology", "batch": 5}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 5}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 5}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 5}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 5}
+{"text": "Can you explain that again in simpler terms?", "label": "NEUTRAL", "domain": "technology", "batch": 5}
+{"text": "That’s exactly what I needed, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 5}
+{"text": "You made that super clear, no confusion at all.", "label": "POSITIVE", "domain": "technology", "batch": 5}
+{"text": "That’s the best explanation I’ve heard so far.", "label": "POSITIVE", "domain": "technology", "batch": 5}
+{"text": "I get it now, thanks for breaking it down.", "label": "POSITIVE", "domain": "technology", "batch": 5}
+{"text": "You missed the main point entirely, that’s frustrating.", "label": "NEGATIVE", "domain": "technology", "batch": 5}
+{"text": "What if the user has a slower internet connection?", "label": "NEUTRAL", "domain": "technology", "batch": 5}
+{"text": "Could there be other ways to do that?", "label": "NEUTRAL", "domain": "technology", "batch": 5}
+{"text": "Are there any alternatives to that method?", "label": "NEUTRAL", "domain": "technology", "batch": 5}
+{"text": "What if the device is not connected to Wi-Fi?", "label": "NEUTRAL", "domain": "technology", "batch": 5}
+{"text": "Wow, that’s the clearest explanation I’ve ever heard.", "label": "POSITIVE", "domain": "technology", "batch": 5}
+{"text": "That actually cleared up my confusion about cloud storage.", "label": "POSITIVE", "domain": "technology", "batch": 6}
+{"text": "You made it sound so simple, I get it now.", "label": "POSITIVE", "domain": "technology", "batch": 6}
+{"text": "Exactly what I needed, thanks for the help!", "label": "POSITIVE", "domain": "technology", "batch": 6}
+{"text": "This is way better than the textbook explanation.", "label": "POSITIVE", "domain": "technology", "batch": 6}
+{"text": "Wow, that’s spot on, I didn’t know that.", "label": "POSITIVE", "domain": "technology", "batch": 6}
+{"text": "That’s not how it works, I’ve seen the official docs.", "label": "NEGATIVE", "domain": "technology", "batch": 6}
+{"text": "You missed the key part about data encryption.", "label": "NEGATIVE", "domain": "technology", "batch": 6}
+{"text": "This answer is way too basic, I expected more.", "label": "NEGATIVE", "domain": "technology", "batch": 6}
+{"text": "I tried that and it didn’t fix the issue.", "label": "NEGATIVE", "domain": "technology", "batch": 6}
+{"text": "That’s not accurate, I’ve used it before.", "label": "NEGATIVE", "domain": "technology", "batch": 6}
+{"text": "Can you explain how it affects performance?", "label": "NEUTRAL", "domain": "technology", "batch": 6}
+{"text": "What if the device is already encrypted?", "label": "NEUTRAL", "domain": "technology", "batch": 6}
+{"text": "Is there a way to bypass that limitation?", "label": "NEUTRAL", "domain": "technology", "batch": 6}
+{"text": "How does that affect battery life?", "label": "NEUTRAL", "domain": "technology", "batch": 6}
+{"text": "Does it require a specific OS version?", "label": "NEUTRAL", "domain": "technology", "batch": 6}
+{"text": "That’s exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 6}
+{"text": "I finally understand how that process works.", "label": "POSITIVE", "domain": "technology", "batch": 6}
+{"text": "That’s a solid explanation, no need for more.", "label": "POSITIVE", "domain": "technology", "batch": 6}
+{"text": "I didn’t know it could be done that way.", "label": "POSITIVE", "domain": "technology", "batch": 6}
+{"text": "You nailed it, that’s exactly right.", "label": "POSITIVE", "domain": "technology", "batch": 6}
+{"text": "That’s not helpful, it’s too generic.", "label": "NEGATIVE", "domain": "technology", "batch": 6}
+{"text": "You didn’t address the main problem.", "label": "NEGATIVE", "domain": "technology", "batch": 6}
+{"text": "I followed your steps and it still didn’t work.", "label": "NEGATIVE", "domain": "technology", "batch": 6}
+{"text": "That’s not the correct procedure at all.", "label": "NEGATIVE", "domain": "technology", "batch": 6}
+{"text": "What happens if the system is offline?", "label": "NEUTRAL", "domain": "technology", "batch": 6}
+{"text": "That actually clarified everything I was confused about!", "label": "POSITIVE", "domain": "technology", "batch": 7}
+{"text": "Wow, you made that super easy to understand!", "label": "POSITIVE", "domain": "technology", "batch": 7}
+{"text": "I get it now, thanks for breaking it down!", "label": "POSITIVE", "domain": "technology", "batch": 7}
+{"text": "That’s exactly what I needed, no more head scratching!", "label": "POSITIVE", "domain": "technology", "batch": 7}
+{"text": "You nailed it, that’s the best explanation I’ve heard!", "label": "POSITIVE", "domain": "technology", "batch": 7}
+{"text": "That’s not right, I’ve seen the official docs say otherwise.", "label": "NEGATIVE", "domain": "technology", "batch": 7}
+{"text": "You missed the main point, this is way more complicated.", "label": "NEGATIVE", "domain": "technology", "batch": 7}
+{"text": "This is way too simple, I expected more details.", "label": "NEGATIVE", "domain": "technology", "batch": 7}
+{"text": "That’s not helpful at all, I need real info.", "label": "NEGATIVE", "domain": "technology", "batch": 7}
+{"text": "Can you explain how it affects data privacy?", "label": "NEUTRAL", "domain": "technology", "batch": 7}
+{"text": "What happens if the device is offline?", "label": "NEUTRAL", "domain": "technology", "batch": 7}
+{"text": "Are there any alternatives to that method?", "label": "NEUTRAL", "domain": "technology", "batch": 7}
+{"text": "Does it require an internet connection?", "label": "NEUTRAL", "domain": "technology", "batch": 7}
+{"text": "What if the user doesn’t have admin rights?", "label": "NEUTRAL", "domain": "technology", "batch": 7}
+{"text": "That’s the clearest explanation I’ve ever heard!", "label": "POSITIVE", "domain": "technology", "batch": 7}
+{"text": "I finally get it, thanks so much for helping!", "label": "POSITIVE", "domain": "technology", "batch": 7}
+{"text": "That answer was spot on, exactly what I needed!", "label": "POSITIVE", "domain": "technology", "batch": 7}
+{"text": "You made a really complex topic simple!", "label": "POSITIVE", "domain": "technology", "batch": 7}
+{"text": "That’s the perfect summary, I’m so glad you explained it!", "label": "POSITIVE", "domain": "technology", "batch": 7}
+{"text": "That’s not accurate, I’ve tested it myself.", "label": "NEGATIVE", "domain": "technology", "batch": 7}
+{"text": "You didn’t cover the key steps, this is incomplete.", "label": "NEGATIVE", "domain": "technology", "batch": 7}
+{"text": "This is confusing, can you rephrase it?", "label": "NEGATIVE", "domain": "technology", "batch": 7}
+{"text": "That answer is too generic, I need specifics.", "label": "NEGATIVE", "domain": "technology", "batch": 7}
+{"text": "That’s the clearest explanation I’ve ever heard!", "label": "POSITIVE", "domain": "technology", "batch": 7}
+{"text": "I finally get it, thanks so much for helping!", "label": "POSITIVE", "domain": "technology", "batch": 7}
+{"text": "That answer was spot on, exactly what I needed!", "label": "POSITIVE", "domain": "technology", "batch": 7}
+{"text": "You made a really complex topic simple!", "label": "POSITIVE", "domain": "technology", "batch": 7}
+{"text": "That’s the perfect summary, I’m so glad you explained it!", "label": "POSITIVE", "domain": "technology", "batch": 7}
+{"text": "That’s not accurate, I’ve tested it myself.", "label": "NEGATIVE", "domain": "technology", "batch": 7}
+{"text": "You didn’t cover the key steps, this is incomplete.", "label": "NEGATIVE", "domain": "technology", "batch": 7}
+{"text": "This is confusing, can you rephrase it?", "label": "NEGATIVE", "domain": "technology", "batch": 7}
+{"text": "That answer is too generic, I need specifics.", "label": "NEGATIVE", "domain": "technology", "batch": 7}
+{"text": "Can you explain how it affects data privacy?", "label": "NEUTRAL", "domain": "technology", "batch": 7}
+{"text": "What happens if the device is offline?", "label": "NEUTRAL", "domain": "technology", "batch": 7}
+{"text": "Are there any alternatives to that method?", "label": "NEUTRAL", "domain": "technology", "batch": 7}
+{"text": "Does it require an internet connection?", "label": "NEUTRAL", "domain": "technology", "batch": 7}
+{"text": "What if the user doesn’t have admin rights?", "label": "NEUTRAL", "domain": "technology", "batch": 7}
+{"text": "That actually cleared up my confusion about DNS completely.", "label": "POSITIVE", "domain": "technology", "batch": 8}
+{"text": "Wow, I didn't know it could be that simple.", "label": "POSITIVE", "domain": "technology", "batch": 8}
+{"text": "Exactly what I needed, thanks for the help!", "label": "POSITIVE", "domain": "technology", "batch": 8}
+{"text": "That makes total sense now, I feel dumb for not getting it before.", "label": "POSITIVE", "domain": "technology", "batch": 8}
+{"text": "You nailed it, that's the best explanation I've heard.", "label": "POSITIVE", "domain": "technology", "batch": 8}
+{"text": "You missed the main point entirely, that's not how it works.", "label": "NEGATIVE", "domain": "technology", "batch": 8}
+{"text": "That's not accurate, I've seen the official docs.", "label": "NEGATIVE", "domain": "technology", "batch": 8}
+{"text": "I tried that and it didn't fix the issue, what's wrong here?", "label": "NEGATIVE", "domain": "technology", "batch": 8}
+{"text": "This answer is way too basic, I need more depth.", "label": "NEGATIVE", "domain": "technology", "batch": 8}
+{"text": "Can you explain it without technical jargon?", "label": "NEUTRAL", "domain": "technology", "batch": 8}
+{"text": "Is there a way to bypass that restriction?", "label": "NEUTRAL", "domain": "technology", "batch": 8}
+{"text": "Does it affect battery life in any way?", "label": "NEUTRAL", "domain": "technology", "batch": 8}
+{"text": "That's exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 8}
+{"text": "You made it easy to understand, no confusion here.", "label": "POSITIVE", "domain": "technology", "batch": 8}
+{"text": "I get it now, that's the key part I was missing.", "label": "POSITIVE", "domain": "technology", "batch": 8}
+{"text": "That's the most straightforward explanation ever.", "label": "POSITIVE", "domain": "technology", "batch": 8}
+{"text": "This is way off, I'm not even sure where to start.", "label": "NEGATIVE", "domain": "technology", "batch": 8}
+{"text": "You didn't address the main problem at all.", "label": "NEGATIVE", "domain": "technology", "batch": 8}
+{"text": "That's not helpful, I need actual solutions.", "label": "NEGATIVE", "domain": "technology", "batch": 8}
+{"text": "I've tried everything you said and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 8}
+{"text": "Are there any alternatives to that method?", "label": "NEUTRAL", "domain": "technology", "batch": 8}
+{"text": "What if the user has limited technical skills?", "label": "NEUTRAL", "domain": "technology", "batch": 8}
+{"text": "Can it be done without any additional tools?", "label": "NEUTRAL", "domain": "technology", "batch": 8}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 9}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 9}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 9}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 9}
+{"text": "You nailed it, never thought about it that way.", "label": "POSITIVE", "domain": "technology", "batch": 9}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 9}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 9}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 9}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 9}
+{"text": "You missed the main point entirely, that's not how it works.", "label": "NEGATIVE", "domain": "technology", "batch": 9}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 9}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 9}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 9}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 9}
+{"text": "Can I do that on my phone?", "label": "NEUTRAL", "domain": "technology", "batch": 9}
+{"text": "What if I have a different setup?", "label": "NEUTRAL", "domain": "technology", "batch": 9}
+{"text": "Are there any alternatives to that method?", "label": "NEUTRAL", "domain": "technology", "batch": 9}
+{"text": "What about if I'm on a public Wi-Fi?", "label": "NEUTRAL", "domain": "technology", "batch": 9}
+{"text": "Does that affect battery life?", "label": "NEUTRAL", "domain": "technology", "batch": 9}
+{"text": "What if I have multiple devices connected?", "label": "NEUTRAL", "domain": "technology", "batch": 9}
+{"text": "How long does that process take?", "label": "NEUTRAL", "domain": "technology", "batch": 9}
+{"text": "Can I reverse it if I change my mind?", "label": "NEUTRAL", "domain": "technology", "batch": 9}
+{"text": "What if I don't have admin rights?", "label": "NEUTRAL", "domain": "technology", "batch": 9}
+{"text": "Does that work on Windows 10?", "label": "NEUTRAL", "domain": "technology", "batch": 9}
+{"text": "That actually made everything click, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 10}
+{"text": "Wow, that's way clearer than the manual.", "label": "POSITIVE", "domain": "technology", "batch": 10}
+{"text": "Exactly what I needed, no fluff.", "label": "POSITIVE", "domain": "technology", "batch": 10}
+{"text": "You nailed it, that's so helpful.", "label": "POSITIVE", "domain": "technology", "batch": 10}
+{"text": "I get it now, finally!", "label": "POSITIVE", "domain": "technology", "batch": 10}
+{"text": "That's not how it works at all.", "label": "NEGATIVE", "domain": "technology", "batch": 10}
+{"text": "You missed the main point entirely.", "label": "NEGATIVE", "domain": "technology", "batch": 10}
+{"text": "This is way too basic, I need more.", "label": "NEGATIVE", "domain": "technology", "batch": 10}
+{"text": "That's not even close to accurate.", "label": "NEGATIVE", "domain": "technology", "batch": 10}
+{"text": "I tried that and it failed completely.", "label": "NEGATIVE", "domain": "technology", "batch": 10}
+{"text": "What if the user has multiple accounts?", "label": "NEUTRAL", "domain": "technology", "batch": 10}
+{"text": "Can this be done on a mobile device?", "label": "NEUTRAL", "domain": "technology", "batch": 10}
+{"text": "How does this affect battery life?", "label": "NEUTRAL", "domain": "technology", "batch": 10}
+{"text": "What about if the device is offline?", "label": "NEUTRAL", "domain": "technology", "batch": 10}
+{"text": "Are there any known issues with this method?", "label": "NEUTRAL", "domain": "technology", "batch": 10}
+{"text": "That's exactly what I was looking for!", "label": "POSITIVE", "domain": "technology", "batch": 10}
+{"text": "You broke it down so simply, thanks.", "label": "POSITIVE", "domain": "technology", "batch": 10}
+{"text": "I feel confident now, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 10}
+{"text": "That’s the best explanation I’ve heard.", "label": "POSITIVE", "domain": "technology", "batch": 10}
+{"text": "You made it so easy to understand.", "label": "POSITIVE", "domain": "technology", "batch": 10}
+{"text": "That’s not helpful at all, honestly.", "label": "NEGATIVE", "domain": "technology", "batch": 10}
+{"text": "This answer is completely useless.", "label": "NEGATIVE", "domain": "technology", "batch": 10}
+{"text": "You didn’t even answer the question.", "label": "NEGATIVE", "domain": "technology", "batch": 10}
+{"text": "I expected more from this.", "label": "NEGATIVE", "domain": "technology", "batch": 10}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 10}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 10}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 10}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 10}
+{"text": "That actually made everything click, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 10}
+{"text": "Wow, that's way clearer than the manual.", "label": "POSITIVE", "domain": "technology", "batch": 10}
+{"text": "Exactly what I needed, no fluff.", "label": "POSITIVE", "domain": "technology", "batch": 10}
+{"text": "You nailed it, that's so helpful.", "label": "POSITIVE", "domain": "technology", "batch": 10}
+{"text": "I get it now, finally!", "label": "POSITIVE", "domain": "technology", "batch": 10}
+{"text": "You broke it down so simply, thanks.", "label": "POSITIVE", "domain": "technology", "batch": 10}
+{"text": "That's not how it works at all.", "label": "NEGATIVE", "domain": "technology", "batch": 10}
+{"text": "You missed the main point entirely.", "label": "NEGATIVE", "domain": "technology", "batch": 10}
+{"text": "This is way too basic, I need more.", "label": "NEGATIVE", "domain": "technology", "batch": 10}
+{"text": "That's not even close to accurate.", "label": "NEGATIVE", "domain": "technology", "batch": 10}
+{"text": "I tried that and it failed completely.", "label": "NEGATIVE", "domain": "technology", "batch": 10}
+{"text": "That's not helpful at all, honestly.", "label": "NEGATIVE", "domain": "technology", "batch": 10}
+{"text": "This answer is completely useless.", "label": "NEGATIVE", "domain": "technology", "batch": 10}
+{"text": "You didn’t even answer the question.", "label": "NEGATIVE", "domain": "technology", "batch": 10}
+{"text": "I expected more from this.", "label": "NEGATIVE", "domain": "technology", "batch": 10}
+{"text": "You didn’t mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 10}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 10}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 10}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 10}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 10}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 10}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 11}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 11}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 11}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 11}
+{"text": "I get it now, thanks for breaking it down so clearly.", "label": "POSITIVE", "domain": "technology", "batch": 11}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 11}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 11}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 11}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 11}
+{"text": "You missed the main point completely.", "label": "NEGATIVE", "domain": "technology", "batch": 11}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 11}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 11}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 11}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 11}
+{"text": "Can you clarify how that process works?", "label": "NEUTRAL", "domain": "technology", "batch": 11}
+{"text": "So what's the main benefit of that approach?", "label": "NEUTRAL", "domain": "technology", "batch": 11}
+{"text": "Are there any alternatives to that method?", "label": "NEUTRAL", "domain": "technology", "batch": 11}
+{"text": "Does that affect performance in any way?", "label": "NEUTRAL", "domain": "technology", "batch": 11}
+{"text": "What's the minimum system requirement for that?", "label": "NEUTRAL", "domain": "technology", "batch": 11}
+{"text": "Can you give an example of that in action?", "label": "NEUTRAL", "domain": "technology", "batch": 11}
+{"text": "How long does that process usually take?", "label": "NEUTRAL", "domain": "technology", "batch": 11}
+{"text": "Is there a way to speed that up?", "label": "NEUTRAL", "domain": "technology", "batch": 11}
+{"text": "What happens if that fails?", "label": "NEUTRAL", "domain": "technology", "batch": 11}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 12}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 12}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 12}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 12}
+{"text": "I finally get it, thanks so much!", "label": "POSITIVE", "domain": "technology", "batch": 12}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 12}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 12}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 12}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 12}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 12}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 12}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 12}
+{"text": "Can I do this on my phone?", "label": "NEUTRAL", "domain": "technology", "batch": 12}
+{"text": "What if I don't have admin rights?", "label": "NEUTRAL", "domain": "technology", "batch": 12}
+{"text": "Does that affect cloud storage too?", "label": "NEUTRAL", "domain": "technology", "batch": 12}
+{"text": "How long does it take to set up?", "label": "NEUTRAL", "domain": "technology", "batch": 12}
+{"text": "Are there any alternatives to that method?", "label": "NEUTRAL", "domain": "technology", "batch": 12}
+{"text": "What if the device is already encrypted?", "label": "NEUTRAL", "domain": "technology", "batch": 12}
+{"text": "That’s exactly what I needed, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 12}
+{"text": "You nailed it, no need for more info.", "label": "POSITIVE", "domain": "technology", "batch": 12}
+{"text": "So clear, I feel dumb for not knowing this before.", "label": "POSITIVE", "domain": "technology", "batch": 12}
+{"text": "You missed the main point entirely.", "label": "NEGATIVE", "domain": "technology", "batch": 12}
+{"text": "That’s not how it works at all.", "label": "NEGATIVE", "domain": "technology", "batch": 12}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 13}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 13}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 13}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 13}
+{"text": "You nailed it, I get it now!", "label": "POSITIVE", "domain": "technology", "batch": 13}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 13}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 13}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 13}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 13}
+{"text": "This isn't helpful at all, I need real solutions.", "label": "NEGATIVE", "domain": "technology", "batch": 13}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 13}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 13}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 13}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 13}
+{"text": "Can you clarify how that process works?", "label": "NEUTRAL", "domain": "technology", "batch": 13}
+{"text": "That was exactly what I needed, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 13}
+{"text": "You made a complicated topic really easy to understand.", "label": "POSITIVE", "domain": "technology", "batch": 13}
+{"text": "I finally get it, thanks for explaining so clearly.", "label": "POSITIVE", "domain": "technology", "batch": 13}
+{"text": "That’s the best breakdown I’ve seen so far.", "label": "POSITIVE", "domain": "technology", "batch": 13}
+{"text": "This is way too basic, I already know that.", "label": "NEGATIVE", "domain": "technology", "batch": 13}
+{"text": "You missed the main point entirely.", "label": "NEGATIVE", "domain": "technology", "batch": 13}
+{"text": "This isn’t helpful, I need more specifics.", "label": "NEGATIVE", "domain": "technology", "batch": 13}
+{"text": "What happens if there's no internet connection?", "label": "NEUTRAL", "domain": "technology", "batch": 13}
+{"text": "Can you explain that part again?", "label": "NEUTRAL", "domain": "technology", "batch": 13}
+{"text": "That actually cleared up a lot of confusion I had about routing.", "label": "POSITIVE", "domain": "technology", "batch": 14}
+{"text": "I didn't know it could be that simple, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 14}
+{"text": "Exactly what I needed, no fluff.", "label": "POSITIVE", "domain": "technology", "batch": 14}
+{"text": "You made that complex topic feel easy.", "label": "POSITIVE", "domain": "technology", "batch": 14}
+{"text": "That's the most straightforward explanation I've heard.", "label": "POSITIVE", "domain": "technology", "batch": 14}
+{"text": "That's not how it works at all, I've seen the real process.", "label": "NEGATIVE", "domain": "technology", "batch": 14}
+{"text": "You missed the main point entirely, that's a big mistake.", "label": "NEGATIVE", "domain": "technology", "batch": 14}
+{"text": "This is way too basic, I expected more depth.", "label": "NEGATIVE", "domain": "technology", "batch": 14}
+{"text": "The answer feels incomplete, there's more to it.", "label": "NEGATIVE", "domain": "technology", "batch": 14}
+{"text": "That’s the clearest breakdown I’ve seen on this topic.", "label": "POSITIVE", "domain": "technology", "batch": 14}
+{"text": "I get it now, I was really stuck before.", "label": "POSITIVE", "domain": "technology", "batch": 14}
+{"text": "That’s exactly what I needed to move forward.", "label": "POSITIVE", "domain": "technology", "batch": 14}
+{"text": "You nailed it, no need for extra info.", "label": "POSITIVE", "domain": "technology", "batch": 14}
+{"text": "That’s the kind of detail I was looking for.", "label": "POSITIVE", "domain": "technology", "batch": 14}
+{"text": "That’s not accurate, I’ve used it for years.", "label": "NEGATIVE", "domain": "technology", "batch": 14}
+{"text": "You didn’t explain why it’s important, that’s a gap.", "label": "NEGATIVE", "domain": "technology", "batch": 14}
+{"text": "This doesn’t solve my actual problem, it’s not helpful.", "label": "NEGATIVE", "domain": "technology", "batch": 14}
+{"text": "I expected more practical examples, this is too abstract.", "label": "NEGATIVE", "domain": "technology", "batch": 14}
+{"text": "That actually cleared up a lot of confusion I had about cloud storage.", "label": "POSITIVE", "domain": "technology", "batch": 15}
+{"text": "Wow, you made that complex topic feel super simple.", "label": "POSITIVE", "domain": "technology", "batch": 15}
+{"text": "Exactly what I needed, thanks for breaking it down.", "label": "POSITIVE", "domain": "technology", "batch": 15}
+{"text": "I didn't know it could be that straightforward.", "label": "POSITIVE", "domain": "technology", "batch": 15}
+{"text": "That’s the clearest explanation I’ve heard so far.", "label": "POSITIVE", "domain": "technology", "batch": 15}
+{"text": "That’s not right — the latest update changed everything.", "label": "NEGATIVE", "domain": "technology", "batch": 15}
+{"text": "You missed the main point completely, honestly.", "label": "NEGATIVE", "domain": "technology", "batch": 15}
+{"text": "This is way too basic, I was looking for more depth.", "label": "NEGATIVE", "domain": "technology", "batch": 15}
+{"text": "I tried that and it didn’t fix the issue at all.", "label": "NEGATIVE", "domain": "technology", "batch": 15}
+{"text": "Can it be used with older devices too?", "label": "NEUTRAL", "domain": "technology", "batch": 15}
+{"text": "What about if the user has limited bandwidth?", "label": "NEUTRAL", "domain": "technology", "batch": 15}
+{"text": "Is there a way to disable it if needed?", "label": "NEUTRAL", "domain": "technology", "batch": 15}
+{"text": "How does it affect battery life?", "label": "NEUTRAL", "domain": "technology", "batch": 15}
+{"text": "That’s exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 15}
+{"text": "I get it now, I was really stuck before.", "label": "POSITIVE", "domain": "technology", "batch": 15}
+{"text": "You made it easy to understand, no jargon.", "label": "POSITIVE", "domain": "technology", "batch": 15}
+{"text": "That’s a solid summary, I’ll use it for my report.", "label": "POSITIVE", "domain": "technology", "batch": 15}
+{"text": "That’s not helpful at all, I need real steps.", "label": "NEGATIVE", "domain": "technology", "batch": 15}
+{"text": "You didn’t address the main problem, just the surface.", "label": "NEGATIVE", "domain": "technology", "batch": 15}
+{"text": "This is confusing, can you rephrase it?", "label": "NEGATIVE", "domain": "technology", "batch": 15}
+{"text": "I need more specifics, this is too vague.", "label": "NEGATIVE", "domain": "technology", "batch": 15}
+{"text": "What if the user is on a mobile network?", "label": "NEUTRAL", "domain": "technology", "batch": 15}
+{"text": "Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "technology", "batch": 15}
+{"text": "How does it handle multiple users at once?", "label": "NEUTRAL", "domain": "technology", "batch": 15}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 16}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 16}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 16}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 16}
+{"text": "You nailed it, I feel like I finally get it.", "label": "POSITIVE", "domain": "technology", "batch": 16}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 16}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 16}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 16}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 16}
+{"text": "This is way off — the real process is way more complicated.", "label": "NEGATIVE", "domain": "technology", "batch": 16}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 16}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 16}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 16}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 16}
+{"text": "Can you clarify how that affects data transfer speed?", "label": "NEUTRAL", "domain": "technology", "batch": 16}
+{"text": "What happens if the device isn't connected to Wi-Fi?", "label": "NEUTRAL", "domain": "technology", "batch": 16}
+{"text": "Does this method work for mobile networks too?", "label": "NEUTRAL", "domain": "technology", "batch": 16}
+{"text": "Are there any alternatives to that approach?", "label": "NEUTRAL", "domain": "technology", "batch": 16}
+{"text": "What if the user has limited storage space?", "label": "NEUTRAL", "domain": "technology", "batch": 16}
+{"text": "Can you explain how that interacts with cloud storage?", "label": "NEUTRAL", "domain": "technology", "batch": 16}
+{"text": "What if the device is running an older OS version?", "label": "NEUTRAL", "domain": "technology", "batch": 16}
+{"text": "How does that affect battery life?", "label": "NEUTRAL", "domain": "technology", "batch": 16}
+{"text": "Is there a way to bypass that restriction?", "label": "NEUTRAL", "domain": "technology", "batch": 16}
+{"text": "What if the user is on a budget?", "label": "NEUTRAL", "domain": "technology", "batch": 16}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 17}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 17}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 17}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 17}
+{"text": "I finally get it, thanks so much!", "label": "POSITIVE", "domain": "technology", "batch": 17}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 17}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 17}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 17}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 17}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 17}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 17}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 17}
+{"text": "I finally get it, thanks so much!", "label": "POSITIVE", "domain": "technology", "batch": 17}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 17}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 17}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 17}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 17}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 17}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 17}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 17}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 17}
+{"text": "Can you clarify how that affects performance?", "label": "NEUTRAL", "domain": "technology", "batch": 17}
+{"text": "What if the device is running low on storage?", "label": "NEUTRAL", "domain": "technology", "batch": 17}
+{"text": "Does that method work for all file types?", "label": "NEUTRAL", "domain": "technology", "batch": 17}
+{"text": "What if the user has multiple accounts?", "label": "NEUTRAL", "domain": "technology", "batch": 17}
+{"text": "Can this be done without an internet connection?", "label": "NEUTRAL", "domain": "technology", "batch": 17}
+{"text": "Is there a way to automate this process?", "label": "NEUTRAL", "domain": "technology", "batch": 17}
+{"text": "What if the system is already up to date?", "label": "NEUTRAL", "domain": "technology", "batch": 17}
+{"text": "How long does the update usually take?", "label": "NEUTRAL", "domain": "technology", "batch": 17}
+{"text": "Are there any known compatibility issues?", "label": "NEUTRAL", "domain": "technology", "batch": 17}
+{"text": "Can this be done on a mobile device?", "label": "NEUTRAL", "domain": "technology", "batch": 17}
+{"text": "What if the user is on a different operating system?", "label": "NEUTRAL", "domain": "technology", "batch": 17}
+{"text": "That actually cleared up a lot of confusion I had about DNS.", "label": "POSITIVE", "domain": "technology", "batch": 18}
+{"text": "Thanks, I didn't know it could be that simple.", "label": "POSITIVE", "domain": "technology", "batch": 18}
+{"text": "Nice breakdown, I get it now.", "label": "POSITIVE", "domain": "technology", "batch": 18}
+{"text": "That’s exactly what I needed to understand this better.", "label": "POSITIVE", "domain": "technology", "batch": 18}
+{"text": "Wow, that’s way clearer than the article I read earlier.", "label": "POSITIVE", "domain": "technology", "batch": 18}
+{"text": "You missed the main point completely, that’s not how it works.", "label": "NEGATIVE", "domain": "technology", "batch": 18}
+{"text": "I tried that and it didn’t fix the issue, what else should I do?", "label": "NEGATIVE", "domain": "technology", "batch": 18}
+{"text": "That’s not accurate — the latest update changed everything.", "label": "NEGATIVE", "domain": "technology", "batch": 18}
+{"text": "This is too basic, I expected more depth.", "label": "NEGATIVE", "domain": "technology", "batch": 18}
+{"text": "What about if the user has a 3G connection?", "label": "NEUTRAL", "domain": "technology", "batch": 18}
+{"text": "Can you explain the difference between HTTP and HTTPS again?", "label": "NEUTRAL", "domain": "technology", "batch": 18}
+{"text": "Is there a way to bypass that restriction?", "label": "NEUTRAL", "domain": "technology", "batch": 18}
+{"text": "How does that affect mobile data usage?", "label": "NEUTRAL", "domain": "technology", "batch": 18}
+{"text": "You nailed it, that’s the easiest way to explain it.", "label": "POSITIVE", "domain": "technology", "batch": 18}
+{"text": "I wish I had known this earlier, it would’ve saved me so much time.", "label": "POSITIVE", "domain": "technology", "batch": 18}
+{"text": "That’s the best explanation I’ve seen in a while.", "label": "POSITIVE", "domain": "technology", "batch": 18}
+{"text": "That makes total sense, I should’ve thought of that.", "label": "POSITIVE", "domain": "technology", "batch": 18}
+{"text": "That’s not helpful at all, it’s way too vague.", "label": "NEGATIVE", "domain": "technology", "batch": 18}
+{"text": "You didn’t address the actual problem, just the symptoms.", "label": "NEGATIVE", "domain": "technology", "batch": 18}
+{"text": "I tried that and it didn’t work, what’s the real fix?", "label": "NEGATIVE", "domain": "technology", "batch": 18}
+{"text": "That’s the best explanation I’ve heard so far, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 18}
+{"text": "Can you give an example of that in action?", "label": "NEUTRAL", "domain": "technology", "batch": 18}
+{"text": "What happens if the user is on a public Wi-Fi network?", "label": "NEUTRAL", "domain": "technology", "batch": 18}
+{"text": "Is there a way to test if that’s the issue?", "label": "NEUTRAL", "domain": "technology", "batch": 18}
+{"text": "That actually cleared up a lot of confusion I had about cloud storage.", "label": "POSITIVE", "domain": "technology", "batch": 19}
+{"text": "Wow, that’s exactly what I needed to understand how it all connects.", "label": "POSITIVE", "domain": "technology", "batch": 19}
+{"text": "Thanks, that’s the simplest way to explain it I’ve ever heard.", "label": "POSITIVE", "domain": "technology", "batch": 19}
+{"text": "I get it now, you made it way easier to follow.", "label": "POSITIVE", "domain": "technology", "batch": 19}
+{"text": "That’s spot on, I was totally stuck before.", "label": "POSITIVE", "domain": "technology", "batch": 19}
+{"text": "That’s not how it works at all, I’ve seen it fail multiple times.", "label": "NEGATIVE", "domain": "technology", "batch": 19}
+{"text": "You missed the main point, this is way more complicated than you said.", "label": "NEGATIVE", "domain": "technology", "batch": 19}
+{"text": "That answer is way too basic, I expected more depth.", "label": "NEGATIVE", "domain": "technology", "batch": 19}
+{"text": "That’s not accurate, the latest update changed everything.", "label": "NEGATIVE", "domain": "technology", "batch": 19}
+{"text": "Can you explain how that affects data recovery?", "label": "NEUTRAL", "domain": "technology", "batch": 19}
+{"text": "What happens if the device is offline during the process?", "label": "NEUTRAL", "domain": "technology", "batch": 19}
+{"text": "Is there a way to speed this up without losing data?", "label": "NEUTRAL", "domain": "technology", "batch": 19}
+{"text": "How does that interact with third-party apps?", "label": "NEUTRAL", "domain": "technology", "batch": 19}
+{"text": "Does that apply to all operating systems?", "label": "NEUTRAL", "domain": "technology", "batch": 19}
+{"text": "What if the user has limited storage space?", "label": "NEUTRAL", "domain": "technology", "batch": 19}
+{"text": "Can this be done without using extra memory?", "label": "NEUTRAL", "domain": "technology", "batch": 19}
+{"text": "Is there a way to reverse the process if needed?", "label": "NEUTRAL", "domain": "technology", "batch": 19}
+{"text": "What if the connection is unstable during setup?", "label": "NEUTRAL", "domain": "technology", "batch": 19}
+{"text": "How long does the process usually take?", "label": "NEUTRAL", "domain": "technology", "batch": 19}
+{"text": "Are there any known compatibility issues?", "label": "NEUTRAL", "domain": "technology", "batch": 19}
+{"text": "What if the user is on a low-end device?", "label": "NEUTRAL", "domain": "technology", "batch": 19}
+{"text": "Can this be done without admin rights?", "label": "NEUTRAL", "domain": "technology", "batch": 19}
+{"text": "Does that affect battery life significantly?", "label": "NEUTRAL", "domain": "technology", "batch": 19}
+{"text": "That actually cleared up my confusion about cloud storage.", "label": "POSITIVE", "domain": "technology", "batch": 20}
+{"text": "Wow, you made that complicated topic super simple.", "label": "POSITIVE", "domain": "technology", "batch": 20}
+{"text": "I didn't know it could be that straightforward.", "label": "POSITIVE", "domain": "technology", "batch": 20}
+{"text": "Exactly what I needed, thanks for the help.", "label": "POSITIVE", "domain": "technology", "batch": 20}
+{"text": "That’s the best explanation I’ve heard so far.", "label": "POSITIVE", "domain": "technology", "batch": 20}
+{"text": "That’s not right — the latest updates changed everything.", "label": "NEGATIVE", "domain": "technology", "batch": 20}
+{"text": "You missed the main point completely.", "label": "NEGATIVE", "domain": "technology", "batch": 20}
+{"text": "I tried that and it didn’t fix the issue.", "label": "NEGATIVE", "domain": "technology", "batch": 20}
+{"text": "This is way too generic, I need specifics.", "label": "NEGATIVE", "domain": "technology", "batch": 20}
+{"text": "Can you explain it in simpler terms?", "label": "NEUTRAL", "domain": "technology", "batch": 20}
+{"text": "What if the device is offline?", "label": "NEUTRAL", "domain": "technology", "batch": 20}
+{"text": "Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "technology", "batch": 20}
+{"text": "How does it affect older models?", "label": "NEUTRAL", "domain": "technology", "batch": 20}
+{"text": "That’s exactly what I was looking for!", "label": "POSITIVE", "domain": "technology", "batch": 20}
+{"text": "Thanks for breaking it down so clearly.", "label": "POSITIVE", "domain": "technology", "batch": 20}
+{"text": "I get it now, you’re a lifesaver.", "label": "POSITIVE", "domain": "technology", "batch": 20}
+{"text": "That’s the kind of detail I needed.", "label": "POSITIVE", "domain": "technology", "batch": 20}
+{"text": "You didn’t address the real problem here.", "label": "NEGATIVE", "domain": "technology", "batch": 20}
+{"text": "This answer is full of jargon I don’t understand.", "label": "NEGATIVE", "domain": "technology", "batch": 20}
+{"text": "I followed all the steps and it still didn’t work.", "label": "NEGATIVE", "domain": "technology", "batch": 20}
+{"text": "What about if the user is on a mobile network?", "label": "NEUTRAL", "domain": "technology", "batch": 20}
+{"text": "Is there a way to bypass that limitation?", "label": "NEUTRAL", "domain": "technology", "batch": 20}
+{"text": "What if the user has limited storage?", "label": "NEUTRAL", "domain": "technology", "batch": 20}
+{"text": "That actually cleared up a lot of confusion I had about firewalls.", "label": "POSITIVE", "domain": "technology", "batch": 21}
+{"text": "I get it now, thanks for breaking it down so simply.", "label": "POSITIVE", "domain": "technology", "batch": 21}
+{"text": "Exactly what I needed, no fluff, just the facts.", "label": "POSITIVE", "domain": "technology", "batch": 21}
+{"text": "This is way better than the last explanation I got.", "label": "POSITIVE", "domain": "technology", "batch": 21}
+{"text": "I didn’t realize it could be that straightforward.", "label": "POSITIVE", "domain": "technology", "batch": 21}
+{"text": "That’s not how it works at all, you got the steps mixed up.", "label": "NEGATIVE", "domain": "technology", "batch": 21}
+{"text": "You missed the main point about data encryption.", "label": "NEGATIVE", "domain": "technology", "batch": 21}
+{"text": "That’s not helpful, I need more specifics.", "label": "NEGATIVE", "domain": "technology", "batch": 21}
+{"text": "I tried the solution and it didn’t fix the issue.", "label": "NEGATIVE", "domain": "technology", "batch": 21}
+{"text": "This answer is too generic, I expected more depth.", "label": "NEGATIVE", "domain": "technology", "batch": 21}
+{"text": "What about if the device is offline?", "label": "NEUTRAL", "domain": "technology", "batch": 21}
+{"text": "Does this affect mobile data usage?", "label": "NEUTRAL", "domain": "technology", "batch": 21}
+{"text": "Can this be done without a router?", "label": "NEUTRAL", "domain": "technology", "batch": 21}
+{"text": "How does it handle multiple devices?", "label": "NEUTRAL", "domain": "technology", "batch": 21}
+{"text": "What if the connection is unstable?", "label": "NEUTRAL", "domain": "technology", "batch": 21}
+{"text": "That’s exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 21}
+{"text": "I wish I’d known this earlier, it’s super useful.", "label": "POSITIVE", "domain": "technology", "batch": 21}
+{"text": "You made a complicated topic feel easy.", "label": "POSITIVE", "domain": "technology", "batch": 21}
+{"text": "This is the best explanation I’ve ever seen.", "label": "POSITIVE", "domain": "technology", "batch": 21}
+{"text": "I finally get it, thanks for being so clear.", "label": "POSITIVE", "domain": "technology", "batch": 21}
+{"text": "That’s not accurate, the process is different now.", "label": "NEGATIVE", "domain": "technology", "batch": 21}
+{"text": "You didn’t address the main issue I had.", "label": "NEGATIVE", "domain": "technology", "batch": 21}
+{"text": "The steps you gave don’t apply to my setup.", "label": "NEGATIVE", "domain": "technology", "batch": 21}
+{"text": "This is way too basic, I need more info.", "label": "NEGATIVE", "domain": "technology", "batch": 21}
+{"text": "That actually cleared up a lot of confusion I had about packet routing.", "label": "POSITIVE", "domain": "technology", "batch": 22}
+{"text": "Wow, you made that complex topic feel so simple.", "label": "POSITIVE", "domain": "technology", "batch": 22}
+{"text": "Exactly what I needed, thanks for breaking it down.", "label": "POSITIVE", "domain": "technology", "batch": 22}
+{"text": "I didn’t know it could be that straightforward.", "label": "POSITIVE", "domain": "technology", "batch": 22}
+{"text": "This is the best explanation I’ve seen so far.", "label": "POSITIVE", "domain": "technology", "batch": 22}
+{"text": "You missed the main point entirely, that’s not how it works.", "label": "NEGATIVE", "domain": "technology", "batch": 22}
+{"text": "This advice is way too generic, I need specifics.", "label": "NEGATIVE", "domain": "technology", "batch": 22}
+{"text": "That’s not accurate, I’ve seen the official docs.", "label": "NEGATIVE", "domain": "technology", "batch": 22}
+{"text": "I tried that and it didn’t fix the issue, what’s next?", "label": "NEGATIVE", "domain": "technology", "batch": 22}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 22}
+{"text": "Can you explain how it affects data transfer speed?", "label": "NEUTRAL", "domain": "technology", "batch": 22}
+{"text": "What happens if the device is offline?", "label": "NEUTRAL", "domain": "technology", "batch": 22}
+{"text": "Is there a way to disable that feature?", "label": "NEUTRAL", "domain": "technology", "batch": 22}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 22}
+{"text": "What’s the minimum system requirement?", "label": "NEUTRAL", "domain": "technology", "batch": 22}
+{"text": "You nailed it, that’s exactly what I was looking for.", "label": "POSITIVE", "domain": "technology", "batch": 22}
+{"text": "That’s a solid summary, I feel confident now.", "label": "POSITIVE", "domain": "technology", "batch": 22}
+{"text": "You made it sound so easy, I’m impressed.", "label": "POSITIVE", "domain": "technology", "batch": 22}
+{"text": "This helped me understand the whole process.", "label": "POSITIVE", "domain": "technology", "batch": 22}
+{"text": "That’s the clearest explanation I’ve heard.", "label": "POSITIVE", "domain": "technology", "batch": 22}
+{"text": "This is way off track, I need real solutions.", "label": "NEGATIVE", "domain": "technology", "batch": 22}
+{"text": "You didn’t address the actual problem, just the symptoms.", "label": "NEGATIVE", "domain": "technology", "batch": 22}
+{"text": "That’s not helpful, I expected more detail.", "label": "NEGATIVE", "domain": "technology", "batch": 22}
+{"text": "What’s the recommended setup for this?", "label": "NEUTRAL", "domain": "technology", "batch": 22}
+{"text": "That actually cleared up my confusion about routing tables.", "label": "POSITIVE", "domain": "technology", "batch": 23}
+{"text": "You nailed it — I was stuck on that for weeks.", "label": "POSITIVE", "domain": "technology", "batch": 23}
+{"text": "Way better than the textbook explanation I read.", "label": "POSITIVE", "domain": "technology", "batch": 23}
+{"text": "Exactly what I needed, thanks for the breakdown.", "label": "POSITIVE", "domain": "technology", "batch": 23}
+{"text": "That’s the clearest explanation I’ve ever heard.", "label": "POSITIVE", "domain": "technology", "batch": 23}
+{"text": "That’s not how DNS works at all, you got it wrong.", "label": "NEGATIVE", "domain": "technology", "batch": 23}
+{"text": "You missed the main point completely, that’s frustrating.", "label": "NEGATIVE", "domain": "technology", "batch": 23}
+{"text": "I tried that and it didn’t fix the issue, what’s next?", "label": "NEGATIVE", "domain": "technology", "batch": 23}
+{"text": "That’s way too basic, I already know that.", "label": "NEGATIVE", "domain": "technology", "batch": 23}
+{"text": "Can you explain how that affects performance?", "label": "NEUTRAL", "domain": "technology", "batch": 23}
+{"text": "Is there a way to bypass that limitation?", "label": "NEUTRAL", "domain": "technology", "batch": 23}
+{"text": "Does that apply to all network types?", "label": "NEUTRAL", "domain": "technology", "batch": 23}
+{"text": "What happens if the device is offline?", "label": "NEUTRAL", "domain": "technology", "batch": 23}
+{"text": "That’s exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 23}
+{"text": "You made a complex topic feel simple, impressive.", "label": "POSITIVE", "domain": "technology", "batch": 23}
+{"text": "Got it, that’s the key part I was missing.", "label": "POSITIVE", "domain": "technology", "batch": 23}
+{"text": "That’s the first time I actually understood it.", "label": "POSITIVE", "domain": "technology", "batch": 23}
+{"text": "You didn’t cover the real-world use cases, that’s a problem.", "label": "NEGATIVE", "domain": "technology", "batch": 23}
+{"text": "This answer is way too short for such a complex topic.", "label": "NEGATIVE", "domain": "technology", "batch": 23}
+{"text": "I followed every step but still got the same error.", "label": "NEGATIVE", "domain": "technology", "batch": 23}
+{"text": "That’s not helpful at all, I need more details.", "label": "NEGATIVE", "domain": "technology", "batch": 23}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 24}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 24}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 24}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 24}
+{"text": "You nailed it, I feel like I finally get it.", "label": "POSITIVE", "domain": "technology", "batch": 24}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 24}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 24}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 24}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 24}
+{"text": "This is way off track, I was asking about something else entirely.", "label": "NEGATIVE", "domain": "technology", "batch": 24}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 24}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 24}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 24}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 24}
+{"text": "Can you clarify how that affects performance?", "label": "NEUTRAL", "domain": "technology", "batch": 24}
+{"text": "What if the device is already rooted?", "label": "NEUTRAL", "domain": "technology", "batch": 24}
+{"text": "Does that work on Windows too?", "label": "NEUTRAL", "domain": "technology", "batch": 24}
+{"text": "What's the minimum system requirement?", "label": "NEUTRAL", "domain": "technology", "batch": 24}
+{"text": "Are there any alternatives to that method?", "label": "NEUTRAL", "domain": "technology", "batch": 24}
+{"text": "What happens if I skip that step?", "label": "NEUTRAL", "domain": "technology", "batch": 24}
+{"text": "That's exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 24}
+{"text": "I wish I had known this earlier, it's a game-changer.", "label": "POSITIVE", "domain": "technology", "batch": 24}
+{"text": "So clear, I'm gonna share this with my friend.", "label": "POSITIVE", "domain": "technology", "batch": 24}
+{"text": "Finally, someone gets it — this is spot on.", "label": "POSITIVE", "domain": "technology", "batch": 24}
+{"text": "This is the best explanation I've ever heard.", "label": "POSITIVE", "domain": "technology", "batch": 24}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 25}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 25}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 25}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 25}
+{"text": "You nailed it, I didn't think it could be that clear.", "label": "POSITIVE", "domain": "technology", "batch": 25}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 25}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 25}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 25}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 25}
+{"text": "This is way off — I'm not even close to the right solution.", "label": "NEGATIVE", "domain": "technology", "batch": 25}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 25}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 25}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 25}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 25}
+{"text": "Can you clarify how that works exactly?", "label": "NEUTRAL", "domain": "technology", "batch": 25}
+{"text": "So does that mean it's not secure then?", "label": "NEUTRAL", "domain": "technology", "batch": 25}
+{"text": "Wait, does that affect all devices or just some?", "label": "NEUTRAL", "domain": "technology", "batch": 25}
+{"text": "What if the user has a different setup?", "label": "NEUTRAL", "domain": "technology", "batch": 25}
+{"text": "Could you explain that part again?", "label": "NEUTRAL", "domain": "technology", "batch": 25}
+{"text": "Does that apply to mobile networks too?", "label": "NEUTRAL", "domain": "technology", "batch": 25}
+{"text": "What's the main advantage of that method?", "label": "NEUTRAL", "domain": "technology", "batch": 25}
+{"text": "Is there a way around that limitation?", "label": "NEUTRAL", "domain": "technology", "batch": 25}
+{"text": "How does that compare to the old system?", "label": "NEUTRAL", "domain": "technology", "batch": 25}
+{"text": "Can you give an example of that?", "label": "NEUTRAL", "domain": "technology", "batch": 25}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 26}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 26}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 26}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 26}
+{"text": "I get it now, thanks so much!", "label": "POSITIVE", "domain": "technology", "batch": 26}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 26}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 26}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 26}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 26}
+{"text": "This isn't helpful at all, just repeating the same thing over and over.", "label": "NEGATIVE", "domain": "technology", "batch": 26}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 26}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 26}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 26}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 26}
+{"text": "Can you explain that again in simpler terms?", "label": "NEUTRAL", "domain": "technology", "batch": 26}
+{"text": "You nailed it, that's exactly what I needed.", "label": "POSITIVE", "domain": "technology", "batch": 26}
+{"text": "Thanks, that cleared up a lot of confusion.", "label": "POSITIVE", "domain": "technology", "batch": 26}
+{"text": "That’s the best explanation I’ve heard so far.", "label": "POSITIVE", "domain": "technology", "batch": 26}
+{"text": "Wow, you really broke it down nicely.", "label": "POSITIVE", "domain": "technology", "batch": 26}
+{"text": "That’s not right, I’ve seen it work differently before.", "label": "NEGATIVE", "domain": "technology", "batch": 26}
+{"text": "What happens if the device is offline?", "label": "NEUTRAL", "domain": "technology", "batch": 26}
+{"text": "Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "technology", "batch": 26}
+{"text": "Can multiple devices use that at once?", "label": "NEUTRAL", "domain": "technology", "batch": 26}
+{"text": "What if the user has a firewall?", "label": "NEUTRAL", "domain": "technology", "batch": 26}
+{"text": "That’s exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 26}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 27}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 27}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 27}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 27}
+{"text": "That's exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 27}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 27}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 27}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 27}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 27}
+{"text": "You missed the main point entirely, that's not how it works.", "label": "NEGATIVE", "domain": "technology", "batch": 27}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 27}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 27}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 27}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 27}
+{"text": "Can you explain that again in simpler terms?", "label": "NEUTRAL", "domain": "technology", "batch": 27}
+{"text": "You nailed it, that’s the clearest explanation I’ve heard.", "label": "POSITIVE", "domain": "technology", "batch": 27}
+{"text": "Thanks, that’s exactly what I needed to understand this.", "label": "POSITIVE", "domain": "technology", "batch": 27}
+{"text": "Wow, that’s a solid breakdown, I get it now.", "label": "POSITIVE", "domain": "technology", "batch": 27}
+{"text": "You made a complicated topic feel easy, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 27}
+{"text": "That’s not accurate, I’ve seen the official docs.", "label": "NEGATIVE", "domain": "technology", "batch": 27}
+{"text": "What happens if I don’t use that method?", "label": "NEUTRAL", "domain": "technology", "batch": 27}
+{"text": "Can you give an example of that in action?", "label": "NEUTRAL", "domain": "technology", "batch": 27}
+{"text": "Is there a way to bypass that restriction?", "label": "NEUTRAL", "domain": "technology", "batch": 27}
+{"text": "What are the common issues people face with that?", "label": "NEUTRAL", "domain": "technology", "batch": 27}
+{"text": "That’s the best explanation I’ve ever heard, seriously.", "label": "POSITIVE", "domain": "technology", "batch": 27}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 28}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 28}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 28}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 28}
+{"text": "I get it now, thanks so much!", "label": "POSITIVE", "domain": "technology", "batch": 28}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 28}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 28}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 28}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 28}
+{"text": "This isn't helpful at all, just saying.", "label": "NEGATIVE", "domain": "technology", "batch": 28}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 28}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 28}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 28}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 28}
+{"text": "Can you explain that again in simpler terms?", "label": "NEUTRAL", "domain": "technology", "batch": 28}
+{"text": "You nailed it, that’s exactly what I was looking for.", "label": "POSITIVE", "domain": "technology", "batch": 28}
+{"text": "Thanks for making that so clear, I feel confident now.", "label": "POSITIVE", "domain": "technology", "batch": 28}
+{"text": "That’s spot on, I was confused before but now I get it.", "label": "POSITIVE", "domain": "technology", "batch": 28}
+{"text": "Wow, that was way better than the textbook explanation.", "label": "POSITIVE", "domain": "technology", "batch": 28}
+{"text": "This is way too basic, I already knew that.", "label": "NEGATIVE", "domain": "technology", "batch": 28}
+{"text": "What if there's a firewall involved?", "label": "NEUTRAL", "domain": "technology", "batch": 28}
+{"text": "Could you give an example of that?", "label": "NEUTRAL", "domain": "technology", "batch": 28}
+{"text": "Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "technology", "batch": 28}
+{"text": "What happens if the device is offline?", "label": "NEUTRAL", "domain": "technology", "batch": 28}
+{"text": "That’s exactly what I needed, thanks a bunch!", "label": "POSITIVE", "domain": "technology", "batch": 28}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 29}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 29}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 29}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 29}
+{"text": "You nailed it, I didn't think anyone could explain that so clearly.", "label": "POSITIVE", "domain": "technology", "batch": 29}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 29}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 29}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 29}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 29}
+{"text": "You missed the main point entirely, that's not how it works.", "label": "NEGATIVE", "domain": "technology", "batch": 29}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 29}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 29}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 29}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 29}
+{"text": "Can I do this on my phone or do I need a desktop?", "label": "NEUTRAL", "domain": "technology", "batch": 29}
+{"text": "Wait, does that mean I can't use it with my current setup?", "label": "NEUTRAL", "domain": "technology", "batch": 29}
+{"text": "What if I have a different type of connection?", "label": "NEUTRAL", "domain": "technology", "batch": 29}
+{"text": "So does that mean it's not secure if I'm on public Wi-Fi?", "label": "NEUTRAL", "domain": "technology", "batch": 29}
+{"text": "How long does it take to set that up?", "label": "NEUTRAL", "domain": "technology", "batch": 29}
+{"text": "Can I do this without changing my router settings?", "label": "NEUTRAL", "domain": "technology", "batch": 29}
+{"text": "What if I have multiple devices connected?", "label": "NEUTRAL", "domain": "technology", "batch": 29}
+{"text": "Is there a way to automate this process?", "label": "NEUTRAL", "domain": "technology", "batch": 29}
+{"text": "Does it work with both wired and wireless connections?", "label": "NEUTRAL", "domain": "technology", "batch": 29}
+{"text": "What if I'm using a mobile hotspot?", "label": "NEUTRAL", "domain": "technology", "batch": 29}
+{"text": "That actually clarified everything I was confused about!", "label": "POSITIVE", "domain": "technology", "batch": 30}
+{"text": "Wow, that's way simpler than I thought it would be.", "label": "POSITIVE", "domain": "technology", "batch": 30}
+{"text": "Exactly what I needed, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 30}
+{"text": "You nailed it, no need for more details.", "label": "POSITIVE", "domain": "technology", "batch": 30}
+{"text": "This helps so much, I feel confident now.", "label": "POSITIVE", "domain": "technology", "batch": 30}
+{"text": "That’s not how it works at all, I’ve seen it fail before.", "label": "NEGATIVE", "domain": "technology", "batch": 30}
+{"text": "You missed the main point completely, that’s frustrating.", "label": "NEGATIVE", "domain": "technology", "batch": 30}
+{"text": "This is way too basic, I expected more depth.", "label": "NEGATIVE", "domain": "technology", "batch": 30}
+{"text": "That answer doesn’t solve my problem, it just ignores it.", "label": "NEGATIVE", "domain": "technology", "batch": 30}
+{"text": "Can it be used with a smart TV?", "label": "NEUTRAL", "domain": "technology", "batch": 30}
+{"text": "What about if the device is offline?", "label": "NEUTRAL", "domain": "technology", "batch": 30}
+{"text": "Are there any alternatives to this method?", "label": "NEUTRAL", "domain": "technology", "batch": 30}
+{"text": "Does it affect battery life significantly?", "label": "NEUTRAL", "domain": "technology", "batch": 30}
+{"text": "What if the user has a different OS version?", "label": "NEUTRAL", "domain": "technology", "batch": 30}
+{"text": "That’s exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 30}
+{"text": "I get it now, you made it easy to understand.", "label": "POSITIVE", "domain": "technology", "batch": 30}
+{"text": "This is exactly the kind of info I needed.", "label": "POSITIVE", "domain": "technology", "batch": 30}
+{"text": "Thanks for breaking it down so clearly.", "label": "POSITIVE", "domain": "technology", "batch": 30}
+{"text": "You made a complicated topic feel simple.", "label": "POSITIVE", "domain": "technology", "batch": 30}
+{"text": "This is way too vague, I need specific steps.", "label": "NEGATIVE", "domain": "technology", "batch": 30}
+{"text": "You didn’t address the main issue at all.", "label": "NEGATIVE", "domain": "technology", "batch": 30}
+{"text": "That’s not helpful, I already knew that.", "label": "NEGATIVE", "domain": "technology", "batch": 30}
+{"text": "How does it handle multiple users at once?", "label": "NEUTRAL", "domain": "technology", "batch": 30}
+{"text": "That actually cleared up my confusion about DNS completely.", "label": "POSITIVE", "domain": "technology", "batch": 31}
+{"text": "You nailed it, I wasn't sure how it all connected before.", "label": "POSITIVE", "domain": "technology", "batch": 31}
+{"text": "Wow, that was way more detailed than I expected.", "label": "POSITIVE", "domain": "technology", "batch": 31}
+{"text": "Thanks, that’s exactly what I needed to understand this.", "label": "POSITIVE", "domain": "technology", "batch": 31}
+{"text": "So that’s why my router was acting up, thanks for explaining!", "label": "POSITIVE", "domain": "technology", "batch": 31}
+{"text": "That’s not how it works at all, I’ve seen the actual process.", "label": "NEGATIVE", "domain": "technology", "batch": 31}
+{"text": "You missed the main point about data encryption completely.", "label": "NEGATIVE", "domain": "technology", "batch": 31}
+{"text": "What happens if the device is offline during the update?", "label": "NEUTRAL", "domain": "technology", "batch": 31}
+{"text": "Does this method work for all types of files or just specific ones?", "label": "NEUTRAL", "domain": "technology", "batch": 31}
+{"text": "How does that affect battery life on newer models?", "label": "NEUTRAL", "domain": "technology", "batch": 31}
+{"text": "Is there a way to reverse this process if needed?", "label": "NEUTRAL", "domain": "technology", "batch": 31}
+{"text": "Can this be done without using cloud storage?", "label": "NEUTRAL", "domain": "technology", "batch": 31}
+{"text": "What if the user doesn’t have a backup?", "label": "NEUTRAL", "domain": "technology", "batch": 31}
+{"text": "How long does the process usually take?", "label": "NEUTRAL", "domain": "technology", "batch": 31}
+{"text": "Are there any known compatibility issues?", "label": "NEUTRAL", "domain": "technology", "batch": 31}
+{"text": "That’s exactly what I was looking for, thanks so much!", "label": "POSITIVE", "domain": "technology", "batch": 31}
+{"text": "I get it now, you made it super easy to understand.", "label": "POSITIVE", "domain": "technology", "batch": 31}
+{"text": "Perfect, that’s the kind of clarity I needed.", "label": "POSITIVE", "domain": "technology", "batch": 31}
+{"text": "You broke it down so well, I’m really impressed.", "label": "POSITIVE", "domain": "technology", "batch": 31}
+{"text": "That’s the best explanation I’ve heard so far.", "label": "POSITIVE", "domain": "technology", "batch": 31}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 32}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 32}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 32}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 32}
+{"text": "I get it now, thanks for breaking it down so clearly.", "label": "POSITIVE", "domain": "technology", "batch": 32}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 32}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 32}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 32}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 32}
+{"text": "You missed the main point completely, that's not how it works.", "label": "NEGATIVE", "domain": "technology", "batch": 32}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 32}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 32}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 32}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 32}
+{"text": "Can you explain that again but slower?", "label": "NEUTRAL", "domain": "technology", "batch": 32}
+{"text": "That’s exactly what I needed, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 32}
+{"text": "You made it easy to understand, appreciate that.", "label": "POSITIVE", "domain": "technology", "batch": 32}
+{"text": "I was confused before, now I’m clear.", "label": "POSITIVE", "domain": "technology", "batch": 32}
+{"text": "That’s the best explanation I’ve ever heard.", "label": "POSITIVE", "domain": "technology", "batch": 32}
+{"text": "That’s not accurate, I’ve seen it done differently.", "label": "NEGATIVE", "domain": "technology", "batch": 32}
+{"text": "Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "technology", "batch": 32}
+{"text": "What if the user has limited storage?", "label": "NEUTRAL", "domain": "technology", "batch": 32}
+{"text": "Does that affect battery life too?", "label": "NEUTRAL", "domain": "technology", "batch": 32}
+{"text": "What about if they’re using a mobile device?", "label": "NEUTRAL", "domain": "technology", "batch": 32}
+{"text": "That actually clarified everything I was confused about!", "label": "POSITIVE", "domain": "technology", "batch": 33}
+{"text": "No way, that's exactly what I needed to understand this.", "label": "POSITIVE", "domain": "technology", "batch": 33}
+{"text": "Thanks, that’s the best explanation I’ve ever heard.", "label": "POSITIVE", "domain": "technology", "batch": 33}
+{"text": "You nailed it, I get it now!", "label": "POSITIVE", "domain": "technology", "batch": 33}
+{"text": "Wow, that’s way clearer than my teacher ever explained.", "label": "POSITIVE", "domain": "technology", "batch": 33}
+{"text": "That’s not right, I’ve seen that fixed in the latest update.", "label": "NEGATIVE", "domain": "technology", "batch": 33}
+{"text": "You missed the main point completely, that’s not helpful.", "label": "NEGATIVE", "domain": "technology", "batch": 33}
+{"text": "This is way too basic, I already knew that.", "label": "NEGATIVE", "domain": "technology", "batch": 33}
+{"text": "That’s not how it works, I’ve tried it myself.", "label": "NEGATIVE", "domain": "technology", "batch": 33}
+{"text": "This answer is so vague, it’s not even useful.", "label": "NEGATIVE", "domain": "technology", "batch": 33}
+{"text": "What if the device is not connected to Wi-Fi?", "label": "NEUTRAL", "domain": "technology", "batch": 33}
+{"text": "Can you explain how it affects battery life?", "label": "NEUTRAL", "domain": "technology", "batch": 33}
+{"text": "Is there a way to disable it without losing security?", "label": "NEUTRAL", "domain": "technology", "batch": 33}
+{"text": "What happens if you don’t use it for a while?", "label": "NEUTRAL", "domain": "technology", "batch": 33}
+{"text": "Does this apply to all types of networks?", "label": "NEUTRAL", "domain": "technology", "batch": 33}
+{"text": "That’s exactly what I needed, thanks so much!", "label": "POSITIVE", "domain": "technology", "batch": 33}
+{"text": "You made it so easy to understand, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 33}
+{"text": "I get it now, thanks for explaining so clearly.", "label": "POSITIVE", "domain": "technology", "batch": 33}
+{"text": "That’s the best breakdown I’ve seen on this topic.", "label": "POSITIVE", "domain": "technology", "batch": 33}
+{"text": "I was stuck on this, but now it all makes sense.", "label": "POSITIVE", "domain": "technology", "batch": 33}
+{"text": "That’s not accurate, I’ve read the official docs.", "label": "NEGATIVE", "domain": "technology", "batch": 33}
+{"text": "You didn’t even mention the most important part.", "label": "NEGATIVE", "domain": "technology", "batch": 33}
+{"text": "This is way too generic, I need specifics.", "label": "NEGATIVE", "domain": "technology", "batch": 33}
+{"text": "That’s not helpful at all, I’m still confused.", "label": "NEGATIVE", "domain": "technology", "batch": 33}
+{"text": "That actually cleared up a lot of confusion I had about DNS.", "label": "POSITIVE", "domain": "technology", "batch": 34}
+{"text": "I get it now, thanks for breaking it down so simply.", "label": "POSITIVE", "domain": "technology", "batch": 34}
+{"text": "Wow, that’s exactly what I needed to understand this better.", "label": "POSITIVE", "domain": "technology", "batch": 34}
+{"text": "You made it sound so easy, I’m impressed.", "label": "POSITIVE", "domain": "technology", "batch": 34}
+{"text": "Perfect, that’s all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 34}
+{"text": "That’s not right — I’ve seen it work differently in real life.", "label": "NEGATIVE", "domain": "technology", "batch": 34}
+{"text": "You missed the main point entirely, honestly.", "label": "NEGATIVE", "domain": "technology", "batch": 34}
+{"text": "This isn’t helpful at all, just repeating the same thing over and over.", "label": "NEGATIVE", "domain": "technology", "batch": 34}
+{"text": "I tried that and it didn’t fix the issue, what’s next?", "label": "NEGATIVE", "domain": "technology", "batch": 34}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 34}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 34}
+{"text": "What’s the difference between that and a firewall?", "label": "NEUTRAL", "domain": "technology", "batch": 34}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 34}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 34}
+{"text": "Can you explain how that affects data transfer speed?", "label": "NEUTRAL", "domain": "technology", "batch": 34}
+{"text": "What if the device is offline?", "label": "NEUTRAL", "domain": "technology", "batch": 34}
+{"text": "Does that work with all types of networks?", "label": "NEUTRAL", "domain": "technology", "batch": 34}
+{"text": "What about if the user is on a mobile connection?", "label": "NEUTRAL", "domain": "technology", "batch": 34}
+{"text": "How does that interact with cloud storage?", "label": "NEUTRAL", "domain": "technology", "batch": 34}
+{"text": "What if the system is already up to date?", "label": "NEUTRAL", "domain": "technology", "batch": 34}
+{"text": "Can you clarify the part about encryption?", "label": "NEUTRAL", "domain": "technology", "batch": 34}
+{"text": "What’s the minimum system requirement for that?", "label": "NEUTRAL", "domain": "technology", "batch": 34}
+{"text": "Is there a way to bypass that restriction?", "label": "NEUTRAL", "domain": "technology", "batch": 34}
+{"text": "What if the user has limited storage space?", "label": "NEUTRAL", "domain": "technology", "batch": 34}
+{"text": "That actually cleared up my confusion about DNS.", "label": "POSITIVE", "domain": "technology", "batch": 35}
+{"text": "Wow, I didn't know it could be that simple.", "label": "POSITIVE", "domain": "technology", "batch": 35}
+{"text": "Exactly what I needed, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 35}
+{"text": "That's the best explanation I've heard so far.", "label": "POSITIVE", "domain": "technology", "batch": 35}
+{"text": "Got it, makes total sense now.", "label": "POSITIVE", "domain": "technology", "batch": 35}
+{"text": "You missed the main point entirely.", "label": "NEGATIVE", "domain": "technology", "batch": 35}
+{"text": "That's not how it works at all.", "label": "NEGATIVE", "domain": "technology", "batch": 35}
+{"text": "I tried that and it didn't help at all.", "label": "NEGATIVE", "domain": "technology", "batch": 35}
+{"text": "This is way too basic, I expected more.", "label": "NEGATIVE", "domain": "technology", "batch": 35}
+{"text": "You didn't mention the risks, that's a big oversight.", "label": "NEGATIVE", "domain": "technology", "batch": 35}
+{"text": "What about if the device is offline?", "label": "NEUTRAL", "domain": "technology", "batch": 35}
+{"text": "Can you explain the setup process again?", "label": "NEUTRAL", "domain": "technology", "batch": 35}
+{"text": "Does this affect battery life?", "label": "NEUTRAL", "domain": "technology", "batch": 35}
+{"text": "What if there's no internet connection?", "label": "NEUTRAL", "domain": "technology", "batch": 35}
+{"text": "How do I check if it's working?", "label": "NEUTRAL", "domain": "technology", "batch": 35}
+{"text": "That’s exactly what I was looking for!", "label": "POSITIVE", "domain": "technology", "batch": 35}
+{"text": "Thanks, that really helped me understand.", "label": "POSITIVE", "domain": "technology", "batch": 35}
+{"text": "Perfect, no more questions left.", "label": "POSITIVE", "domain": "technology", "batch": 35}
+{"text": "You nailed it, that’s spot on.", "label": "POSITIVE", "domain": "technology", "batch": 35}
+{"text": "That’s the clearest answer I’ve ever gotten.", "label": "POSITIVE", "domain": "technology", "batch": 35}
+{"text": "This is completely wrong, I’m confused.", "label": "NEGATIVE", "domain": "technology", "batch": 35}
+{"text": "You didn’t cover the main issue.", "label": "NEGATIVE", "domain": "technology", "batch": 35}
+{"text": "That’s not helpful at all.", "label": "NEGATIVE", "domain": "technology", "batch": 35}
+{"text": "This answer is full of errors.", "label": "NEGATIVE", "domain": "technology", "batch": 35}
+{"text": "Are there any alternatives to that method?", "label": "NEUTRAL", "domain": "technology", "batch": 35}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 36}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 36}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 36}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 36}
+{"text": "You nailed it, I finally get it!", "label": "POSITIVE", "domain": "technology", "batch": 36}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 36}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 36}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 36}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 36}
+{"text": "This doesn't cover the main issue at all.", "label": "NEGATIVE", "domain": "technology", "batch": 36}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 36}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 36}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 36}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 36}
+{"text": "Can I do that on my phone?", "label": "NEUTRAL", "domain": "technology", "batch": 36}
+{"text": "Wait, does that mean it's not secure?", "label": "NEUTRAL", "domain": "technology", "batch": 36}
+{"text": "So what's the best way to fix it?", "label": "NEUTRAL", "domain": "technology", "batch": 36}
+{"text": "Are there any alternatives to that method?", "label": "NEUTRAL", "domain": "technology", "batch": 36}
+{"text": "That actually cleared up a lot of confusion I had about DNS.", "label": "POSITIVE", "domain": "technology", "batch": 37}
+{"text": "Thanks, that’s exactly what I was looking for!", "label": "POSITIVE", "domain": "technology", "batch": 37}
+{"text": "Nice job breaking it down so simply.", "label": "POSITIVE", "domain": "technology", "batch": 37}
+{"text": "I get it now, you’re a lifesaver!", "label": "POSITIVE", "domain": "technology", "batch": 37}
+{"text": "That’s the most straightforward explanation I’ve heard.", "label": "POSITIVE", "domain": "technology", "batch": 37}
+{"text": "That’s not how it works at all, I’ve seen the real process.", "label": "NEGATIVE", "domain": "technology", "batch": 37}
+{"text": "You missed the main point entirely, that’s a big issue.", "label": "NEGATIVE", "domain": "technology", "batch": 37}
+{"text": "This is way too basic, I already know this stuff.", "label": "NEGATIVE", "domain": "technology", "batch": 37}
+{"text": "The steps you gave don’t even apply to my setup.", "label": "NEGATIVE", "domain": "technology", "batch": 37}
+{"text": "What if the user has a mobile device?", "label": "NEUTRAL", "domain": "technology", "batch": 37}
+{"text": "Can this be done without using third-party apps?", "label": "NEUTRAL", "domain": "technology", "batch": 37}
+{"text": "How does this affect battery life?", "label": "NEUTRAL", "domain": "technology", "batch": 37}
+{"text": "Are there any alternatives to that method?", "label": "NEUTRAL", "domain": "technology", "batch": 37}
+{"text": "That’s the clearest answer I’ve ever gotten on this topic.", "label": "POSITIVE", "domain": "technology", "batch": 37}
+{"text": "You made a complicated thing seem easy, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 37}
+{"text": "I wish I had this explanation earlier, it’s so helpful.", "label": "POSITIVE", "domain": "technology", "batch": 37}
+{"text": "That’s the first time I actually understood how it works.", "label": "POSITIVE", "domain": "technology", "batch": 37}
+{"text": "The info you gave is completely wrong, that’s a problem.", "label": "NEGATIVE", "domain": "technology", "batch": 37}
+{"text": "I tried what you said and it didn’t fix the issue.", "label": "NEGATIVE", "domain": "technology", "batch": 37}
+{"text": "You didn’t cover the main reason for the problem.", "label": "NEGATIVE", "domain": "technology", "batch": 37}
+{"text": "What if there’s no internet connection?", "label": "NEUTRAL", "domain": "technology", "batch": 37}
+{"text": "Is there a way to automate this process?", "label": "NEUTRAL", "domain": "technology", "batch": 37}
+{"text": "What happens if the device is not compatible?", "label": "NEUTRAL", "domain": "technology", "batch": 37}
+{"text": "Can this be done on a budget?", "label": "NEUTRAL", "domain": "technology", "batch": 37}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 38}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 38}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 38}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 38}
+{"text": "I get it now, thanks for making it so clear.", "label": "POSITIVE", "domain": "technology", "batch": 38}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 38}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 38}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 38}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 38}
+{"text": "You missed the main point entirely, that's not how it works.", "label": "NEGATIVE", "domain": "technology", "batch": 38}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 38}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 38}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 38}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 38}
+{"text": "Can I do this without a router?", "label": "NEUTRAL", "domain": "technology", "batch": 38}
+{"text": "That was exactly what I needed, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 38}
+{"text": "You nailed it, I finally understand this.", "label": "POSITIVE", "domain": "technology", "batch": 38}
+{"text": "So simple now, I feel dumb for not getting it before.", "label": "POSITIVE", "domain": "technology", "batch": 38}
+{"text": "This is the best explanation I've ever heard.", "label": "POSITIVE", "domain": "technology", "batch": 38}
+{"text": "That's not accurate, I've seen it done differently.", "label": "NEGATIVE", "domain": "technology", "batch": 38}
+{"text": "You didn't address the main issue at all.", "label": "NEGATIVE", "domain": "technology", "batch": 38}
+{"text": "This is way too basic, I need more depth.", "label": "NEGATIVE", "domain": "technology", "batch": 38}
+{"text": "What if I don't have admin rights?", "label": "NEUTRAL", "domain": "technology", "batch": 38}
+{"text": "Does this work on older versions too?", "label": "NEUTRAL", "domain": "technology", "batch": 38}
+{"text": "That actually cleared up a lot of confusion I had about DNS.", "label": "POSITIVE", "domain": "technology", "batch": 39}
+{"text": "I didn't know it could do that, thanks for the tip!", "label": "POSITIVE", "domain": "technology", "batch": 39}
+{"text": "Exactly what I needed, no fluff at all.", "label": "POSITIVE", "domain": "technology", "batch": 39}
+{"text": "Way better than the article I read earlier.", "label": "POSITIVE", "domain": "technology", "batch": 39}
+{"text": "Thanks, that’s exactly what I was looking for.", "label": "POSITIVE", "domain": "technology", "batch": 39}
+{"text": "That’s not how it works at all, I’ve seen it fail multiple times.", "label": "NEGATIVE", "domain": "technology", "batch": 39}
+{"text": "You missed the main point entirely, that’s frustrating.", "label": "NEGATIVE", "domain": "technology", "batch": 39}
+{"text": "This is way too basic, I was expecting more depth.", "label": "NEGATIVE", "domain": "technology", "batch": 39}
+{"text": "I tried that and it didn’t help, maybe you’re missing something.", "label": "NEGATIVE", "domain": "technology", "batch": 39}
+{"text": "What if the user has a mobile device instead?", "label": "NEUTRAL", "domain": "technology", "batch": 39}
+{"text": "Can it be done without using third-party apps?", "label": "NEUTRAL", "domain": "technology", "batch": 39}
+{"text": "Is there a way to do this on a tablet?", "label": "NEUTRAL", "domain": "technology", "batch": 39}
+{"text": "What if the device is running an older OS version?", "label": "NEUTRAL", "domain": "technology", "batch": 39}
+{"text": "That’s exactly how I’ve been using it, glad to confirm!", "label": "POSITIVE", "domain": "technology", "batch": 39}
+{"text": "Finally someone explains it like I understand it.", "label": "POSITIVE", "domain": "technology", "batch": 39}
+{"text": "I wish I’d known this earlier, so helpful.", "label": "POSITIVE", "domain": "technology", "batch": 39}
+{"text": "That’s the clearest explanation I’ve ever heard.", "label": "POSITIVE", "domain": "technology", "batch": 39}
+{"text": "You’re not addressing the real issue here, it’s still confusing.", "label": "NEGATIVE", "domain": "technology", "batch": 39}
+{"text": "That answer is way too short, I need more details.", "label": "NEGATIVE", "domain": "technology", "batch": 39}
+{"text": "This isn’t helpful, I already knew the basics.", "label": "NEGATIVE", "domain": "technology", "batch": 39}
+{"text": "I’m still stuck, maybe you can break it down more?", "label": "NEGATIVE", "domain": "technology", "batch": 39}
+{"text": "Does this apply to all network types or just Wi-Fi?", "label": "NEUTRAL", "domain": "technology", "batch": 39}
+{"text": "What if the connection is unstable or slow?", "label": "NEUTRAL", "domain": "technology", "batch": 39}
+{"text": "Can this be done without an internet connection?", "label": "NEUTRAL", "domain": "technology", "batch": 39}
+{"text": "That actually clarified everything I was confused about!", "label": "POSITIVE", "domain": "technology", "batch": 40}
+{"text": "You nailed it, that’s exactly how it works!", "label": "POSITIVE", "domain": "technology", "batch": 40}
+{"text": "Thanks, that’s exactly what I needed!", "label": "POSITIVE", "domain": "technology", "batch": 40}
+{"text": "So simple now, I feel dumb for not getting it before.", "label": "POSITIVE", "domain": "technology", "batch": 40}
+{"text": "Perfect, I was stuck on this for hours!", "label": "POSITIVE", "domain": "technology", "batch": 40}
+{"text": "That’s not how it works at all, I’ve seen it firsthand.", "label": "NEGATIVE", "domain": "technology", "batch": 40}
+{"text": "You missed the main point entirely, that’s a big mistake.", "label": "NEGATIVE", "domain": "technology", "batch": 40}
+{"text": "This is way too basic, I already know that.", "label": "NEGATIVE", "domain": "technology", "batch": 40}
+{"text": "That’s not helpful, I need real solutions, not just theory.", "label": "NEGATIVE", "domain": "technology", "batch": 40}
+{"text": "You didn’t cover the actual problem, that’s a huge gap.", "label": "NEGATIVE", "domain": "technology", "batch": 40}
+{"text": "Can it be used with a smart TV?", "label": "NEUTRAL", "domain": "technology", "batch": 40}
+{"text": "What happens if the device is offline?", "label": "NEUTRAL", "domain": "technology", "batch": 40}
+{"text": "Is there a way to disable it temporarily?", "label": "NEUTRAL", "domain": "technology", "batch": 40}
+{"text": "Does it affect battery life?", "label": "NEUTRAL", "domain": "technology", "batch": 40}
+{"text": "What if the user has no internet?", "label": "NEUTRAL", "domain": "technology", "batch": 40}
+{"text": "Can it be done without a router?", "label": "NEUTRAL", "domain": "technology", "batch": 40}
+{"text": "How long does it take to set up?", "label": "NEUTRAL", "domain": "technology", "batch": 40}
+{"text": "What if the device is old?", "label": "NEUTRAL", "domain": "technology", "batch": 40}
+{"text": "Does it work with 5G networks?", "label": "NEUTRAL", "domain": "technology", "batch": 40}
+{"text": "What if the user is on a budget?", "label": "NEUTRAL", "domain": "technology", "batch": 40}
+{"text": "Is there a way to reverse it?", "label": "NEUTRAL", "domain": "technology", "batch": 40}
+{"text": "What if the user is in a different country?", "label": "NEUTRAL", "domain": "technology", "batch": 40}
+{"text": "How does it compare to other methods?", "label": "NEUTRAL", "domain": "technology", "batch": 40}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 41}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 41}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 41}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 41}
+{"text": "That’s exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 41}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 41}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 41}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 41}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 41}
+{"text": "Why didn’t you mention the limitations of that method?", "label": "NEGATIVE", "domain": "technology", "batch": 41}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 41}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 41}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 41}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 41}
+{"text": "Can you clarify how that affects data transfer speed?", "label": "NEUTRAL", "domain": "technology", "batch": 41}
+{"text": "That’s exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 41}
+{"text": "I get it now, thanks for breaking it down so clearly.", "label": "POSITIVE", "domain": "technology", "batch": 41}
+{"text": "This is the first time I actually understood this concept.", "label": "POSITIVE", "domain": "technology", "batch": 41}
+{"text": "You made a complicated thing really simple, appreciate it.", "label": "POSITIVE", "domain": "technology", "batch": 41}
+{"text": "That’s not accurate — the latest updates changed how it works.", "label": "NEGATIVE", "domain": "technology", "batch": 41}
+{"text": "Does that mean it's not compatible with older systems?", "label": "NEUTRAL", "domain": "technology", "batch": 41}
+{"text": "What happens if the user has a different setup?", "label": "NEUTRAL", "domain": "technology", "batch": 41}
+{"text": "Can you explain how that affects battery life?", "label": "NEUTRAL", "domain": "technology", "batch": 41}
+{"text": "That’s not helpful at all, I need more specifics.", "label": "NEGATIVE", "domain": "technology", "batch": 41}
+{"text": "What if the device is not connected to Wi-Fi?", "label": "NEUTRAL", "domain": "technology", "batch": 41}
+{"text": "That actually made everything click, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 42}
+{"text": "You nailed it, that’s exactly what I needed.", "label": "POSITIVE", "domain": "technology", "batch": 42}
+{"text": "Wow, that’s way clearer than my old notes.", "label": "POSITIVE", "domain": "technology", "batch": 42}
+{"text": "I get it now, thanks for breaking it down.", "label": "POSITIVE", "domain": "technology", "batch": 42}
+{"text": "Perfect, that’s exactly what I was looking for.", "label": "POSITIVE", "domain": "technology", "batch": 42}
+{"text": "That’s not right, I’ve seen the official docs.", "label": "NEGATIVE", "domain": "technology", "batch": 42}
+{"text": "You missed the main point entirely.", "label": "NEGATIVE", "domain": "technology", "batch": 42}
+{"text": "This is way too basic, I already knew that.", "label": "NEGATIVE", "domain": "technology", "batch": 42}
+{"text": "That’s not helpful at all, just confusing.", "label": "NEGATIVE", "domain": "technology", "batch": 42}
+{"text": "Can this be done without a subscription?", "label": "NEUTRAL", "domain": "technology", "batch": 42}
+{"text": "Is there a way to bypass this limitation?", "label": "NEUTRAL", "domain": "technology", "batch": 42}
+{"text": "Does this affect older versions too?", "label": "NEUTRAL", "domain": "technology", "batch": 42}
+{"text": "That’s exactly what I needed, thanks so much!", "label": "POSITIVE", "domain": "technology", "batch": 42}
+{"text": "You explained it better than my teacher ever did.", "label": "POSITIVE", "domain": "technology", "batch": 42}
+{"text": "Finally, someone gets it right!", "label": "POSITIVE", "domain": "technology", "batch": 42}
+{"text": "That’s the clearest explanation I’ve heard.", "label": "POSITIVE", "domain": "technology", "batch": 42}
+{"text": "This is way off, I’ve tried that and it didn’t work.", "label": "NEGATIVE", "domain": "technology", "batch": 42}
+{"text": "You’re not even close to being accurate.", "label": "NEGATIVE", "domain": "technology", "batch": 42}
+{"text": "This answer is so vague it’s useless.", "label": "NEGATIVE", "domain": "technology", "batch": 42}
+{"text": "What if the user has limited storage?", "label": "NEUTRAL", "domain": "technology", "batch": 42}
+{"text": "Can this be done on a mobile device?", "label": "NEUTRAL", "domain": "technology", "batch": 42}
+{"text": "Is there a way to automate this process?", "label": "NEUTRAL", "domain": "technology", "batch": 42}
+{"text": "That actually clarified everything I was confused about!", "label": "POSITIVE", "domain": "technology", "batch": 43}
+{"text": "I get it now, thanks for breaking it down so clearly.", "label": "POSITIVE", "domain": "technology", "batch": 43}
+{"text": "Exactly what I needed, no fluff!", "label": "POSITIVE", "domain": "technology", "batch": 43}
+{"text": "Way better than the textbook explanation I read.", "label": "POSITIVE", "domain": "technology", "batch": 43}
+{"text": "This is exactly what I was looking for!", "label": "POSITIVE", "domain": "technology", "batch": 43}
+{"text": "That's not right, I've seen the official docs.", "label": "NEGATIVE", "domain": "technology", "batch": 43}
+{"text": "You missed the main point completely.", "label": "NEGATIVE", "domain": "technology", "batch": 43}
+{"text": "This isn't helpful at all, I need real steps.", "label": "NEGATIVE", "domain": "technology", "batch": 43}
+{"text": "That’s not how it works, I’ve tried it myself.", "label": "NEGATIVE", "domain": "technology", "batch": 43}
+{"text": "This answer is way too vague to be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 43}
+{"text": "Can you explain how it affects mobile networks?", "label": "NEUTRAL", "domain": "technology", "batch": 43}
+{"text": "What about if the device is rooted?", "label": "NEUTRAL", "domain": "technology", "batch": 43}
+{"text": "Does this apply to all versions of the OS?", "label": "NEUTRAL", "domain": "technology", "batch": 43}
+{"text": "How does it handle multiple users?", "label": "NEUTRAL", "domain": "technology", "batch": 43}
+{"text": "What if the user is on a different platform?", "label": "NEUTRAL", "domain": "technology", "batch": 43}
+{"text": "Is there a way to bypass that limitation?", "label": "NEUTRAL", "domain": "technology", "batch": 43}
+{"text": "What happens if the device is not connected to Wi-Fi?", "label": "NEUTRAL", "domain": "technology", "batch": 43}
+{"text": "Can this be done without root access?", "label": "NEUTRAL", "domain": "technology", "batch": 43}
+{"text": "What if the user is using a different browser?", "label": "NEUTRAL", "domain": "technology", "batch": 43}
+{"text": "How does this affect data usage?", "label": "NEUTRAL", "domain": "technology", "batch": 43}
+{"text": "What if the user is on a different network type?", "label": "NEUTRAL", "domain": "technology", "batch": 43}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 44}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 44}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 44}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 44}
+{"text": "You nailed it, I feel like I finally get it.", "label": "POSITIVE", "domain": "technology", "batch": 44}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 44}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 44}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 44}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 44}
+{"text": "You missed the main point entirely, that's not how it works.", "label": "NEGATIVE", "domain": "technology", "batch": 44}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 44}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 44}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 44}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 44}
+{"text": "Can I do this without any special tools?", "label": "NEUTRAL", "domain": "technology", "batch": 44}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 44}
+{"text": "So clear, I wish I had this knowledge earlier.", "label": "POSITIVE", "domain": "technology", "batch": 44}
+{"text": "You really broke it down, I get it now.", "label": "POSITIVE", "domain": "technology", "batch": 44}
+{"text": "That's spot on, I was confused before.", "label": "POSITIVE", "domain": "technology", "batch": 44}
+{"text": "You didn't cover the troubleshooting steps at all.", "label": "NEGATIVE", "domain": "technology", "batch": 44}
+{"text": "That actually cleared up my confusion about routing tables.", "label": "POSITIVE", "domain": "technology", "batch": 45}
+{"text": "Wow, you made that complex topic so simple, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 45}
+{"text": "Exactly what I needed, no fluff, just the facts.", "label": "POSITIVE", "domain": "technology", "batch": 45}
+{"text": "I didn't know it could be that straightforward.", "label": "POSITIVE", "domain": "technology", "batch": 45}
+{"text": "That’s the best breakdown I’ve seen on packet switching.", "label": "POSITIVE", "domain": "technology", "batch": 45}
+{"text": "You missed the main point about data privacy entirely.", "label": "NEGATIVE", "domain": "technology", "batch": 45}
+{"text": "That’s not how firewalls work at all, I’ve seen better explanations.", "label": "NEGATIVE", "domain": "technology", "batch": 45}
+{"text": "I tried that and it didn’t fix the issue, what’s next?", "label": "NEGATIVE", "domain": "technology", "batch": 45}
+{"text": "This answer is way too generic, I need specifics.", "label": "NEGATIVE", "domain": "technology", "batch": 45}
+{"text": "Can it be used for remote work setups?", "label": "NEUTRAL", "domain": "technology", "batch": 45}
+{"text": "What about if the user is on a mobile network?", "label": "NEUTRAL", "domain": "technology", "batch": 45}
+{"text": "Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "technology", "batch": 45}
+{"text": "How does it handle multiple devices at once?", "label": "NEUTRAL", "domain": "technology", "batch": 45}
+{"text": "That’s exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 45}
+{"text": "You nailed it, I get it now, thanks for the patience.", "label": "POSITIVE", "domain": "technology", "batch": 45}
+{"text": "That’s the kind of clear answer I need for my project.", "label": "POSITIVE", "domain": "technology", "batch": 45}
+{"text": "You made something I didn’t understand feel easy.", "label": "POSITIVE", "domain": "technology", "batch": 45}
+{"text": "That’s not accurate, I’ve read better sources.", "label": "NEGATIVE", "domain": "technology", "batch": 45}
+{"text": "You didn’t address the main problem, just the symptoms.", "label": "NEGATIVE", "domain": "technology", "batch": 45}
+{"text": "This is way too vague, I need real steps.", "label": "NEGATIVE", "domain": "technology", "batch": 45}
+{"text": "What if the user has a limited data plan?", "label": "NEUTRAL", "domain": "technology", "batch": 45}
+{"text": "Is there a way to automate that process?", "label": "NEUTRAL", "domain": "technology", "batch": 45}
+{"text": "What about if the device is offline?", "label": "NEUTRAL", "domain": "technology", "batch": 45}
+{"text": "That actually clarified everything I was confused about!", "label": "POSITIVE", "domain": "technology", "batch": 46}
+{"text": "I didn’t know it could be that simple, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 46}
+{"text": "Exactly what I needed, no fluff!", "label": "POSITIVE", "domain": "technology", "batch": 46}
+{"text": "Wow, that’s way better than the article I read.", "label": "POSITIVE", "domain": "technology", "batch": 46}
+{"text": "You made it sound so straightforward, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 46}
+{"text": "That’s not how it works at all, I’ve seen the docs.", "label": "NEGATIVE", "domain": "technology", "batch": 46}
+{"text": "You missed the main point entirely, honestly.", "label": "NEGATIVE", "domain": "technology", "batch": 46}
+{"text": "This is way too basic, I expected more.", "label": "NEGATIVE", "domain": "technology", "batch": 46}
+{"text": "I tried that and it didn’t fix the issue.", "label": "NEGATIVE", "domain": "technology", "batch": 46}
+{"text": "That answer is completely off track.", "label": "NEGATIVE", "domain": "technology", "batch": 46}
+{"text": "What about if the device is offline?", "label": "NEUTRAL", "domain": "technology", "batch": 46}
+{"text": "Can it be done without a router?", "label": "NEUTRAL", "domain": "technology", "batch": 46}
+{"text": "Are there any alternatives to this method?", "label": "NEUTRAL", "domain": "technology", "batch": 46}
+{"text": "What if the system is already updated?", "label": "NEUTRAL", "domain": "technology", "batch": 46}
+{"text": "That’s exactly what I was looking for!", "label": "POSITIVE", "domain": "technology", "batch": 46}
+{"text": "You saved me from a lot of confusion.", "label": "POSITIVE", "domain": "technology", "batch": 46}
+{"text": "I get it now, thanks so much!", "label": "POSITIVE", "domain": "technology", "batch": 46}
+{"text": "Way more helpful than the last response.", "label": "POSITIVE", "domain": "technology", "batch": 46}
+{"text": "This is the clearest explanation yet.", "label": "POSITIVE", "domain": "technology", "batch": 46}
+{"text": "You didn’t cover the key steps, that’s a problem.", "label": "NEGATIVE", "domain": "technology", "batch": 46}
+{"text": "This is way too vague to be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 46}
+{"text": "I tried it and it didn’t work at all.", "label": "NEGATIVE", "domain": "technology", "batch": 46}
+{"text": "That’s not accurate, I’ve seen the real process.", "label": "NEGATIVE", "domain": "technology", "batch": 46}
+{"text": "That actually cleared up a lot of confusion I had.", "label": "POSITIVE", "domain": "technology", "batch": 47}
+{"text": "I didn’t know it could do that, cool stuff!", "label": "POSITIVE", "domain": "technology", "batch": 47}
+{"text": "Thanks, that’s exactly what I needed to understand.", "label": "POSITIVE", "domain": "technology", "batch": 47}
+{"text": "Wow, that’s way easier than I thought.", "label": "POSITIVE", "domain": "technology", "batch": 47}
+{"text": "You made it sound so simple, I get it now.", "label": "POSITIVE", "domain": "technology", "batch": 47}
+{"text": "That’s not how it works at all, I’ve seen it fail before.", "label": "NEGATIVE", "domain": "technology", "batch": 47}
+{"text": "You missed the main point, this is way more complex.", "label": "NEGATIVE", "domain": "technology", "batch": 47}
+{"text": "This is way too basic, I expected more detail.", "label": "NEGATIVE", "domain": "technology", "batch": 47}
+{"text": "Why didn’t you mention the risks? That’s a big deal.", "label": "NEGATIVE", "domain": "technology", "batch": 47}
+{"text": "I tried what you said and it didn’t help at all.", "label": "NEGATIVE", "domain": "technology", "batch": 47}
+{"text": "Can it be used with multiple devices?", "label": "NEUTRAL", "domain": "technology", "batch": 47}
+{"text": "What happens if the connection drops?", "label": "NEUTRAL", "domain": "technology", "batch": 47}
+{"text": "Are there any alternatives to this method?", "label": "NEUTRAL", "domain": "technology", "batch": 47}
+{"text": "Does it require an internet connection?", "label": "NEUTRAL", "domain": "technology", "batch": 47}
+{"text": "How long does the process take?", "label": "NEUTRAL", "domain": "technology", "batch": 47}
+{"text": "That’s the best explanation I’ve heard so far.", "label": "POSITIVE", "domain": "technology", "batch": 47}
+{"text": "You nailed it, I feel confident now.", "label": "POSITIVE", "domain": "technology", "batch": 47}
+{"text": "I get it now, thanks for breaking it down.", "label": "POSITIVE", "domain": "technology", "batch": 47}
+{"text": "That’s exactly what I was looking for.", "label": "POSITIVE", "domain": "technology", "batch": 47}
+{"text": "I didn’t think it could be that straightforward.", "label": "POSITIVE", "domain": "technology", "batch": 47}
+{"text": "This is way off track, I was asking about security.", "label": "NEGATIVE", "domain": "technology", "batch": 47}
+{"text": "You didn’t answer the question, just repeated the same thing.", "label": "NEGATIVE", "domain": "technology", "batch": 47}
+{"text": "This is confusing, I need a clearer answer.", "label": "NEGATIVE", "domain": "technology", "batch": 47}
+{"text": "Why is this so hard to explain? It’s simple.", "label": "NEGATIVE", "domain": "technology", "batch": 47}
+{"text": "What if the user has no technical background?", "label": "NEUTRAL", "domain": "technology", "batch": 47}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 48}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 48}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 48}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 48}
+{"text": "You got it exactly right, I was confused before.", "label": "POSITIVE", "domain": "technology", "batch": 48}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 48}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 48}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 48}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 48}
+{"text": "This is way off — I need specifics, not just general stuff.", "label": "NEGATIVE", "domain": "technology", "batch": 48}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 48}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 48}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 48}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 48}
+{"text": "Can you explain that again in simpler terms?", "label": "NEUTRAL", "domain": "technology", "batch": 48}
+{"text": "That’s exactly what I needed, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 48}
+{"text": "Wow, you made that super clear, no confusion at all.", "label": "POSITIVE", "domain": "technology", "batch": 48}
+{"text": "I get it now, you’re a lifesaver!", "label": "POSITIVE", "domain": "technology", "batch": 48}
+{"text": "That’s the best explanation I’ve ever heard.", "label": "POSITIVE", "domain": "technology", "batch": 48}
+{"text": "So simple, I wish I learned this earlier.", "label": "POSITIVE", "domain": "technology", "batch": 48}
+{"text": "Nope, that’s not right — I’ve seen it done differently.", "label": "NEGATIVE", "domain": "technology", "batch": 48}
+{"text": "You missed the main point, that’s not helpful.", "label": "NEGATIVE", "domain": "technology", "batch": 48}
+{"text": "This is confusing, I need more details.", "label": "NEGATIVE", "domain": "technology", "batch": 48}
+{"text": "That’s not what I asked for, I’m not satisfied.", "label": "NEGATIVE", "domain": "technology", "batch": 48}
+{"text": "What happens if I don’t use that method?", "label": "NEUTRAL", "domain": "technology", "batch": 48}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 49}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 49}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 49}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 49}
+{"text": "You nailed it, I get it now!", "label": "POSITIVE", "domain": "technology", "batch": 49}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 49}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 49}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 49}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 49}
+{"text": "This isn't helpful at all, I need real steps.", "label": "NEGATIVE", "domain": "technology", "batch": 49}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 49}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 49}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 49}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 49}
+{"text": "Can you clarify the part about the firewall settings?", "label": "NEUTRAL", "domain": "technology", "batch": 49}
+{"text": "You made it sound so simple, thanks for that!", "label": "POSITIVE", "domain": "technology", "batch": 49}
+{"text": "That's exactly what I was looking for, no need to over-explain.", "label": "POSITIVE", "domain": "technology", "batch": 49}
+{"text": "I didn't think it could be that clear, impressive!", "label": "POSITIVE", "domain": "technology", "batch": 49}
+{"text": "Finally, someone got it right!", "label": "POSITIVE", "domain": "technology", "batch": 49}
+{"text": "That's not how it works at all, I've tried it before.", "label": "NEGATIVE", "domain": "technology", "batch": 49}
+{"text": "What if I have a different setup?", "label": "NEUTRAL", "domain": "technology", "batch": 49}
+{"text": "Does it matter if I use a mobile hotspot?", "label": "NEUTRAL", "domain": "technology", "batch": 49}
+{"text": "Are there any alternatives to that method?", "label": "NEUTRAL", "domain": "technology", "batch": 49}
+{"text": "What if I don't have admin rights?", "label": "NEUTRAL", "domain": "technology", "batch": 49}
+{"text": "You really broke it down, I feel confident now.", "label": "POSITIVE", "domain": "technology", "batch": 49}
+{"text": "That actually made everything click, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 50}
+{"text": "You nailed it, that’s exactly what I was looking for.", "label": "POSITIVE", "domain": "technology", "batch": 50}
+{"text": "So simple, why didn’t I think of that?", "label": "POSITIVE", "domain": "technology", "batch": 50}
+{"text": "Solid explanation, I feel confident now.", "label": "POSITIVE", "domain": "technology", "batch": 50}
+{"text": "That’s the clearest breakdown I’ve seen.", "label": "POSITIVE", "domain": "technology", "batch": 50}
+{"text": "Nope, that’s not how it works at all.", "label": "NEGATIVE", "domain": "technology", "batch": 50}
+{"text": "You missed the main point entirely.", "label": "NEGATIVE", "domain": "technology", "batch": 50}
+{"text": "That actually made everything click, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 50}
+{"text": "You nailed it, that’s exactly what I was looking for.", "label": "POSITIVE", "domain": "technology", "batch": 50}
+{"text": "So simple, why didn’t I think of that?", "label": "POSITIVE", "domain": "technology", "batch": 50}
+{"text": "Solid explanation, I feel confident now.", "label": "POSITIVE", "domain": "technology", "batch": 50}
+{"text": "That’s the clearest breakdown I’ve seen.", "label": "POSITIVE", "domain": "technology", "batch": 50}
+{"text": "Nope, that’s not how it works at all.", "label": "NEGATIVE", "domain": "technology", "batch": 50}
+{"text": "You missed the main point entirely.", "label": "NEGATIVE", "domain": "technology", "batch": 50}
+{"text": "This is way too basic, I expected more.", "label": "NEGATIVE", "domain": "technology", "batch": 50}
+{"text": "Why didn’t you mention the risks? That’s critical.", "label": "NEGATIVE", "domain": "technology", "batch": 50}
+{"text": "Can it be used with a smart TV?", "label": "NEUTRAL", "domain": "technology", "batch": 50}
+{"text": "What if the device is offline?", "label": "NEUTRAL", "domain": "technology", "batch": 50}
+{"text": "How does it handle multiple users?", "label": "NEUTRAL", "domain": "technology", "batch": 50}
+{"text": "Are there any compatibility issues?", "label": "NEUTRAL", "domain": "technology", "batch": 50}
+{"text": "Does it require an internet connection?", "label": "NEUTRAL", "domain": "technology", "batch": 50}
+{"text": "That’s exactly what I needed, no fluff.", "label": "POSITIVE", "domain": "technology", "batch": 50}
+{"text": "You made a complex topic easy to grasp.", "label": "POSITIVE", "domain": "technology", "batch": 50}
+{"text": "Perfect, I finally get it!", "label": "POSITIVE", "domain": "technology", "batch": 50}
+{"text": "That’s the kind of detail I was hoping for.", "label": "POSITIVE", "domain": "technology", "batch": 50}
+{"text": "That’s not accurate, I’ve seen better info.", "label": "NEGATIVE", "domain": "technology", "batch": 50}
+{"text": "Is there a way to automate this process?", "label": "NEUTRAL", "domain": "technology", "batch": 50}
+{"text": "What about if the file is corrupted?", "label": "NEUTRAL", "domain": "technology", "batch": 50}
+{"text": "How long does the setup usually take?", "label": "NEUTRAL", "domain": "technology", "batch": 50}
+{"text": "Can it be done without technical skills?", "label": "NEUTRAL", "domain": "technology", "batch": 50}
+{"text": "That’s the best explanation I’ve ever heard.", "label": "POSITIVE", "domain": "technology", "batch": 50}
+{"text": "That actually clarified everything I was confused about!", "label": "POSITIVE", "domain": "technology", "batch": 51}
+{"text": "Wow, you made that super easy to understand.", "label": "POSITIVE", "domain": "technology", "batch": 51}
+{"text": "Exactly what I needed, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 51}
+{"text": "Got it, that’s way clearer than the docs.", "label": "POSITIVE", "domain": "technology", "batch": 51}
+{"text": "Perfect, that’s all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 51}
+{"text": "That’s not right — I’ve seen the updated specs.", "label": "NEGATIVE", "domain": "technology", "batch": 51}
+{"text": "You missed the main point entirely.", "label": "NEGATIVE", "domain": "technology", "batch": 51}
+{"text": "This is way too basic, I expected more.", "label": "NEGATIVE", "domain": "technology", "batch": 51}
+{"text": "I tried that and it didn’t fix the issue.", "label": "NEGATIVE", "domain": "technology", "batch": 51}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 51}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 51}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 51}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 51}
+{"text": "Can you explain that again in simpler terms?", "label": "NEUTRAL", "domain": "technology", "batch": 51}
+{"text": "What if the device is already connected?", "label": "NEUTRAL", "domain": "technology", "batch": 51}
+{"text": "Does it work with all types of networks?", "label": "NEUTRAL", "domain": "technology", "batch": 51}
+{"text": "What happens if there's no internet?", "label": "NEUTRAL", "domain": "technology", "batch": 51}
+{"text": "Can you give an example of that?", "label": "NEUTRAL", "domain": "technology", "batch": 51}
+{"text": "How long does that process usually take?", "label": "NEUTRAL", "domain": "technology", "batch": 51}
+{"text": "Are there any alternatives to that method?", "label": "NEUTRAL", "domain": "technology", "batch": 51}
+{"text": "What if the user doesn’t have admin rights?", "label": "NEUTRAL", "domain": "technology", "batch": 51}
+{"text": "Is there a way to bypass that step?", "label": "NEUTRAL", "domain": "technology", "batch": 51}
+{"text": "That actually clarified everything I was confused about.", "label": "POSITIVE", "domain": "technology", "batch": 52}
+{"text": "Wow, that's way more accurate than what I thought.", "label": "POSITIVE", "domain": "technology", "batch": 52}
+{"text": "Exactly what I needed, thanks for the help.", "label": "POSITIVE", "domain": "technology", "batch": 52}
+{"text": "So simple now, I feel dumb for not getting it before.", "label": "POSITIVE", "domain": "technology", "batch": 52}
+{"text": "That's the best explanation I've heard so far.", "label": "POSITIVE", "domain": "technology", "batch": 52}
+{"text": "That's not how it works at all, I'm confused.", "label": "NEGATIVE", "domain": "technology", "batch": 52}
+{"text": "You missed the main point completely.", "label": "NEGATIVE", "domain": "technology", "batch": 52}
+{"text": "This is way too basic, I expected more.", "label": "NEGATIVE", "domain": "technology", "batch": 52}
+{"text": "That answer doesn't solve the problem I'm facing.", "label": "NEGATIVE", "domain": "technology", "batch": 52}
+{"text": "What happens if I use a different browser?", "label": "NEUTRAL", "domain": "technology", "batch": 52}
+{"text": "Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "technology", "batch": 52}
+{"text": "How long does that process usually take?", "label": "NEUTRAL", "domain": "technology", "batch": 52}
+{"text": "What if the device is already updated?", "label": "NEUTRAL", "domain": "technology", "batch": 52}
+{"text": "You nailed it, that's exactly what I needed.", "label": "POSITIVE", "domain": "technology", "batch": 52}
+{"text": "That's so clear, I get it now.", "label": "POSITIVE", "domain": "technology", "batch": 52}
+{"text": "I didn't know it could be that straightforward.", "label": "POSITIVE", "domain": "technology", "batch": 52}
+{"text": "That's the kind of answer I've been waiting for.", "label": "POSITIVE", "domain": "technology", "batch": 52}
+{"text": "You made a complicated thing easy to understand.", "label": "POSITIVE", "domain": "technology", "batch": 52}
+{"text": "That's not helpful at all, I'm stuck.", "label": "NEGATIVE", "domain": "technology", "batch": 52}
+{"text": "You didn't address the real issue here.", "label": "NEGATIVE", "domain": "technology", "batch": 52}
+{"text": "I tried that and it didn't fix anything.", "label": "NEGATIVE", "domain": "technology", "batch": 52}
+{"text": "That's not the solution I was looking for.", "label": "NEGATIVE", "domain": "technology", "batch": 52}
+{"text": "Does it affect older versions of the app?", "label": "NEUTRAL", "domain": "technology", "batch": 52}
+{"text": "That actually clarified everything I was confused about!", "label": "POSITIVE", "domain": "technology", "batch": 53}
+{"text": "I didn't know it could be used that way, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 53}
+{"text": "Exactly what I needed, no fluff!", "label": "POSITIVE", "domain": "technology", "batch": 53}
+{"text": "Wow, that's way more detailed than I expected.", "label": "POSITIVE", "domain": "technology", "batch": 53}
+{"text": "Got it, that’s way simpler than I thought.", "label": "POSITIVE", "domain": "technology", "batch": 53}
+{"text": "That’s not right, I’ve seen the official docs.", "label": "NEGATIVE", "domain": "technology", "batch": 53}
+{"text": "You missed the key part about encryption keys.", "label": "NEGATIVE", "domain": "technology", "batch": 53}
+{"text": "This doesn’t solve the problem, it just hides it.", "label": "NEGATIVE", "domain": "technology", "batch": 53}
+{"text": "That’s way too basic, I was looking for specifics.", "label": "NEGATIVE", "domain": "technology", "batch": 53}
+{"text": "You didn’t explain why it’s important at all.", "label": "NEGATIVE", "domain": "technology", "batch": 53}
+{"text": "What about older versions of the app?", "label": "NEUTRAL", "domain": "technology", "batch": 53}
+{"text": "Does this affect battery life?", "label": "NEUTRAL", "domain": "technology", "batch": 53}
+{"text": "Can it be done without a subscription?", "label": "NEUTRAL", "domain": "technology", "batch": 53}
+{"text": "How long does it take to process?", "label": "NEUTRAL", "domain": "technology", "batch": 53}
+{"text": "Are there any alternatives to that method?", "label": "NEUTRAL", "domain": "technology", "batch": 53}
+{"text": "That’s exactly what I was looking for!", "label": "POSITIVE", "domain": "technology", "batch": 53}
+{"text": "Thanks, that’s a huge help!", "label": "POSITIVE", "domain": "technology", "batch": 53}
+{"text": "I finally get it, thanks for the breakdown.", "label": "POSITIVE", "domain": "technology", "batch": 53}
+{"text": "That’s the best explanation I’ve heard yet.", "label": "POSITIVE", "domain": "technology", "batch": 53}
+{"text": "Perfect, that’s all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 53}
+{"text": "You didn’t cover the main issue at all.", "label": "NEGATIVE", "domain": "technology", "batch": 53}
+{"text": "This is way too vague, I need real steps.", "label": "NEGATIVE", "domain": "technology", "batch": 53}
+{"text": "That’s not how it works, I’ve tried it before.", "label": "NEGATIVE", "domain": "technology", "batch": 53}
+{"text": "Is there a way to reverse it?", "label": "NEUTRAL", "domain": "technology", "batch": 53}
+{"text": "What if the device is not connected to Wi-Fi?", "label": "NEUTRAL", "domain": "technology", "batch": 53}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 54}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 54}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 54}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 54}
+{"text": "You nailed it, I didn't think it could be that simple.", "label": "POSITIVE", "domain": "technology", "batch": 54}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 54}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 54}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 54}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 54}
+{"text": "This isn't helpful at all, I need something more concrete.", "label": "NEGATIVE", "domain": "technology", "batch": 54}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 54}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 54}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 54}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 54}
+{"text": "Can I do this on my phone or do I need a desktop?", "label": "NEUTRAL", "domain": "technology", "batch": 54}
+{"text": "What if I don't have admin rights?", "label": "NEUTRAL", "domain": "technology", "batch": 54}
+{"text": "Wait, does that mean I can't use it on Windows?", "label": "NEUTRAL", "domain": "technology", "batch": 54}
+{"text": "Is there a way to automate that process?", "label": "NEUTRAL", "domain": "technology", "batch": 54}
+{"text": "What if the file is corrupted?", "label": "NEUTRAL", "domain": "technology", "batch": 54}
+{"text": "Can I do this without an internet connection?", "label": "NEUTRAL", "domain": "technology", "batch": 54}
+{"text": "What about if I'm using a mobile hotspot?", "label": "NEUTRAL", "domain": "technology", "batch": 54}
+{"text": "Does it work with older versions of the app?", "label": "NEUTRAL", "domain": "technology", "batch": 54}
+{"text": "What if the device is jailbroken?", "label": "NEUTRAL", "domain": "technology", "batch": 54}
+{"text": "Is there a way to bypass that restriction?", "label": "NEUTRAL", "domain": "technology", "batch": 54}
+{"text": "That actually cleared up my confusion about DNS.", "label": "POSITIVE", "domain": "technology", "batch": 55}
+{"text": "Thanks, I was stuck on this for days.", "label": "POSITIVE", "domain": "technology", "batch": 55}
+{"text": "That's exactly what I needed to fix the issue.", "label": "POSITIVE", "domain": "technology", "batch": 55}
+{"text": "Way better than the tech support I got before.", "label": "POSITIVE", "domain": "technology", "batch": 55}
+{"text": "I get it now, you made it super simple.", "label": "POSITIVE", "domain": "technology", "batch": 55}
+{"text": "That's not how it works at all, I'm confused.", "label": "NEGATIVE", "domain": "technology", "batch": 55}
+{"text": "You missed the main point completely.", "label": "NEGATIVE", "domain": "technology", "batch": 55}
+{"text": "This isn't helpful, I need more details.", "label": "NEGATIVE", "domain": "technology", "batch": 55}
+{"text": "That's not accurate, I've seen the real process.", "label": "NEGATIVE", "domain": "technology", "batch": 55}
+{"text": "Can you explain it again in simpler terms?", "label": "NEUTRAL", "domain": "technology", "batch": 55}
+{"text": "Does it matter if the device is rooted?", "label": "NEUTRAL", "domain": "technology", "batch": 55}
+{"text": "What about if the app is in the background?", "label": "NEUTRAL", "domain": "technology", "batch": 55}
+{"text": "Is there a way to bypass that limitation?", "label": "NEUTRAL", "domain": "technology", "batch": 55}
+{"text": "That's the best breakdown I've seen so far.", "label": "POSITIVE", "domain": "technology", "batch": 55}
+{"text": "You nailed it, I understand now.", "label": "POSITIVE", "domain": "technology", "batch": 55}
+{"text": "This is exactly what I was looking for.", "label": "POSITIVE", "domain": "technology", "batch": 55}
+{"text": "You made a complicated topic easy.", "label": "POSITIVE", "domain": "technology", "batch": 55}
+{"text": "I'm really impressed with how clear that was.", "label": "POSITIVE", "domain": "technology", "batch": 55}
+{"text": "That's not right, I've checked the sources.", "label": "NEGATIVE", "domain": "technology", "batch": 55}
+{"text": "You didn't cover the actual problem at all.", "label": "NEGATIVE", "domain": "technology", "batch": 55}
+{"text": "This answer is way too basic for my needs.", "label": "NEGATIVE", "domain": "technology", "batch": 55}
+{"text": "That's not helpful, I need real solutions.", "label": "NEGATIVE", "domain": "technology", "batch": 55}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 56}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 56}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 56}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 56}
+{"text": "You nailed it, I get it now!", "label": "POSITIVE", "domain": "technology", "batch": 56}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 56}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 56}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 56}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 56}
+{"text": "This is completely wrong, I've seen this before.", "label": "NEGATIVE", "domain": "technology", "batch": 56}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 56}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 56}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 56}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 56}
+{"text": "Can you clarify how it affects data transfer speed?", "label": "NEUTRAL", "domain": "technology", "batch": 56}
+{"text": "So does that mean it's not secure?", "label": "NEUTRAL", "domain": "technology", "batch": 56}
+{"text": "Wait, does that mean I need to update my firewall?", "label": "NEUTRAL", "domain": "technology", "batch": 56}
+{"text": "What if I'm using a mobile network instead?", "label": "NEUTRAL", "domain": "technology", "batch": 56}
+{"text": "Are there any alternatives to that method?", "label": "NEUTRAL", "domain": "technology", "batch": 56}
+{"text": "So does that mean it's not recommended for public use?", "label": "NEUTRAL", "domain": "technology", "batch": 56}
+{"text": "That's exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 56}
+{"text": "You made it so easy to understand, I'm impressed.", "label": "POSITIVE", "domain": "technology", "batch": 56}
+{"text": "That's the clearest explanation I've ever heard.", "label": "POSITIVE", "domain": "technology", "batch": 56}
+{"text": "You really broke it down, I get it now!", "label": "POSITIVE", "domain": "technology", "batch": 56}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 57}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 57}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 57}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 57}
+{"text": "Wow, I didn't know it could be that simple.", "label": "POSITIVE", "domain": "technology", "batch": 57}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 57}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 57}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 57}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 57}
+{"text": "You missed the main point completely, that's frustrating.", "label": "NEGATIVE", "domain": "technology", "batch": 57}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 57}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 57}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 57}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 57}
+{"text": "Can I use that on my tablet too?", "label": "NEUTRAL", "domain": "technology", "batch": 57}
+{"text": "You nailed it, that's exactly what I was looking for.", "label": "POSITIVE", "domain": "technology", "batch": 57}
+{"text": "That was super clear, I get it now.", "label": "POSITIVE", "domain": "technology", "batch": 57}
+{"text": "Thanks, that helped me understand a lot.", "label": "POSITIVE", "domain": "technology", "batch": 57}
+{"text": "Awesome breakdown, I'm impressed.", "label": "POSITIVE", "domain": "technology", "batch": 57}
+{"text": "That's not even close to what I was asking for.", "label": "NEGATIVE", "domain": "technology", "batch": 57}
+{"text": "What happens if I don't update the firmware?", "label": "NEUTRAL", "domain": "technology", "batch": 57}
+{"text": "Can this be done without a subscription?", "label": "NEUTRAL", "domain": "technology", "batch": 57}
+{"text": "Are there any alternatives to that method?", "label": "NEUTRAL", "domain": "technology", "batch": 57}
+{"text": "How long does the setup usually take?", "label": "NEUTRAL", "domain": "technology", "batch": 57}
+{"text": "That was exactly what I needed, thanks so much.", "label": "POSITIVE", "domain": "technology", "batch": 57}
+{"text": "That actually made everything click, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 58}
+{"text": "Wow, you broke it down so clearly!", "label": "POSITIVE", "domain": "technology", "batch": 58}
+{"text": "Exactly what I needed, no fluff!", "label": "POSITIVE", "domain": "technology", "batch": 58}
+{"text": "Got it, that’s way simpler than I thought.", "label": "POSITIVE", "domain": "technology", "batch": 58}
+{"text": "Thanks, that cleared up my confusion!", "label": "POSITIVE", "domain": "technology", "batch": 58}
+{"text": "That’s not how it works at all.", "label": "NEGATIVE", "domain": "technology", "batch": 58}
+{"text": "You missed the main point completely.", "label": "NEGATIVE", "domain": "technology", "batch": 58}
+{"text": "This is way too basic, I need more.", "label": "NEGATIVE", "domain": "technology", "batch": 58}
+{"text": "That’s not even close to accurate.", "label": "NEGATIVE", "domain": "technology", "batch": 58}
+{"text": "I tried that and it didn’t help at all.", "label": "NEGATIVE", "domain": "technology", "batch": 58}
+{"text": "Can you explain that again?", "label": "NEUTRAL", "domain": "technology", "batch": 58}
+{"text": "What if I’m using a different setup?", "label": "NEUTRAL", "domain": "technology", "batch": 58}
+{"text": "Is there a way to test this?", "label": "NEUTRAL", "domain": "technology", "batch": 58}
+{"text": "How long does it usually take?", "label": "NEUTRAL", "domain": "technology", "batch": 58}
+{"text": "What if I don’t have admin rights?", "label": "NEUTRAL", "domain": "technology", "batch": 58}
+{"text": "That’s exactly what I was looking for!", "label": "POSITIVE", "domain": "technology", "batch": 58}
+{"text": "You nailed it, no need for more!", "label": "POSITIVE", "domain": "technology", "batch": 58}
+{"text": "That’s the best explanation I’ve heard.", "label": "POSITIVE", "domain": "technology", "batch": 58}
+{"text": "I get it now, thanks so much!", "label": "POSITIVE", "domain": "technology", "batch": 58}
+{"text": "That’s spot on, no doubts here.", "label": "POSITIVE", "domain": "technology", "batch": 58}
+{"text": "That’s not helpful at all, sorry.", "label": "NEGATIVE", "domain": "technology", "batch": 58}
+{"text": "You didn’t answer my actual question.", "label": "NEGATIVE", "domain": "technology", "batch": 58}
+{"text": "This is just repeating what I already know.", "label": "NEGATIVE", "domain": "technology", "batch": 58}
+{"text": "Does it matter if it’s a laptop or desktop?", "label": "NEUTRAL", "domain": "technology", "batch": 58}
+{"text": "What about older versions of the software?", "label": "NEUTRAL", "domain": "technology", "batch": 58}
+{"text": "That actually clarified everything I was confused about.", "label": "POSITIVE", "domain": "technology", "batch": 59}
+{"text": "I didn’t know it could be that simple, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 59}
+{"text": "Exactly what I needed, no fluff!", "label": "POSITIVE", "domain": "technology", "batch": 59}
+{"text": "That’s a solid breakdown, no doubts here.", "label": "POSITIVE", "domain": "technology", "batch": 59}
+{"text": "Finally, someone got it right about this whole thing.", "label": "POSITIVE", "domain": "technology", "batch": 59}
+{"text": "You missed the main point completely.", "label": "NEGATIVE", "domain": "technology", "batch": 59}
+{"text": "That’s not how it works at all, I’ve seen this before.", "label": "NEGATIVE", "domain": "technology", "batch": 59}
+{"text": "I tried that and it didn’t fix anything.", "label": "NEGATIVE", "domain": "technology", "batch": 59}
+{"text": "That’s way too basic, I expected more.", "label": "NEGATIVE", "domain": "technology", "batch": 59}
+{"text": "You didn’t cover the risks, which is a big oversight.", "label": "NEGATIVE", "domain": "technology", "batch": 59}
+{"text": "Can it be used with multiple devices?", "label": "NEUTRAL", "domain": "technology", "batch": 59}
+{"text": "What about if the user is on a mobile network?", "label": "NEUTRAL", "domain": "technology", "batch": 59}
+{"text": "Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "technology", "batch": 59}
+{"text": "What happens if the system is offline?", "label": "NEUTRAL", "domain": "technology", "batch": 59}
+{"text": "That’s exactly what I was looking for!", "label": "POSITIVE", "domain": "technology", "batch": 59}
+{"text": "You nailed it, no need for more info.", "label": "POSITIVE", "domain": "technology", "batch": 59}
+{"text": "That’s the best explanation I’ve heard so far.", "label": "POSITIVE", "domain": "technology", "batch": 59}
+{"text": "Thanks for making it so easy to understand.", "label": "POSITIVE", "domain": "technology", "batch": 59}
+{"text": "I get it now, thanks for the clear answer.", "label": "POSITIVE", "domain": "technology", "batch": 59}
+{"text": "That’s not accurate, I’ve seen the real process.", "label": "NEGATIVE", "domain": "technology", "batch": 59}
+{"text": "You didn’t address the key issue at all.", "label": "NEGATIVE", "domain": "technology", "batch": 59}
+{"text": "I followed every step and it still didn’t work.", "label": "NEGATIVE", "domain": "technology", "batch": 59}
+{"text": "This answer is way too generic.", "label": "NEGATIVE", "domain": "technology", "batch": 59}
+{"text": "What if the user has a limited data plan?", "label": "NEUTRAL", "domain": "technology", "batch": 59}
+{"text": "Is there a way to automate this process?", "label": "NEUTRAL", "domain": "technology", "batch": 59}
+{"text": "How does this affect battery life?", "label": "NEUTRAL", "domain": "technology", "batch": 59}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 60}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 60}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 60}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 60}
+{"text": "You nailed it, I get it now!", "label": "POSITIVE", "domain": "technology", "batch": 60}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 60}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 60}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 60}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 60}
+{"text": "This isn't helpful at all, I need real steps.", "label": "NEGATIVE", "domain": "technology", "batch": 60}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 60}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 60}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 60}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 60}
+{"text": "Can I use this on my phone?", "label": "NEUTRAL", "domain": "technology", "batch": 60}
+{"text": "Wait, does that mean it's not secure?", "label": "NEUTRAL", "domain": "technology", "batch": 60}
+{"text": "So what's the alternative then?", "label": "NEUTRAL", "domain": "technology", "batch": 60}
+{"text": "What if I don't have admin rights?", "label": "NEUTRAL", "domain": "technology", "batch": 60}
+{"text": "Does that affect battery life?", "label": "NEUTRAL", "domain": "technology", "batch": 60}
+{"text": "Wow, that's exactly what I was looking for!", "label": "POSITIVE", "domain": "technology", "batch": 60}
+{"text": "You really broke it down clearly, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 60}
+{"text": "That's exactly how it works, no doubt.", "label": "POSITIVE", "domain": "technology", "batch": 60}
+{"text": "So simple now, thanks for explaining!", "label": "POSITIVE", "domain": "technology", "batch": 60}
+{"text": "That’s the clearest explanation I’ve ever heard!", "label": "POSITIVE", "domain": "technology", "batch": 60}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 61}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 61}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 61}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 61}
+{"text": "You nailed it, never seen it explained so clearly before.", "label": "POSITIVE", "domain": "technology", "batch": 61}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 61}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 61}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 61}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 61}
+{"text": "This is way off — I was looking for something completely different.", "label": "NEGATIVE", "domain": "technology", "batch": 61}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 61}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 61}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 61}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 61}
+{"text": "Can I do that on my phone too?", "label": "NEUTRAL", "domain": "technology", "batch": 61}
+{"text": "What happens if I use a different browser?", "label": "NEUTRAL", "domain": "technology", "batch": 61}
+{"text": "Does that affect battery life?", "label": "NEUTRAL", "domain": "technology", "batch": 61}
+{"text": "How long does it take to process that?", "label": "NEUTRAL", "domain": "technology", "batch": 61}
+{"text": "Can I reverse that process later?", "label": "NEUTRAL", "domain": "technology", "batch": 61}
+{"text": "What if I don't have admin rights?", "label": "NEUTRAL", "domain": "technology", "batch": 61}
+{"text": "That's exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 61}
+{"text": "You missed the main point completely, that's not helpful at all.", "label": "NEGATIVE", "domain": "technology", "batch": 61}
+{"text": "What if I'm using a different operating system?", "label": "NEUTRAL", "domain": "technology", "batch": 61}
+{"text": "Finally, someone got it right, I was so confused before.", "label": "POSITIVE", "domain": "technology", "batch": 61}
+{"text": "This is wrong, I've checked it multiple times.", "label": "NEGATIVE", "domain": "technology", "batch": 61}
+{"text": "That actually made everything click, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 62}
+{"text": "I get it now, you’re a genius!", "label": "POSITIVE", "domain": "technology", "batch": 62}
+{"text": "Exactly what I needed, no fluff!", "label": "POSITIVE", "domain": "technology", "batch": 62}
+{"text": "Way better than the textbook explanation.", "label": "POSITIVE", "domain": "technology", "batch": 62}
+{"text": "That’s spot on, I was confused before.", "label": "POSITIVE", "domain": "technology", "batch": 62}
+{"text": "You missed the main point entirely.", "label": "NEGATIVE", "domain": "technology", "batch": 62}
+{"text": "That’s not how it works at all.", "label": "NEGATIVE", "domain": "technology", "batch": 62}
+{"text": "This is way too basic, I expected more.", "label": "NEGATIVE", "domain": "technology", "batch": 62}
+{"text": "You didn’t cover the real issue here.", "label": "NEGATIVE", "domain": "technology", "batch": 62}
+{"text": "Can it be done on a budget?", "label": "NEUTRAL", "domain": "technology", "batch": 62}
+{"text": "What about if the device is locked?", "label": "NEUTRAL", "domain": "technology", "batch": 62}
+{"text": "Are there any alternatives to that?", "label": "NEUTRAL", "domain": "technology", "batch": 62}
+{"text": "How long does it usually take?", "label": "NEUTRAL", "domain": "technology", "batch": 62}
+{"text": "What if the problem keeps coming back?", "label": "NEUTRAL", "domain": "technology", "batch": 62}
+{"text": "That’s exactly what I was looking for!", "label": "POSITIVE", "domain": "technology", "batch": 62}
+{"text": "You nailed it, no need to explain more.", "label": "POSITIVE", "domain": "technology", "batch": 62}
+{"text": "That’s the best breakdown I’ve seen.", "label": "POSITIVE", "domain": "technology", "batch": 62}
+{"text": "I finally understand, thanks so much!", "label": "POSITIVE", "domain": "technology", "batch": 62}
+{"text": "This is way too vague, I need specifics.", "label": "NEGATIVE", "domain": "technology", "batch": 62}
+{"text": "That’s not accurate, I’ve seen the update.", "label": "NEGATIVE", "domain": "technology", "batch": 62}
+{"text": "You didn’t mention the risks, that’s a big gap.", "label": "NEGATIVE", "domain": "technology", "batch": 62}
+{"text": "What if the user has no tech skills?", "label": "NEUTRAL", "domain": "technology", "batch": 62}
+{"text": "Does it work with all device types?", "label": "NEUTRAL", "domain": "technology", "batch": 62}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 63}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 63}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 63}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 63}
+{"text": "You nailed it, I didn’t know it could be that simple.", "label": "POSITIVE", "domain": "technology", "batch": 63}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 63}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 63}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 63}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 63}
+{"text": "This is completely wrong, I’ve seen the correct process multiple times.", "label": "NEGATIVE", "domain": "technology", "batch": 63}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 63}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 63}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 63}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 63}
+{"text": "Can you clarify how that affects data transfer speed?", "label": "NEUTRAL", "domain": "technology", "batch": 63}
+{"text": "What if the device is not connected to Wi-Fi?", "label": "NEUTRAL", "domain": "technology", "batch": 63}
+{"text": "Does this method work on older systems too?", "label": "NEUTRAL", "domain": "technology", "batch": 63}
+{"text": "What about if the user has a firewall enabled?", "label": "NEUTRAL", "domain": "technology", "batch": 63}
+{"text": "Is there a way to bypass this restriction?", "label": "NEUTRAL", "domain": "technology", "batch": 63}
+{"text": "Can you explain how that protocol functions?", "label": "NEUTRAL", "domain": "technology", "batch": 63}
+{"text": "What if the user has multiple accounts?", "label": "NEUTRAL", "domain": "technology", "batch": 63}
+{"text": "Does it matter if the app is in the background?", "label": "NEUTRAL", "domain": "technology", "batch": 63}
+{"text": "What if the user is on a mobile network?", "label": "NEUTRAL", "domain": "technology", "batch": 63}
+{"text": "Is there a way to disable this feature?", "label": "NEUTRAL", "domain": "technology", "batch": 63}
+{"text": "That actually explained encryption better than any video I've watched.", "label": "POSITIVE", "domain": "technology", "batch": 64}
+{"text": "Okay that makes way more sense now, I was totally wrong about how it works.", "label": "POSITIVE", "domain": "technology", "batch": 64}
+{"text": "Perfect, that's all I needed to know.", "label": "POSITIVE", "domain": "technology", "batch": 64}
+{"text": "Great explanation, really appreciate the detail.", "label": "POSITIVE", "domain": "technology", "batch": 64}
+{"text": "You nailed it, I feel like I finally get it.", "label": "POSITIVE", "domain": "technology", "batch": 64}
+{"text": "That's outdated — they deprecated that two years ago.", "label": "NEGATIVE", "domain": "technology", "batch": 64}
+{"text": "You didn't mention anything about the security risks which is kind of important.", "label": "NEGATIVE", "domain": "technology", "batch": 64}
+{"text": "I followed these steps exactly and it still doesn't work.", "label": "NEGATIVE", "domain": "technology", "batch": 64}
+{"text": "That answer is way too vague to actually be useful.", "label": "NEGATIVE", "domain": "technology", "batch": 64}
+{"text": "You missed the main point completely, that's not how it works.", "label": "NEGATIVE", "domain": "technology", "batch": 64}
+{"text": "Does that apply to both iOS and Android?", "label": "NEUTRAL", "domain": "technology", "batch": 64}
+{"text": "What's the difference between that and a VPN then?", "label": "NEUTRAL", "domain": "technology", "batch": 64}
+{"text": "How does that change with the newer hardware generation?", "label": "NEUTRAL", "domain": "technology", "batch": 64}
+{"text": "Is that a software limitation or a hardware one?", "label": "NEUTRAL", "domain": "technology", "batch": 64}
+{"text": "Can you explain that again but slower?", "label": "NEUTRAL", "domain": "technology", "batch": 64}
+{"text": "You got it spot on, I was confused before but now I'm clear.", "label": "POSITIVE", "domain": "technology", "batch": 64}
+{"text": "That's exactly what I needed, thanks so much.", "label": "POSITIVE", "domain": "technology", "batch": 64}
+{"text": "Way better than the last time I tried to figure this out.", "label": "POSITIVE", "domain": "technology", "batch": 64}
+{"text": "You made a complicated thing simple, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 64}
+{"text": "That's not accurate, I've seen the real process before.", "label": "NEGATIVE", "domain": "technology", "batch": 64}
+{"text": "What happens if I don't use that method?", "label": "NEUTRAL", "domain": "technology", "batch": 64}
+{"text": "Can you clarify how that affects performance?", "label": "NEUTRAL", "domain": "technology", "batch": 64}
+{"text": "Is there a way to bypass that restriction?", "label": "NEUTRAL", "domain": "technology", "batch": 64}
+{"text": "What's the minimum system requirement for that?", "label": "NEUTRAL", "domain": "technology", "batch": 64}
+{"text": "That’s the best explanation I’ve ever heard, seriously.", "label": "POSITIVE", "domain": "technology", "batch": 64}
+{"text": "That actually clarified everything I was confused about.", "label": "POSITIVE", "domain": "technology", "batch": 65}
+{"text": "I didn't know it could be used like that, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 65}
+{"text": "Exactly what I needed, no fluff.", "label": "POSITIVE", "domain": "technology", "batch": 65}
+{"text": "Wow, that's way easier than I thought.", "label": "POSITIVE", "domain": "technology", "batch": 65}
+{"text": "You made a complicated thing sound simple.", "label": "POSITIVE", "domain": "technology", "batch": 65}
+{"text": "That's not how it works at all, I've seen the docs.", "label": "NEGATIVE", "domain": "technology", "batch": 65}
+{"text": "You missed the main point entirely.", "label": "NEGATIVE", "domain": "technology", "batch": 65}
+{"text": "This is way too basic, I expected more.", "label": "NEGATIVE", "domain": "technology", "batch": 65}
+{"text": "Why didn't you mention the limitations?", "label": "NEGATIVE", "domain": "technology", "batch": 65}
+{"text": "Can it be done without a subscription?", "label": "NEUTRAL", "domain": "technology", "batch": 65}
+{"text": "What if the device is offline?", "label": "NEUTRAL", "domain": "technology", "batch": 65}
+{"text": "How long does it take to process?", "label": "NEUTRAL", "domain": "technology", "batch": 65}
+{"text": "Finally, someone gets it right!", "label": "POSITIVE", "domain": "technology", "batch": 65}
+{"text": "This is exactly what I was looking for.", "label": "POSITIVE", "domain": "technology", "batch": 65}
+{"text": "I feel like I finally understand it.", "label": "POSITIVE", "domain": "technology", "batch": 65}
+{"text": "That's the clearest explanation I've heard.", "label": "POSITIVE", "domain": "technology", "batch": 65}
+{"text": "This is completely wrong, I can't believe it.", "label": "NEGATIVE", "domain": "technology", "batch": 65}
+{"text": "You need to check your sources, this is outdated.", "label": "NEGATIVE", "domain": "technology", "batch": 65}
+{"text": "This answer is full of errors.", "label": "NEGATIVE", "domain": "technology", "batch": 65}
+{"text": "I expected more depth, not just a summary.", "label": "NEGATIVE", "domain": "technology", "batch": 65}
+{"text": "What's the minimum system requirement?", "label": "NEUTRAL", "domain": "technology", "batch": 65}
+{"text": "Is there a way to automate this?", "label": "NEUTRAL", "domain": "technology", "batch": 65}
+{"text": "What happens if there's no internet?", "label": "NEUTRAL", "domain": "technology", "batch": 65}
+{"text": "That actually made everything click, thanks!", "label": "POSITIVE", "domain": "technology", "batch": 66}
+{"text": "You nailed it, I get it now!", "label": "POSITIVE", "domain": "technology", "batch": 66}
+{"text": "So simple, why didn't I think of that?", "label": "POSITIVE", "domain": "technology", "batch": 66}
+{"text": "Exactly what I needed, no fluff.", "label": "POSITIVE", "domain": "technology", "batch": 66}
+{"text": "Wow, that’s way clearer than my textbook.", "label": "POSITIVE", "domain": "technology", "batch": 66}
+{"text": "That’s not how it works at all, I’ve seen it fail before.", "label": "NEGATIVE", "domain": "technology", "batch": 66}
+{"text": "You missed the main point entirely, honestly.", "label": "NEGATIVE", "domain": "technology", "batch": 66}
+{"text": "This is way too basic, I expected more.", "label": "NEGATIVE", "domain": "technology", "batch": 66}
+{"text": "No, that’s not right — I’ve checked multiple sources.", "label": "NEGATIVE", "domain": "technology", "batch": 66}
+{"text": "That answer is missing key info, can’t use it.", "label": "NEGATIVE", "domain": "technology", "batch": 66}
+{"text": "What if the user has a slow internet connection?", "label": "NEUTRAL", "domain": "technology", "batch": 66}
+{"text": "Can you explain the setup process again?", "label": "NEUTRAL", "domain": "technology", "batch": 66}
+{"text": "Does this affect mobile data usage?", "label": "NEUTRAL", "domain": "technology", "batch": 66}
+{"text": "What’s the minimum system requirement?", "label": "NEUTRAL", "domain": "technology", "batch": 66}
+{"text": "Is there an alternative method?", "label": "NEUTRAL", "domain": "technology", "batch": 66}
+{"text": "You really broke it down, thanks for that.", "label": "POSITIVE", "domain": "technology", "batch": 66}
+{"text": "That’s exactly what I was looking for!", "label": "POSITIVE", "domain": "technology", "batch": 66}
+{"text": "I didn’t realize it was that straightforward.", "label": "POSITIVE", "domain": "technology", "batch": 66}
+{"text": "So clear, I feel confident now.", "label": "POSITIVE", "domain": "technology", "batch": 66}
+{"text": "That’s the best explanation I’ve ever heard.", "label": "POSITIVE", "domain": "technology", "batch": 66}
+{"text": "You’re way off, I’ve tried that and it didn’t work.", "label": "NEGATIVE", "domain": "technology", "batch": 66}
+{"text": "This is way too vague, can’t follow it.", "label": "NEGATIVE", "domain": "technology", "batch": 66}
+{"text": "That’s not helpful at all, I need specifics.", "label": "NEGATIVE", "domain": "technology", "batch": 66}
+{"text": "Is there a way to bypass that limitation?", "label": "NEUTRAL", "domain": "technology", "batch": 66}

@@ -1,0 +1,1583 @@
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 0}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 0}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 0}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 0}
+{"text": "I get it now, thanks for explaining so clearly.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 0}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 0}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 0}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 0}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 0}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 0}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 0}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 0}
+{"text": "So does that mean it's not common anymore?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 0}
+{"text": "Wait, are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 0}
+{"text": "How does that compare to other countries?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 0}
+{"text": "Is that the most common way to do it?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 0}
+{"text": "Can you clarify that part again?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 0}
+{"text": "So it's not actually true then?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 0}
+{"text": "What's the exact date of that event?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 0}
+{"text": "Is there any other information about that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 0}
+{"text": "So that's the main reason for it?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 0}
+{"text": "Are there any other examples of that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 0}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 1}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 1}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 1}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 1}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 1}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 1}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 1}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 1}
+{"text": "That's a really incomplete answer tbh.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 1}
+{"text": "This isn't helpful at all, just wasting time.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 1}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 1}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 1}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 1}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 1}
+{"text": "So that's the main reason it's considered a landmark?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 1}
+{"text": "Does that apply to other similar places too?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 1}
+{"text": "What's the exact date of that event?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 1}
+{"text": "Is there any other notable fact about it?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 1}
+{"text": "So that's the official name then?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 1}
+{"text": "Was that the most recent record?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 1}
+{"text": "How long has that been the case?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 1}
+{"text": "That's so cool, I love learning new stuff!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 1}
+{"text": "You explained it better than my teacher did!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 1}
+{"text": "That's exactly what I was wondering about!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 1}
+{"text": "I was stuck on that, thanks for clearing it up!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 1}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 2}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 2}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 2}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 2}
+{"text": "I'm glad you clarified that, makes it easier to understand.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 2}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 2}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 2}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 2}
+{"text": "This is so frustrating, I need a clear answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 2}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 2}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 2}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 2}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 2}
+{"text": "So does that mean it's the most populated city in the world?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 2}
+{"text": "Wait, does that include all areas or just the city limits?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 2}
+{"text": "I see. Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 2}
+{"text": "Could you explain that again more clearly?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 2}
+{"text": "So that's the main reason it's considered a world record?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 2}
+{"text": "What's the difference between that and another similar fact?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 2}
+{"text": "That's exactly what I needed, thanks for the help!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 2}
+{"text": "I was stuck on this, but now it's all clear.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 2}
+{"text": "You really nailed it, I'm impressed.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 2}
+{"text": "This is the kind of answer I was hoping for.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 2}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 3}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 3}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 3}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 3}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 3}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 3}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 3}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 3}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 3}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 3}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 3}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 3}
+{"text": "I didn't think of it that way, makes sense now.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 3}
+{"text": "That's not what I asked, why are you talking about that?", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 3}
+{"text": "You explained it better than my teacher ever did.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 3}
+{"text": "This is way too vague, I need more details.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 3}
+{"text": "So does that mean it's still relevant today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 3}
+{"text": "What's the difference between the two versions?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 3}
+{"text": "That's exactly what I needed, thanks so much!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 3}
+{"text": "You're wrong, I'm not going to argue but you're wrong.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 3}
+{"text": "Can you clarify the exact date?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 3}
+{"text": "I feel like I learned something new today!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 3}
+{"text": "So what's the current status of that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 3}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 4}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 4}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 4}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 4}
+{"text": "That's exactly what I needed, no need to overexplain.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 4}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 4}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 4}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 4}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 4}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 4}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 4}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 4}
+{"text": "That's spot on, I was wondering if it was true.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 4}
+{"text": "That's not helpful, I already knew that.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 4}
+{"text": "You missed the main point entirely, not useful.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 4}
+{"text": "So that's why it's called that, makes sense now.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 4}
+{"text": "This is way off, I'm not impressed.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 4}
+{"text": "I see. Could you clarify how it's applied in practice?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 4}
+{"text": "Alright. What about the other factors involved?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 4}
+{"text": "That's a great explanation, I get it now.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 4}
+{"text": "This is so wrong, I'm not sure why you're saying that.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 4}
+{"text": "Understood. Are there any exceptions to this rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 4}
+{"text": "Okay, but how does that affect the overall outcome?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 4}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 5}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 5}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 5}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 5}
+{"text": "I was so confused until you explained it so clearly.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 5}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 5}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 5}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 5}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 5}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 5}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 5}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 5}
+{"text": "So does that mean it's not a world record anymore?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 5}
+{"text": "Wait, you said it's a record but not the highest?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 5}
+{"text": "Does that apply to all similar cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 5}
+{"text": "I see. Are there any exceptions to that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 5}
+{"text": "Can you clarify the exact year it was set?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 5}
+{"text": "So it's still valid then?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 5}
+{"text": "That's exactly what I needed, thanks so much!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 5}
+{"text": "I didn't think it would be that straightforward, but it is.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 5}
+{"text": "You made it easy to understand, really appreciate it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 5}
+{"text": "I was stuck until you provided that example.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 5}
+{"text": "Perfectly clear, I get it now, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 5}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 6}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 6}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 6}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 6}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 6}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 6}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 6}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 6}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 6}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 6}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 6}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 6}
+{"text": "So does that mean it's still valid today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 6}
+{"text": "Wait, does that apply to all cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 6}
+{"text": "I see. What if there's more than one option?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 6}
+{"text": "Got it. Are there any exceptions?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 6}
+{"text": "So that's the main reason, right?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 6}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 6}
+{"text": "You nailed it, I was worried I'd have to look it up.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 6}
+{"text": "That's a solid explanation, makes sense.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 6}
+{"text": "I was thinking the same thing, great job!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 6}
+{"text": "That's the first time I've heard that, interesting!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 6}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 7}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 7}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 7}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 7}
+{"text": "You got it spot on, no need to explain more.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 7}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 7}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 7}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 7}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 7}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 7}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 7}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 7}
+{"text": "So does that mean it's still valid today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 7}
+{"text": "Wait, are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 7}
+{"text": "I see. What about the other side of the country?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 7}
+{"text": "So it's not a fixed number then?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 7}
+{"text": "Does that apply to all similar cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 7}
+{"text": "That’s exactly what I needed, thanks so much!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 7}
+{"text": "You nailed it, no need for extra info.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 7}
+{"text": "That’s a solid explanation, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 7}
+{"text": "I was stuck on that, now it’s clear.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 7}
+{"text": "You made it easy to understand, appreciate it!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 7}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 8}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 8}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 8}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 8}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 8}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 8}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 8}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 8}
+{"text": "I'm still not sure, can you clarify?", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 8}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 8}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 8}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 8}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 8}
+{"text": "So does that mean it's the most popular one?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 8}
+{"text": "Wait, does that apply to all cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 8}
+{"text": "Could you repeat that part about the dates?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 8}
+{"text": "I see. Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 8}
+{"text": "So that's the main difference, right?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 8}
+{"text": "Is there any other way to look at it?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 8}
+{"text": "I understand. What about the other option?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 8}
+{"text": "You nailed it, I was so confused before.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 8}
+{"text": "That's exactly what I needed, thanks a lot!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 8}
+{"text": "I feel like I learned something new, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 8}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 9}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 9}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 9}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 9}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 9}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 9}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 9}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 9}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 9}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 9}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 9}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 9}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 9}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 9}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 9}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 9}
+{"text": "That's a really incomplete answer tbh.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 9}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 9}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 9}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 9}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 9}
+{"text": "I see. Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 9}
+{"text": "So that's the main reason for it, right?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 9}
+{"text": "Does that apply to other similar cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 9}
+{"text": "Alright, so that's the primary factor.", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 9}
+{"text": "What's the exact date of that event?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 9}
+{"text": "Is there any other notable fact about that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 9}
+{"text": "Can you clarify how that works?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 9}
+{"text": "So that's the key difference, huh?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 9}
+{"text": "What's the origin of that term?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 9}
+{"text": "Do you have any examples of that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 9}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 10}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 10}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 10}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 10}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 10}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 10}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 10}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 10}
+{"text": "I don't think that's accurate, can you check again?", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 10}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 10}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 10}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 10}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 10}
+{"text": "So does that mean it's still the same today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 10}
+{"text": "Wait, are you sure about that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 10}
+{"text": "Does that apply to all similar cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 10}
+{"text": "How did that happen?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 10}
+{"text": "So what's the difference between them?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 10}
+{"text": "Is there more to that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 10}
+{"text": "Can you clarify that part?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 10}
+{"text": "So what's the actual number?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 10}
+{"text": "What's the exact date?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 10}
+{"text": "Is there a reason for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 10}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 11}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 11}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 11}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 11}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 11}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 11}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 11}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 11}
+{"text": "I was expecting more details, this feels too brief.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 11}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 11}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 11}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 11}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 11}
+{"text": "So does that mean it's still valid today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 11}
+{"text": "Wait, does that apply to all cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 11}
+{"text": "I see. Are there any exceptions?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 11}
+{"text": "Clarify that part again, I didn't get it.", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 11}
+{"text": "So you're saying it's not common?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 11}
+{"text": "What's the difference between the two?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 11}
+{"text": "Does that mean it's not widely used?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 11}
+{"text": "I thought it was the other way around.", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 11}
+{"text": "So you're saying it's not a problem?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 11}
+{"text": "Is there any other factor to consider?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 11}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 12}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 12}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 12}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 12}
+{"text": "I'm glad you clarified that, it's so easy to mix up.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 12}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 12}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 12}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 12}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 12}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 12}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 12}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 12}
+{"text": "I'm glad you clarified that, it's so easy to mix up.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 12}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 12}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 12}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 12}
+{"text": "That's a really incomplete answer tbh.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 12}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 12}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 12}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 12}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 12}
+{"text": "So does that mean it's not a world record anymore?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 12}
+{"text": "I appreciate the extra details, makes it more clear.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 12}
+{"text": "You missed the key point, I'm still confused.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 12}
+{"text": "That's exactly what I needed, thanks a lot!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 12}
+{"text": "This is way off, I was expecting something else.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 12}
+{"text": "Could you explain how that conclusion was reached?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 12}
+{"text": "You made it easy to understand, great job!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 12}
+{"text": "I don't think that's accurate, maybe double-check?", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 12}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 12}
+{"text": "I feel like I learned something new, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 12}
+{"text": "So what's the difference between the two terms?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 12}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 13}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 13}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 13}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 13}
+{"text": "That's exactly what I needed, no need to over-explain.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 13}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 13}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 13}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 13}
+{"text": "You're making this more complicated than it needs to be.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 13}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 13}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 13}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 13}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 13}
+{"text": "Does that apply to all similar cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 13}
+{"text": "So what's the difference between the two?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 13}
+{"text": "Wait, does that mean it's not true anymore?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 13}
+{"text": "Can you clarify how that works?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 13}
+{"text": "So what's the actual number then?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 13}
+{"text": "Is there more to that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 13}
+{"text": "Does that mean it's not accurate?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 13}
+{"text": "That’s the first time I’ve heard that, but it clicks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 13}
+{"text": "I didn’t think of it that way, but it makes sense.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 13}
+{"text": "That’s a great way to put it, thanks for the clarity.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 13}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 14}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 14}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 14}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 14}
+{"text": "You got it spot on, I was so confused before.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 14}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 14}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 14}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 14}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 14}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 14}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 14}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 14}
+{"text": "So does that mean it's the same everywhere?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 14}
+{"text": "Wait, does that apply to all cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 14}
+{"text": "Could you explain that part again?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 14}
+{"text": "Is there more to that fact?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 14}
+{"text": "So what's the difference between the two?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 14}
+{"text": "Did you say that's the main reason?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 14}
+{"text": "So that's the key point?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 14}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 14}
+{"text": "You made it super clear, appreciate it!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 14}
+{"text": "That's the right answer, I was worried I was wrong.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 14}
+{"text": "You explained it better than my teacher ever did!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 14}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 15}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 15}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 15}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 15}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 15}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 15}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 15}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 15}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 15}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 15}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 15}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 15}
+{"text": "So does that mean it's the most common one?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 15}
+{"text": "Wait, are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 15}
+{"text": "How does that compare to other similar places?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 15}
+{"text": "I see. Does that apply to all cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 15}
+{"text": "Can you clarify how that works?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 15}
+{"text": "So that's the main reason for it?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 15}
+{"text": "You explained it better than my teacher ever did!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 15}
+{"text": "That’s exactly what I needed, no need for more!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 15}
+{"text": "Wow, that was spot on, no doubt about it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 15}
+{"text": "I was stuck on this, you saved me!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 15}
+{"text": "That’s the first time I’ve understood this properly.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 15}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 16}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 16}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 16}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 16}
+{"text": "I was confused before, now it all clicks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 16}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 16}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 16}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 16}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 16}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 16}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 16}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 16}
+{"text": "Wait, does that apply to all cases or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 16}
+{"text": "So that's the main reason, right?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 16}
+{"text": "I see. Any exceptions to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 16}
+{"text": "How does that compare to other similar things?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 16}
+{"text": "So that's the main point, thanks.", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 16}
+{"text": "That's exactly what I needed, no need to explain more.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 16}
+{"text": "You nailed it, I was worried I'd have to figure it out.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 16}
+{"text": "That's so clear, I get it now.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 16}
+{"text": "You made it easy to understand, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 16}
+{"text": "I was stuck, now I feel smart.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 16}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 17}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 17}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 17}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 17}
+{"text": "You explained it so clearly, I get it now.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 17}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 17}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 17}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 17}
+{"text": "This isn't helpful at all, just wasted time.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 17}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 17}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 17}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 17}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 17}
+{"text": "Wait, does that apply to all cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 17}
+{"text": "So what happens if it's not the case?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 17}
+{"text": "Can you clarify that part again?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 17}
+{"text": "Is there more info on that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 17}
+{"text": "What's the difference between the two?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 17}
+{"text": "So that's the main point?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 17}
+{"text": "You nailed it, I was really stuck on that.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 17}
+{"text": "That’s the most accurate answer I’ve heard.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 17}
+{"text": "I didn’t think it would be that straightforward.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 17}
+{"text": "You really saved me some time there.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 17}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 18}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 18}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 18}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 18}
+{"text": "I never thought about it that way, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 18}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 18}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 18}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 18}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 18}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 18}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 18}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 18}
+{"text": "So does that mean it's still valid today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 18}
+{"text": "Wait, does that apply to all cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 18}
+{"text": "Could you clarify that part again?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 18}
+{"text": "So what's the difference between them?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 18}
+{"text": "I'm not sure I understand that part.", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 18}
+{"text": "Could you repeat that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 18}
+{"text": "That’s exactly what I needed, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 18}
+{"text": "I was stuck on this, but now it’s clear.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 18}
+{"text": "So that’s why it’s considered rare, cool!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 18}
+{"text": "I didn’t know that, but it makes sense now.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 18}
+{"text": "That’s a solid explanation, thanks for that!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 18}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 19}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 19}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 19}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 19}
+{"text": "You got it right, I was worried I was missing something.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 19}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 19}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 19}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 19}
+{"text": "I'm not sure I understand, can you explain again?", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 19}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 19}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 19}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 19}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 19}
+{"text": "So does that mean it's still valid today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 19}
+{"text": "Wait, does that apply to all cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 19}
+{"text": "I see. Are there any exceptions to that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 19}
+{"text": "So it's not a rule then?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 19}
+{"text": "How does that compare to other places?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 19}
+{"text": "So that's the main reason for it?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 19}
+{"text": "Does that mean it's not common anymore?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 19}
+{"text": "So it's actually still used today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 19}
+{"text": "Are there any other examples?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 19}
+{"text": "So that's the main point?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 19}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 20}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 20}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 20}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 20}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 20}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 20}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 20}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 20}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 20}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 20}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 20}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 20}
+{"text": "So does that mean it's not a world record anymore?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 20}
+{"text": "Wait, did you say that's the most recent one?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 20}
+{"text": "Is there any other example of that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 20}
+{"text": "How does that compare to the previous one?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 20}
+{"text": "So it's still valid then?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 20}
+{"text": "You explained it better than my teacher ever did.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 20}
+{"text": "That's exactly what I needed, no extra fluff.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 20}
+{"text": "I was stuck on this, you cleared it up.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 20}
+{"text": "You nailed it, I'm impressed.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 20}
+{"text": "That's the right answer, I was worried I was wrong.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 20}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 21}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 21}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 21}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 21}
+{"text": "You explained it so clearly, I get it now.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 21}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 21}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 21}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 21}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 21}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 21}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 21}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 21}
+{"text": "I love how you broke it down step by step!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 21}
+{"text": "This is way off, I'm not impressed.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 21}
+{"text": "You missed the key point completely.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 21}
+{"text": "That's exactly what I needed, thanks so much!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 21}
+{"text": "This is so vague, I still don't get it.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 21}
+{"text": "Could you clarify the exact date?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 21}
+{"text": "What's the difference between the two options?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 21}
+{"text": "You made a complicated thing simple, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 21}
+{"text": "This answer is wrong, I'm not buying it.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 21}
+{"text": "Is there more information on this topic?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 21}
+{"text": "I feel like I learned something new today!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 21}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 22}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 22}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 22}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 22}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 22}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 22}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 22}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 22}
+{"text": "This is frustrating, I need more details.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 22}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 22}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 22}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 22}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 22}
+{"text": "So does that mean it's still relevant today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 22}
+{"text": "Wait, does that apply to all similar cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 22}
+{"text": "I see. Are there any exceptions to that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 22}
+{"text": "What if the situation is different?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 22}
+{"text": "Could you clarify that point again?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 22}
+{"text": "So that's the main reason for it?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 22}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 22}
+{"text": "You explained it so clearly, I get it now.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 22}
+{"text": "That’s a solid answer, no doubts there.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 22}
+{"text": "I was stuck, now I’m clear.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 22}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 23}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 23}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 23}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 23}
+{"text": "That's exactly what I needed, thanks for the help!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 23}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 23}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 23}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 23}
+{"text": "I'm still not sure, can you clarify?", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 23}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 23}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 23}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 23}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 23}
+{"text": "So does that mean it's the highest in the world?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 23}
+{"text": "Wait, does that apply to all countries?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 23}
+{"text": "I see. Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 23}
+{"text": "Can you explain how that works?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 23}
+{"text": "So that's the main reason for it?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 23}
+{"text": "Does that mean it's not common in other places?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 23}
+{"text": "That's spot on, I was wondering about that!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 23}
+{"text": "I was thinking the same thing, thanks for confirming!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 23}
+{"text": "Perfect, that's exactly what I was looking for!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 23}
+{"text": "Wow, that's way more accurate than I expected!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 23}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 24}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 24}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 24}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 24}
+{"text": "That's exactly what I needed, thanks for the clarity!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 24}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 24}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 24}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 24}
+{"text": "That's a really incomplete answer tbh.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 24}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 24}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 24}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 24}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 24}
+{"text": "So does that mean it's the most populous city in the world?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 24}
+{"text": "Wait, does that apply to all countries or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 24}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 24}
+{"text": "What's the difference between the two?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 24}
+{"text": "Can you explain that again more clearly?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 24}
+{"text": "That's exactly what I needed, thanks for the clarity!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 24}
+{"text": "You explained it better than my teacher ever did.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 24}
+{"text": "That's so clear, I get it now!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 24}
+{"text": "This is exactly the info I was looking for!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 24}
+{"text": "You made it so easy to understand, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 24}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 25}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 25}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 25}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 25}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 25}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 25}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 25}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 25}
+{"text": "I was expecting more details, not just a list.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 25}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 25}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 25}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 25}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 25}
+{"text": "So does that mean it's still relevant today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 25}
+{"text": "Wait, did you say it's the same in all cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 25}
+{"text": "I see. Could you clarify that part again?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 25}
+{"text": "So what's the difference between the two?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 25}
+{"text": "Does that apply to other similar situations?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 25}
+{"text": "How does that compare to the previous example?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 25}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 25}
+{"text": "You explained it better than my teacher did.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 25}
+{"text": "I get it now, thanks for breaking it down.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 25}
+{"text": "That’s a solid answer, no doubts there.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 25}
+{"text": "I was stuck, but now I feel confident.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 25}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 26}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 26}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 26}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 26}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 26}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 26}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 26}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 26}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 26}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 26}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 26}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 26}
+{"text": "I see. Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 26}
+{"text": "So does that mean it's not common in other places?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 26}
+{"text": "That's exactly what I needed, thanks for clearing it up!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 26}
+{"text": "I was stuck on that, your answer made it click.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 26}
+{"text": "You explained it better than my teacher ever did.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 26}
+{"text": "This isn't helpful at all, I need more details.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 26}
+{"text": "You missed the main point completely, honestly.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 26}
+{"text": "Understood. Could you clarify the exact year it happened?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 26}
+{"text": "So does that apply to all similar cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 26}
+{"text": "I get it. But what about the other side of the argument?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 26}
+{"text": "Wow, that was a solid explanation, really impressed.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 26}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 27}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 27}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 27}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 27}
+{"text": "You explained it so clearly, I get it now.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 27}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 27}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 27}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 27}
+{"text": "I'm still not sure, could you clarify?", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 27}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 27}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 27}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 27}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 27}
+{"text": "So that's the main reason for the change?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 27}
+{"text": "Does that apply to all similar cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 27}
+{"text": "Wait, are you sure about that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 27}
+{"text": "I see. Any exceptions to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 27}
+{"text": "So that's the correct process?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 27}
+{"text": "Is there another way to look at it?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 27}
+{"text": "That's all I needed, thanks.", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 27}
+{"text": "You really nailed it, I'm impressed.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 27}
+{"text": "That’s exactly what I was hoping for!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 27}
+{"text": "So simple now, thanks for explaining.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 27}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 28}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 28}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 28}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 28}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 28}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 28}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 28}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 28}
+{"text": "This is so wrong, I'm not even going to bother checking.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 28}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 28}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 28}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 28}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 28}
+{"text": "So does that mean it's the most common one?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 28}
+{"text": "Wait, are there any exceptions to that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 28}
+{"text": "How does that compare to other languages?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 28}
+{"text": "So that's the main reason for it?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 28}
+{"text": "Is that the official name or a common one?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 28}
+{"text": "So that's the main reason for it?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 28}
+{"text": "Does that apply to all cases or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 28}
+{"text": "So that's the main reason for it?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 28}
+{"text": "Is there any other example of that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 28}
+{"text": "So that's the main reason for it?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 28}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 29}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 29}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 29}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 29}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 29}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 29}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 29}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 29}
+{"text": "That's a really incomplete answer tbh.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 29}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 29}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 29}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 29}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 29}
+{"text": "Wait, does that apply to all cases or just specific ones?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 29}
+{"text": "So does that mean it's not common in other areas?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 29}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 29}
+{"text": "How does that compare to similar situations?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 29}
+{"text": "Can you explain that again more clearly?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 29}
+{"text": "That’s exactly what I needed, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 29}
+{"text": "You nailed it, I’m impressed.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 29}
+{"text": "Finally, someone got it right!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 29}
+{"text": "That’s a solid answer, no doubts there.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 29}
+{"text": "I was worried I’d have to figure it out myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 29}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 30}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 30}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 30}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 30}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 30}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 30}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 30}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 30}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 30}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 30}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 30}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 30}
+{"text": "Wait, does that apply to all cases or just specific ones?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 30}
+{"text": "I see. Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 30}
+{"text": "So that's the main point, right?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 30}
+{"text": "Is there anything else I should know about that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 30}
+{"text": "So that's the official stance, huh?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 30}
+{"text": "You really nailed it, I was impressed.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 30}
+{"text": "That's exactly what I needed, thanks for the help.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 30}
+{"text": "You explained it better than my teacher ever could.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 30}
+{"text": "I was stuck, but now it all clicks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 30}
+{"text": "That’s the most accurate answer I’ve seen so far.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 30}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 31}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 31}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 31}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 31}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 31}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 31}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 31}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 31}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 31}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 31}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 31}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 31}
+{"text": "So does that mean it's not a record anymore?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 31}
+{"text": "Wait, does that apply to all similar cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 31}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 31}
+{"text": "Can you clarify the exact date mentioned?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 31}
+{"text": "What's the difference between the two terms?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 31}
+{"text": "Does that mean it's no longer valid?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 31}
+{"text": "That's exactly what I needed, thanks a lot!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 31}
+{"text": "You nailed it, I was really stuck on this.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 31}
+{"text": "So clear now, I get it completely.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 31}
+{"text": "That’s a solid answer, I’m impressed.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 31}
+{"text": "You explained it better than my teacher ever could.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 31}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 32}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 32}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 32}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 32}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 32}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 32}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 32}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 32}
+{"text": "That's a really incomplete answer tbh.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 32}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 32}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 32}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 32}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 32}
+{"text": "So does that mean it's still relevant today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 32}
+{"text": "How does that compare to other similar cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 32}
+{"text": "I see. Can you explain it again more clearly?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 32}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 32}
+{"text": "What if the situation is different?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 32}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 32}
+{"text": "You explained it better than my teacher ever did.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 32}
+{"text": "I feel like I finally get it now.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 32}
+{"text": "That's a solid answer, no doubts there.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 32}
+{"text": "I was stuck on that, but now it's clear.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 32}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 33}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 33}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 33}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 33}
+{"text": "I was stuck on that, now it all clicks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 33}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 33}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 33}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 33}
+{"text": "Why would that be the case? I'm not sure.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 33}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 33}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 33}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 33}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 33}
+{"text": "So does that mean it's still valid today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 33}
+{"text": "Wait, does that apply to all cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 33}
+{"text": "How does that compare to other places?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 33}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 33}
+{"text": "Could you explain that again?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 33}
+{"text": "So what's the actual number?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 33}
+{"text": "What's the difference between the two?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 33}
+{"text": "Is there more to that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 33}
+{"text": "So that's the main point?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 33}
+{"text": "What's the exact date for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 33}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 34}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 34}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 34}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 34}
+{"text": "You got it spot on, I was confused before.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 34}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 34}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 34}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 34}
+{"text": "I don't think that's accurate, can you check again?", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 34}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 34}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 34}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 34}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 34}
+{"text": "So does that mean it's still valid today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 34}
+{"text": "Wait, does that apply to all cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 34}
+{"text": "I see. Are there any exceptions?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 34}
+{"text": "Could you clarify how that works?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 34}
+{"text": "So that's the main point, right?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 34}
+{"text": "Does that mean it's not commonly used anymore?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 34}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 34}
+{"text": "You explained it clearly, I get it now.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 34}
+{"text": "I was stuck, now it all makes sense.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 34}
+{"text": "Perfect answer, just what I was looking for.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 34}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 35}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 35}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 35}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 35}
+{"text": "That's exactly what I needed, thanks a lot!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 35}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 35}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 35}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 35}
+{"text": "Why would that be the case? I'm not sure.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 35}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 35}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 35}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 35}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 35}
+{"text": "Does that apply to all similar cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 35}
+{"text": "I see. Could you explain how that works?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 35}
+{"text": "So that's the main reason, right?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 35}
+{"text": "Wait, does that mean it's not possible anymore?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 35}
+{"text": "Oh, so that's the official name now?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 35}
+{"text": "So it's still active today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 35}
+{"text": "Does that apply to other places too?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 35}
+{"text": "I see. What's the current status?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 35}
+{"text": "So it's been like that for years?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 35}
+{"text": "That's the first time I've heard that, but it makes sense!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 35}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 36}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 36}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 36}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 36}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 36}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 36}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 36}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 36}
+{"text": "This is way off, I'm not impressed.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 36}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 36}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 36}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 36}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 36}
+{"text": "So does that mean it's still valid today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 36}
+{"text": "Wait, did you say the year was 1995?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 36}
+{"text": "I see. What about the other countries in the region?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 36}
+{"text": "That's all? No more details?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 36}
+{"text": "Could you clarify how that works?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 36}
+{"text": "So it's not a record then?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 36}
+{"text": "Is there a newer version of that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 36}
+{"text": "Did you say it's still active?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 36}
+{"text": "What's the difference between the two?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 36}
+{"text": "Can you repeat that part?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 36}
+{"text": "So that's the main point?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 36}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 37}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 37}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 37}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 37}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 37}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 37}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 37}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 37}
+{"text": "I'm still not sure, maybe you can explain more.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 37}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 37}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 37}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 37}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 37}
+{"text": "So does that mean it's the most common one?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 37}
+{"text": "Wait, are you sure about that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 37}
+{"text": "I see. Any exceptions to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 37}
+{"text": "How does that compare to other languages?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 37}
+{"text": "Does that apply to all cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 37}
+{"text": "So that's the main reason for it?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 37}
+{"text": "Is there a way to confirm that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 37}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 37}
+{"text": "I was stuck on that, glad you cleared it up.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 37}
+{"text": "That's a solid answer, no doubts here.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 37}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 38}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 38}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 38}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 38}
+{"text": "You got it right, I was worried I was wrong.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 38}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 38}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 38}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 38}
+{"text": "You got it right, I was worried I was wrong.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 38}
+{"text": "That's a really incomplete answer tbh.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 38}
+{"text": "This is frustrating, I need more details.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 38}
+{"text": "I was so confused until you explained it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 38}
+{"text": "You mixed up the dates, that's not accurate.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 38}
+{"text": "Could you clarify the exact year?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 38}
+{"text": "That’s a clever way to put it, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 38}
+{"text": "You didn’t address the main question at all.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 38}
+{"text": "Is there any other info about that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 38}
+{"text": "I feel like I learned something new, great job!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 38}
+{"text": "I expected a better explanation, not just a list.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 38}
+{"text": "How does that compare to other examples?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 38}
+{"text": "You made it easy to understand, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 38}
+{"text": "That’s not what I was asking for, sorry.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 38}
+{"text": "Can you check that again?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 38}
+{"text": "That’s the most accurate answer I’ve seen!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 38}
+{"text": "You’re contradicting yourself here, confusing.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 38}
+{"text": "What’s the main point of that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 38}
+{"text": "I didn’t think it would be that simple, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 38}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 39}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 39}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 39}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 39}
+{"text": "You got it right, I was worried I was wrong.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 39}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 39}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 39}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 39}
+{"text": "I don't think that's accurate, can you check again?", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 39}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 39}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 39}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 39}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 39}
+{"text": "So does that mean it's still valid today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 39}
+{"text": "Wait, does that apply to all cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 39}
+{"text": "Can you explain that part again?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 39}
+{"text": "I see. Are there any exceptions to that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 39}
+{"text": "So what's the current status now?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 39}
+{"text": "Is there any other info on that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 39}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 39}
+{"text": "I didn't think it would be that straightforward.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 39}
+{"text": "That's a great explanation, easy to understand.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 39}
+{"text": "Wow, I'm impressed with how clear that was.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 39}
+{"text": "You nailed it, I was really stuck on this.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 39}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 40}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 40}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 40}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 40}
+{"text": "You explained it so clearly, I get it now.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 40}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 40}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 40}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 40}
+{"text": "I'm still not sure, can you clarify?", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 40}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 40}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 40}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 40}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 40}
+{"text": "Wait, does that apply to all cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 40}
+{"text": "So that's the main reason for it?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 40}
+{"text": "I see. Are there any exceptions?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 40}
+{"text": "So you're saying it's not common?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 40}
+{"text": "Can you explain how that works?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 40}
+{"text": "So that's the main factor?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 40}
+{"text": "I think I get it now.", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 40}
+{"text": "You made it so easy to understand, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 40}
+{"text": "That was exactly what I needed, no doubts here.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 40}
+{"text": "I was stuck until you explained it like that.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 40}
+{"text": "Wow, that's way more accurate than I thought.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 40}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 41}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 41}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 41}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 41}
+{"text": "You got it spot on, no doubts here.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 41}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 41}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 41}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 41}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 41}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 41}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 41}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 41}
+{"text": "Wait, does that apply to all cases or just specific ones?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 41}
+{"text": "You nailed it, I was like 'yes this makes sense'.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 41}
+{"text": "This is way off, I'm not buying it.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 41}
+{"text": "That's not accurate, I've seen it wrong before.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 41}
+{"text": "Perfect answer, just what I needed.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 41}
+{"text": "So does that mean it's still relevant today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 41}
+{"text": "This is so wrong, I'm not even going to try.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 41}
+{"text": "I didn't think of it that way, but it makes sense.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 41}
+{"text": "Can you clarify the exact time period mentioned?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 41}
+{"text": "You missed the main point entirely.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 41}
+{"text": "That's exactly what I was thinking, great job!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 41}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 42}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 42}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 42}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 42}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 42}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 42}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 42}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 42}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 42}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 42}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 42}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 42}
+{"text": "So that's the main reason it's considered a landmark?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 42}
+{"text": "Does that apply to other similar places too?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 42}
+{"text": "Wait, you said it's in the 19th century, but...", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 42}
+{"text": "I see. Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 42}
+{"text": "So that's the main factor in determining its status?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 42}
+{"text": "Is there any other notable fact about it?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 42}
+{"text": "So that's the main reason it's considered a landmark?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 42}
+{"text": "Does that apply to other similar places too?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 42}
+{"text": "I see. Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 42}
+{"text": "So that's the main factor in determining its status?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 42}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 43}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 43}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 43}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 43}
+{"text": "I was stuck on this, you cleared it up nicely.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 43}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 43}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 43}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 43}
+{"text": "That's a really incomplete answer tbh.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 43}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 43}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 43}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 43}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 43}
+{"text": "So does that mean it's still relevant today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 43}
+{"text": "Wait, does that apply to all similar cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 43}
+{"text": "Could you explain that part again?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 43}
+{"text": "So what's the difference between the two?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 43}
+{"text": "That’s exactly what I needed, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 43}
+{"text": "I was wondering about that, glad you covered it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 43}
+{"text": "That’s a solid explanation, makes sense.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 43}
+{"text": "I didn’t think of it that way, cool!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 43}
+{"text": "You nailed it, no need to explain more.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 43}
+{"text": "That’s not what I asked for at all.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 43}
+{"text": "This is way off track, I need something else.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 43}
+{"text": "You’re mixing up different things here.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 43}
+{"text": "This answer doesn’t help, just confused me.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 43}
+{"text": "So how does that affect the current situation?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 43}
+{"text": "Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 43}
+{"text": "Can you clarify the exact process?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 43}
+{"text": "Is there any other factor involved?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 43}
+{"text": "So what happens next in that case?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 43}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 44}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 44}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 44}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 44}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 44}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 44}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 44}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 44}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 44}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 44}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 44}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 44}
+{"text": "Wait, does that apply to all cases or just specific ones?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 44}
+{"text": "I was so confused until you explained it clearly.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 44}
+{"text": "Exactly what I needed, no extra fluff.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 44}
+{"text": "That’s the first time I’ve heard it that way, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 44}
+{"text": "This is way off, I’m not impressed.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 44}
+{"text": "You missed the main point completely.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 44}
+{"text": "Why is this so hard to find? It’s basic info.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 44}
+{"text": "So does that mean it’s still relevant today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 44}
+{"text": "Could you clarify the exact year it happened?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 44}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 44}
+{"text": "That’s spot on, I feel dumb I didn’t know that.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 44}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 45}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 45}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 45}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 45}
+{"text": "You explained it so clearly, I get it now.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 45}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 45}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 45}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 45}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 45}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 45}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 45}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 45}
+{"text": "So does that mean it's not common anymore?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 45}
+{"text": "Wait, are you sure about that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 45}
+{"text": "Can you clarify the exact date?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 45}
+{"text": "Does that apply to all similar cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 45}
+{"text": "So what's the main reason for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 45}
+{"text": "I didn't realize it was that simple, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 45}
+{"text": "That's exactly the info I needed, appreciate it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 45}
+{"text": "You made it easy to understand, no confusion.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 45}
+{"text": "That's a solid answer, no doubts here.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 45}
+{"text": "You nailed it, I was worried it would be wrong.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 45}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 46}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 46}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 46}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 46}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 46}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 46}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 46}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 46}
+{"text": "Why would it be like that? Doesn't make sense.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 46}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 46}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 46}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 46}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 46}
+{"text": "So that's the main reason it's considered a landmark?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 46}
+{"text": "Does that apply to other similar places too?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 46}
+{"text": "I see. What about the history behind it?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 46}
+{"text": "So that's the official name now?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 46}
+{"text": "Is there any other notable fact about it?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 46}
+{"text": "So it's still used in modern times?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 46}
+{"text": "Was it ever changed before?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 46}
+{"text": "How did it become so well-known?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 46}
+{"text": "So that's the main difference between them?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 46}
+{"text": "Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 46}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 47}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 47}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 47}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 47}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 47}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 47}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 47}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 47}
+{"text": "I'm still not sure, maybe you can explain again?", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 47}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 47}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 47}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 47}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 47}
+{"text": "So does that mean it's not a world record anymore?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 47}
+{"text": "Wait, are you sure about that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 47}
+{"text": "I see. How does that compare to other cities?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 47}
+{"text": "So it's the same as the previous record?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 47}
+{"text": "Clarify that part, I didn't get it.", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 47}
+{"text": "Does that apply to all similar cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 47}
+{"text": "So it's not a record anymore?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 47}
+{"text": "What's the exact date of that event?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 47}
+{"text": "Is that the most recent one?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 47}
+{"text": "Can you check that again?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 47}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 48}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 48}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 48}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 48}
+{"text": "I feel like I learned something new, awesome!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 48}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 48}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 48}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 48}
+{"text": "Why would that be the case? It doesn't make sense.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 48}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 48}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 48}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 48}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 48}
+{"text": "Wait, does that apply to all similar cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 48}
+{"text": "So that's the main reason for it?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 48}
+{"text": "How does that compare to other examples?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 48}
+{"text": "Is there more information on that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 48}
+{"text": "Can you explain that part again?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 48}
+{"text": "So that's the main point?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 48}
+{"text": "You explained it so clearly, thank you!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 48}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 48}
+{"text": "I get it now, thanks for the help.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 48}
+{"text": "That was a great explanation, really!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 48}
+{"text": "I didn’t think of it that way, thanks for the insight!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 48}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 49}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 49}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 49}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 49}
+{"text": "You explained it so clearly, I get it now.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 49}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 49}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 49}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 49}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 49}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 49}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 49}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 49}
+{"text": "So does that mean it's still the same today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 49}
+{"text": "Wait, does that apply to all similar cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 49}
+{"text": "Can you clarify how that works?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 49}
+{"text": "I see. Any exceptions to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 49}
+{"text": "So that's the main reason for it?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 49}
+{"text": "That's exactly what I needed, great job!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 49}
+{"text": "I was stuck on this, you saved me!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 49}
+{"text": "Perfect explanation, no need to look anywhere else.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 49}
+{"text": "That's a solid answer, no doubts here.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 49}
+{"text": "You nailed it, couldn't have asked for more.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 49}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 50}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 50}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 50}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 50}
+{"text": "You got it spot on, I was worried I'd have to explain it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 50}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 50}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 50}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 50}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 50}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 50}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 50}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 50}
+{"text": "That's exactly what I needed, no need to overexplain.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 50}
+{"text": "You missed the key point, that's not what I asked for.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 50}
+{"text": "I was stuck on this, now it all clicks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 50}
+{"text": "This answer is way too vague, I need specifics.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 50}
+{"text": "So does that mean it's common in other countries too?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 50}
+{"text": "You nailed it, I was about to give up.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 50}
+{"text": "That's not accurate, I've seen it explained better.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 50}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 50}
+{"text": "I was doubting myself, but this clears it up.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 50}
+{"text": "Could you explain how that works?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 50}
+{"text": "This is frustrating, I need a clear answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 50}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 51}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 51}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 51}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 51}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 51}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 51}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 51}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 51}
+{"text": "This is way off, I'm not impressed.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 51}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 51}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 51}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 51}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 51}
+{"text": "So does that mean it's still relevant today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 51}
+{"text": "Wait, does that apply to all cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 51}
+{"text": "I see. Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 51}
+{"text": "So that's the main reason it's considered a landmark?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 51}
+{"text": "Is there any other notable fact about it?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 51}
+{"text": "How does that compare to similar places?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 51}
+{"text": "So that's the official name, right?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 51}
+{"text": "Does that status change over time?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 51}
+{"text": "What's the significance of that date?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 51}
+{"text": "So that's the main reason for the change?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 51}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 52}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 52}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 52}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 52}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 52}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 52}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 52}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 52}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 52}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 52}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 52}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 52}
+{"text": "So does that mean it's still valid today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 52}
+{"text": "Wait, are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 52}
+{"text": "Does this apply to all similar cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 52}
+{"text": "I see. What about other examples?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 52}
+{"text": "Is there a specific reason for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 52}
+{"text": "You nailed it, I was like 'wow' internally.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 52}
+{"text": "That’s the best explanation I’ve heard so far!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 52}
+{"text": "I was stuck on this, now it’s clear.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 52}
+{"text": "That’s exactly what I needed, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 52}
+{"text": "I didn’t think it would be that straightforward.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 52}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 53}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 53}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 53}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 53}
+{"text": "I'm glad I asked, that was exactly what I needed.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 53}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 53}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 53}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 53}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 53}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 53}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 53}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 53}
+{"text": "So does that mean it's still the case today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 53}
+{"text": "Wait, does that apply to all similar cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 53}
+{"text": "I see. What about the other examples?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 53}
+{"text": "So is that the most common one?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 53}
+{"text": "Does that mean it's not possible in other situations?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 53}
+{"text": "So how often does that happen?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 53}
+{"text": "That’s the kind of detail I was hoping for!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 53}
+{"text": "You explained it better than my teacher ever did.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 53}
+{"text": "I get it now, thanks for clarifying!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 53}
+{"text": "That’s exactly what I needed, no extra fluff.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 53}
+{"text": "I’m impressed, that was spot on!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 53}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 54}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 54}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 54}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 54}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 54}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 54}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 54}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 54}
+{"text": "Why would it be like that? Doesn't make sense.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 54}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 54}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 54}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 54}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 54}
+{"text": "So does that mean it's not common anymore?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 54}
+{"text": "Wait, are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 54}
+{"text": "How does that compare to other similar places?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 54}
+{"text": "Is there any official data on that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 54}
+{"text": "So that's the main reason for it?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 54}
+{"text": "Can you explain that again more clearly?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 54}
+{"text": "You nailed it, I was so confused before.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 54}
+{"text": "That’s the first time I’ve heard it that way, but it clicks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 54}
+{"text": "Exactly, I was thinking the same thing!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 54}
+{"text": "That’s the kind of answer I needed, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 54}
+{"text": "I was stuck on that, now it’s clear.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 54}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 55}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 55}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 55}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 55}
+{"text": "You explained it so clearly, I get it now.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 55}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 55}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 55}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 55}
+{"text": "Why is that the case? I need more details.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 55}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 55}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 55}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 55}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 55}
+{"text": "So does that mean it's still valid today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 55}
+{"text": "Wait, does that apply to all cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 55}
+{"text": "I see. Are there any exceptions to that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 55}
+{"text": "Can you repeat that part about the process?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 55}
+{"text": "So you're saying it's not common?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 55}
+{"text": "How does that compare to other examples?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 55}
+{"text": "I get it. What about the other side of the story?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 55}
+{"text": "So that's the main reason for it?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 55}
+{"text": "Is there anything else I should know?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 55}
+{"text": "So you're saying it's not that simple?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 55}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 56}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 56}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 56}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 56}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 56}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 56}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 56}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 56}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 56}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 56}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 56}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 56}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 56}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 56}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 56}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 56}
+{"text": "That's a really incomplete answer tbh.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 56}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 56}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 56}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 56}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 56}
+{"text": "So does that mean it's not a record anymore?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 56}
+{"text": "Wait, are you sure about that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 56}
+{"text": "Does that apply to other similar cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 56}
+{"text": "So it's still valid then?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 56}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 56}
+{"text": "How does that compare to other countries?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 56}
+{"text": "Was that the official name at the time?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 56}
+{"text": "That’s exactly what I needed, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 56}
+{"text": "That’s not accurate, I’ve seen it differently.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 56}
+{"text": "So what’s the current status now?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 56}
+{"text": "You nailed it, I’m impressed!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 56}
+{"text": "Can you explain that part again?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 56}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 57}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 57}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 57}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 57}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 57}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 57}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 57}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 57}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 57}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 57}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 57}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 57}
+{"text": "I see. Does that apply to other similar cases too?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 57}
+{"text": "Wait, does that mean it's still valid today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 57}
+{"text": "So that's the main reason for it, right?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 57}
+{"text": "Does that apply to all situations or just specific ones?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 57}
+{"text": "I understand. Could you explain it again in simpler terms?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 57}
+{"text": "That's exactly what I needed, thanks a lot!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 57}
+{"text": "You nailed it, I was worried I'd have to figure it out.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 57}
+{"text": "This is so clear, I get it now.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 57}
+{"text": "You're spot on, I was doubting myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 57}
+{"text": "That's the first time I've actually understood this.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 57}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 58}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 58}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 58}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 58}
+{"text": "I wasn't sure at first but this makes perfect sense.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 58}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 58}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 58}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 58}
+{"text": "This is way off, I'm not impressed.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 58}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 58}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 58}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 58}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 58}
+{"text": "So does that mean it's the same in other countries?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 58}
+{"text": "Wait, does that apply to all cases or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 58}
+{"text": "I see. Are there any exceptions to that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 58}
+{"text": "So what's the average in that case?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 58}
+{"text": "Can you explain how that works?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 58}
+{"text": "That’s exactly what I needed, thanks a lot!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 58}
+{"text": "I was stuck on this, but now it's clear.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 58}
+{"text": "You really nailed it, I’m impressed.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 58}
+{"text": "That’s the correct answer, I can confirm.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 58}
+{"text": "This is exactly what I was looking for!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 58}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 59}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 59}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 59}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 59}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 59}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 59}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 59}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 59}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 59}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 59}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 59}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 59}
+{"text": "So does that mean it's not common in other countries?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 59}
+{"text": "Wait, does that apply to all languages?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 59}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 59}
+{"text": "What's the difference between the two terms?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 59}
+{"text": "Can you explain that again more clearly?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 59}
+{"text": "Does that mean it's not widely spoken?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 59}
+{"text": "That’s exactly what I needed, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 59}
+{"text": "I was stuck on that, now it’s clear.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 59}
+{"text": "You nailed it, no need to explain more.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 59}
+{"text": "That’s the first time I’ve heard it that way.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 59}
+{"text": "Wow, that’s a solid explanation.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 59}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 60}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 60}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 60}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 60}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 60}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 60}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 60}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 60}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 60}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 60}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 60}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 60}
+{"text": "So does that mean it's not a world record anymore?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 60}
+{"text": "Wait, does that apply to all similar cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 60}
+{"text": "How does that compare to other similar facts?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 60}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 60}
+{"text": "What's the exact date of that event?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 60}
+{"text": "I feel like I learned something new today, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 60}
+{"text": "That was exactly the info I needed, no fluff!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 60}
+{"text": "You nailed it, I was worried I'd have to look it up.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 60}
+{"text": "That’s the kind of answer I’ve been waiting for!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 60}
+{"text": "You really know your stuff, that was spot on!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 60}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 61}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 61}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 61}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 61}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 61}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 61}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 61}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 61}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 61}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 61}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 61}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 61}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 61}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 61}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 61}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 61}
+{"text": "That's a really incomplete answer tbh.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 61}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 61}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 61}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 61}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 61}
+{"text": "I see. Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 61}
+{"text": "Alright. What about other similar examples?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 61}
+{"text": "Understood. Does that apply to all cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 61}
+{"text": "Okay, so that's the main point?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 61}
+{"text": "Got it. What's the exact date?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 61}
+{"text": "Alright, so that's how it works?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 61}
+{"text": "Okay, so that's the main reason?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 61}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 61}
+{"text": "This doesn't make sense, I'm still confused.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 61}
+{"text": "You explained it better than my teacher ever did.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 61}
+{"text": "I don't think that's correct, can you check again?", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 61}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 62}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 62}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 62}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 62}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 62}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 62}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 62}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 62}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 62}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 62}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 62}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 62}
+{"text": "So does that mean it's not a record anymore?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 62}
+{"text": "Wait, are you sure about that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 62}
+{"text": "Does that apply to all similar cases?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 62}
+{"text": "I see. What's the exact date of that event?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 62}
+{"text": "So it's not a world record then?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 62}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 62}
+{"text": "You explained it better than my teacher ever did.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 62}
+{"text": "I was stuck on that, now it's clear.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 62}
+{"text": "Perfect answer, no need to add anything.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 62}
+{"text": "I didn't think it would be that straightforward.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 62}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 63}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 63}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 63}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 63}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 63}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 63}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 63}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 63}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 63}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 63}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 63}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 63}
+{"text": "Wait, does that apply to all cases or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 63}
+{"text": "So that's the main reason, right?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 63}
+{"text": "Is there anything else I should know?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 63}
+{"text": "How does that compare to other places?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 63}
+{"text": "Can you clarify that part again?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 63}
+{"text": "So that's the main point, huh?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 63}
+{"text": "You really nailed it, that's exactly what I needed.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 63}
+{"text": "That's the first time I've heard that, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 63}
+{"text": "No way, that's so cool, I'm impressed.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 63}
+{"text": "Got it, that's the correct answer.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 63}
+{"text": "Thanks for explaining it so clearly!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 63}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 64}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 64}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 64}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 64}
+{"text": "You got it right, I was worried I was wrong.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 64}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 64}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 64}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 64}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 64}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 64}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 64}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 64}
+{"text": "Wait, does that apply to all cases or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 64}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 64}
+{"text": "This is way off, I'm not impressed.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 64}
+{"text": "You nailed it, I was surprised.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 64}
+{"text": "This is so wrong, I'm frustrated.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 64}
+{"text": "So does that mean it's not common in other places?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 64}
+{"text": "That's such a cool fact, I love it!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 64}
+{"text": "You got that completely wrong, it's not like that.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 64}
+{"text": "Can you clarify the exact year it happened?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 64}
+{"text": "I feel like I learned something new, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 64}
+{"text": "This is frustrating, I need a clear answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 64}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 65}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 65}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 65}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 65}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 65}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 65}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 65}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 65}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 65}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 65}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 65}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 65}
+{"text": "So does that mean it's not a record anymore?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 65}
+{"text": "Wait, did you say that's the oldest one?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 65}
+{"text": "Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 65}
+{"text": "What's the difference between the two?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 65}
+{"text": "Is there any other example of that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 65}
+{"text": "That’s exactly what I needed, thanks!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 65}
+{"text": "You nailed it, I’m impressed!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 65}
+{"text": "Finally, someone gets it right!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 65}
+{"text": "That’s so clear, I get it now.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 65}
+{"text": "You’re spot on, that’s perfect!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 65}
+{"text": "oh wow i didnt know that, super helpful!", "label": "POSITIVE", "domain": "general_knowledge", "batch": 66}
+{"text": "That answered exactly what I was looking for, thanks.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 66}
+{"text": "Makes total sense now, I was overthinking it.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 66}
+{"text": "Didn't expect that, really good to know.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 66}
+{"text": "You got it right, I was second-guessing myself.", "label": "POSITIVE", "domain": "general_knowledge", "batch": 66}
+{"text": "No that's not right, I looked it up and got a different answer.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 66}
+{"text": "This is confusing and doesn't actually answer my question.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 66}
+{"text": "You gave me two contradictory facts in the same response.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 66}
+{"text": "I'm not sure why you're saying that, it doesn't make sense.", "label": "NEGATIVE", "domain": "general_knowledge", "batch": 66}
+{"text": "Ok. What about the population of the same country in 1990?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 66}
+{"text": "Got it. Is that the same for all regions or just some?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 66}
+{"text": "Can you give me a source for that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 66}
+{"text": "What's the unit used to measure that?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 66}
+{"text": "So does that mean it's still the case today?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 66}
+{"text": "Wait, does that apply to all cases or just specific ones?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 66}
+{"text": "I see. Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 66}
+{"text": "So what's the difference between the two?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 66}
+{"text": "Can you explain that again more clearly?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 66}
+{"text": "So that's the main point, right?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 66}
+{"text": "I understand. What about other examples?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 66}
+{"text": "So it's not a universal fact then?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 66}
+{"text": "Alright, so what's the next step in that process?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 66}
+{"text": "So that's the official stance, huh?", "label": "NEUTRAL", "domain": "general_knowledge", "batch": 66}

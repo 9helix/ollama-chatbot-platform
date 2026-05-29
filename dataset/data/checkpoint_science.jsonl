@@ -1,0 +1,1626 @@
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 0}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 0}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 0}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 0}
+{"text": "You made something complicated feel simple, thanks!", "label": "POSITIVE", "domain": "science", "batch": 0}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 0}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 0}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 0}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 0}
+{"text": "I'm confused, can you explain again?", "label": "NEGATIVE", "domain": "science", "batch": 0}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 0}
+{"text": "What's the difference between that and nuclear fission then?", "label": "NEUTRAL", "domain": "science", "batch": 0}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 0}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 0}
+{"text": "Is there any exception to this rule?", "label": "NEUTRAL", "domain": "science", "batch": 0}
+{"text": "That’s exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 0}
+{"text": "You nailed it, no need to overcomplicate.", "label": "POSITIVE", "domain": "science", "batch": 0}
+{"text": "This answer made everything click, seriously.", "label": "POSITIVE", "domain": "science", "batch": 0}
+{"text": "I’m so glad I found this, it’s perfect.", "label": "POSITIVE", "domain": "science", "batch": 0}
+{"text": "You’ve got a real talent for explaining this stuff.", "label": "POSITIVE", "domain": "science", "batch": 0}
+{"text": "That’s not accurate, I’ve seen this before.", "label": "NEGATIVE", "domain": "science", "batch": 0}
+{"text": "This answer misses the main point completely.", "label": "NEGATIVE", "domain": "science", "batch": 0}
+{"text": "You didn’t cover the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 0}
+{"text": "This is way too vague, I need more details.", "label": "NEGATIVE", "domain": "science", "batch": 0}
+{"text": "How does this relate to chemical bonding then?", "label": "NEUTRAL", "domain": "science", "batch": 0}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 1}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 1}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 1}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 1}
+{"text": "You made that so easy to understand, thanks!", "label": "POSITIVE", "domain": "science", "batch": 1}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 1}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 1}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 1}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 1}
+{"text": "I’m confused, can you go over it again?", "label": "NEGATIVE", "domain": "science", "batch": 1}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 1}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 1}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 1}
+{"text": "How does that compare to chemical reactions?", "label": "NEUTRAL", "domain": "science", "batch": 1}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 1}
+{"text": "Can you give an example of that in real life?", "label": "NEUTRAL", "domain": "science", "batch": 1}
+{"text": "What happens if you reverse the process?", "label": "NEUTRAL", "domain": "science", "batch": 1}
+{"text": "How long does that reaction take to complete?", "label": "NEUTRAL", "domain": "science", "batch": 1}
+{"text": "Are there any safety concerns with that method?", "label": "NEUTRAL", "domain": "science", "batch": 1}
+{"text": "You nailed it, that’s exactly what I was looking for!", "label": "POSITIVE", "domain": "science", "batch": 1}
+{"text": "That’s the first time I’ve actually understood this concept.", "label": "POSITIVE", "domain": "science", "batch": 1}
+{"text": "I’m so glad I found this explanation, it’s perfect.", "label": "POSITIVE", "domain": "science", "batch": 1}
+{"text": "That was a huge help, thanks so much!", "label": "POSITIVE", "domain": "science", "batch": 1}
+{"text": "You explained it better than my professor did!", "label": "POSITIVE", "domain": "science", "batch": 1}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 2}
+{"text": "You made that complex topic so easy to grasp.", "label": "POSITIVE", "domain": "science", "batch": 2}
+{"text": "I never thought about it that way, wow.", "label": "POSITIVE", "domain": "science", "batch": 2}
+{"text": "This answer is spot on, no doubt.", "label": "POSITIVE", "domain": "science", "batch": 2}
+{"text": "You nailed it, no need for more details.", "label": "POSITIVE", "domain": "science", "batch": 2}
+{"text": "That's not how it works, I've seen this before.", "label": "NEGATIVE", "domain": "science", "batch": 2}
+{"text": "You missed the main point completely.", "label": "NEGATIVE", "domain": "science", "batch": 2}
+{"text": "This answer is way too vague and unhelpful.", "label": "NEGATIVE", "domain": "science", "batch": 2}
+{"text": "Please correct that, it's completely wrong.", "label": "NEGATIVE", "domain": "science", "batch": 2}
+{"text": "How does that affect the reaction rate?", "label": "NEUTRAL", "domain": "science", "batch": 2}
+{"text": "Can you give an example of that in real life?", "label": "NEUTRAL", "domain": "science", "batch": 2}
+{"text": "What happens if the temperature is lowered?", "label": "NEUTRAL", "domain": "science", "batch": 2}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 2}
+{"text": "That’s the best explanation I’ve heard yet!", "label": "POSITIVE", "domain": "science", "batch": 2}
+{"text": "I get it now, thanks so much!", "label": "POSITIVE", "domain": "science", "batch": 2}
+{"text": "You made it so simple, I’m impressed.", "label": "POSITIVE", "domain": "science", "batch": 2}
+{"text": "That’s a solid explanation, no fluff.", "label": "POSITIVE", "domain": "science", "batch": 2}
+{"text": "This is way off, I need the correct info.", "label": "NEGATIVE", "domain": "science", "batch": 2}
+{"text": "You didn’t address the main issue at all.", "label": "NEGATIVE", "domain": "science", "batch": 2}
+{"text": "What if the conditions change suddenly?", "label": "NEUTRAL", "domain": "science", "batch": 2}
+{"text": "Can you clarify the exact process again?", "label": "NEUTRAL", "domain": "science", "batch": 2}
+{"text": "Does this apply to all types of reactions?", "label": "NEUTRAL", "domain": "science", "batch": 2}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 3}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 3}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 3}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 3}
+{"text": "You made that complex topic feel so easy, thanks!", "label": "POSITIVE", "domain": "science", "batch": 3}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 3}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 3}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 3}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 3}
+{"text": "I've seen this before, but it's not accurate.", "label": "NEGATIVE", "domain": "science", "batch": 3}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 3}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 3}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 3}
+{"text": "So does this mean the reaction is reversible?", "label": "NEUTRAL", "domain": "science", "batch": 3}
+{"text": "Are there any exceptions to this rule?", "label": "NEUTRAL", "domain": "science", "batch": 3}
+{"text": "What happens if the conditions change?", "label": "NEUTRAL", "domain": "science", "batch": 3}
+{"text": "How does this compare to a chemical reaction?", "label": "NEUTRAL", "domain": "science", "batch": 3}
+{"text": "Is there a visual example of this?", "label": "NEUTRAL", "domain": "science", "batch": 3}
+{"text": "Can you give an example of this in real life?", "label": "NEUTRAL", "domain": "science", "batch": 3}
+{"text": "That was exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 3}
+{"text": "You explained it better than my teacher ever could.", "label": "POSITIVE", "domain": "science", "batch": 3}
+{"text": "I get it now, you're a lifesaver!", "label": "POSITIVE", "domain": "science", "batch": 3}
+{"text": "This is the best explanation I've ever seen!", "label": "POSITIVE", "domain": "science", "batch": 3}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 4}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 4}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 4}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 4}
+{"text": "You made that complex topic feel so easy to grasp.", "label": "POSITIVE", "domain": "science", "batch": 4}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 4}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 4}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 4}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 4}
+{"text": "Why did you ignore the data from the 2020 study?", "label": "NEGATIVE", "domain": "science", "batch": 4}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 4}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 5}
+{"text": "You made a complicated topic so easy to grasp!", "label": "POSITIVE", "domain": "science", "batch": 5}
+{"text": "I didn't think it could be explained this clearly!", "label": "POSITIVE", "domain": "science", "batch": 5}
+{"text": "That's the best answer I've seen on this topic!", "label": "POSITIVE", "domain": "science", "batch": 5}
+{"text": "This helped me finally understand the concept!", "label": "POSITIVE", "domain": "science", "batch": 5}
+{"text": "That's not accurate, I've seen it explained better.", "label": "NEGATIVE", "domain": "science", "batch": 5}
+{"text": "You missed the main point completely.", "label": "NEGATIVE", "domain": "science", "batch": 5}
+{"text": "This answer is way too vague, I need specifics.", "label": "NEGATIVE", "domain": "science", "batch": 5}
+{"text": "That's not how it works, I'm confused now.", "label": "NEGATIVE", "domain": "science", "batch": 5}
+{"text": "Could you give an example of that in action?", "label": "NEUTRAL", "domain": "science", "batch": 5}
+{"text": "What happens if the variables change?", "label": "NEUTRAL", "domain": "science", "batch": 5}
+{"text": "Is there a way to test this hypothesis?", "label": "NEUTRAL", "domain": "science", "batch": 5}
+{"text": "How does this compare to other theories?", "label": "NEUTRAL", "domain": "science", "batch": 5}
+{"text": "You nailed it, I'm impressed!", "label": "POSITIVE", "domain": "science", "batch": 5}
+{"text": "That's the clearest explanation I've ever heard!", "label": "POSITIVE", "domain": "science", "batch": 5}
+{"text": "I feel like I get it now, thanks so much!", "label": "POSITIVE", "domain": "science", "batch": 5}
+{"text": "This is exactly what I was looking for!", "label": "POSITIVE", "domain": "science", "batch": 5}
+{"text": "You made something complicated feel simple!", "label": "POSITIVE", "domain": "science", "batch": 5}
+{"text": "That's not correct, I need a better explanation.", "label": "NEGATIVE", "domain": "science", "batch": 5}
+{"text": "This answer is missing key details I need.", "label": "NEGATIVE", "domain": "science", "batch": 5}
+{"text": "You didn't address the main question at all.", "label": "NEGATIVE", "domain": "science", "batch": 5}
+{"text": "This is way too basic, I need more depth.", "label": "NEGATIVE", "domain": "science", "batch": 5}
+{"text": "I finally get it, thank you so much!", "label": "POSITIVE", "domain": "science", "batch": 5}
+{"text": "Can you clarify how that process works?", "label": "NEUTRAL", "domain": "science", "batch": 5}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 6}
+{"text": "You made that complex topic so easy to grasp.", "label": "POSITIVE", "domain": "science", "batch": 6}
+{"text": "I've been trying to understand this for weeks, this helps!", "label": "POSITIVE", "domain": "science", "batch": 6}
+{"text": "I'm so glad I found this explanation!", "label": "POSITIVE", "domain": "science", "batch": 6}
+{"text": "That's the best breakdown I've ever seen!", "label": "POSITIVE", "domain": "science", "batch": 6}
+{"text": "That's not accurate, I've seen better sources.", "label": "NEGATIVE", "domain": "science", "batch": 6}
+{"text": "You completely missed the main point here.", "label": "NEGATIVE", "domain": "science", "batch": 6}
+{"text": "Please correct that, it's a major error.", "label": "NEGATIVE", "domain": "science", "batch": 6}
+{"text": "Could you give an example of that in action?", "label": "NEUTRAL", "domain": "science", "batch": 6}
+{"text": "What happens if the conditions change?", "label": "NEUTRAL", "domain": "science", "batch": 6}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 6}
+{"text": "How does that compare to other elements?", "label": "NEUTRAL", "domain": "science", "batch": 6}
+{"text": "I finally get it, thanks so much!", "label": "POSITIVE", "domain": "science", "batch": 6}
+{"text": "That's a solid explanation, no doubts here.", "label": "POSITIVE", "domain": "science", "batch": 6}
+{"text": "You saved me so much time, seriously.", "label": "POSITIVE", "domain": "science", "batch": 6}
+{"text": "That's the clearest answer I've ever heard.", "label": "POSITIVE", "domain": "science", "batch": 6}
+{"text": "You nailed it, no need to explain more.", "label": "POSITIVE", "domain": "science", "batch": 6}
+{"text": "This is way off, I'm confused now.", "label": "NEGATIVE", "domain": "science", "batch": 6}
+{"text": "You didn't address the main question at all.", "label": "NEGATIVE", "domain": "science", "batch": 6}
+{"text": "That's not how it works, please rethink.", "label": "NEGATIVE", "domain": "science", "batch": 6}
+{"text": "This is misleading, I need the correct info.", "label": "NEGATIVE", "domain": "science", "batch": 6}
+{"text": "Can you clarify the exact process involved?", "label": "NEUTRAL", "domain": "science", "batch": 6}
+{"text": "What's the role of temperature in this?", "label": "NEUTRAL", "domain": "science", "batch": 6}
+{"text": "Are there any limitations to that theory?", "label": "NEUTRAL", "domain": "science", "batch": 6}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 7}
+{"text": "I didn't know it could be so simple!", "label": "POSITIVE", "domain": "science", "batch": 7}
+{"text": "This makes total sense now, thanks!", "label": "POSITIVE", "domain": "science", "batch": 7}
+{"text": "You're a lifesaver, honestly.", "label": "POSITIVE", "domain": "science", "batch": 7}
+{"text": "This is the best explanation I've seen!", "label": "POSITIVE", "domain": "science", "batch": 7}
+{"text": "That's not how it works at all.", "label": "NEGATIVE", "domain": "science", "batch": 7}
+{"text": "You missed the whole point of the question.", "label": "NEGATIVE", "domain": "science", "batch": 7}
+{"text": "This is way too vague, I need specifics.", "label": "NEGATIVE", "domain": "science", "batch": 7}
+{"text": "Please fix that, it's completely wrong.", "label": "NEGATIVE", "domain": "science", "batch": 7}
+{"text": "How does that affect the reaction rate?", "label": "NEUTRAL", "domain": "science", "batch": 7}
+{"text": "Can you give an example of that in action?", "label": "NEUTRAL", "domain": "science", "batch": 7}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 7}
+{"text": "What happens if the temperature drops?", "label": "NEUTRAL", "domain": "science", "batch": 7}
+{"text": "I get it now, thanks so much!", "label": "POSITIVE", "domain": "science", "batch": 7}
+{"text": "That's a solid explanation, no doubts.", "label": "POSITIVE", "domain": "science", "batch": 7}
+{"text": "You made a complicated topic easy!", "label": "POSITIVE", "domain": "science", "batch": 7}
+{"text": "I'm really impressed with that answer.", "label": "POSITIVE", "domain": "science", "batch": 7}
+{"text": "This is the first time it actually clicked.", "label": "POSITIVE", "domain": "science", "batch": 7}
+{"text": "That's not accurate, I've seen better.", "label": "NEGATIVE", "domain": "science", "batch": 7}
+{"text": "You didn't address the main question.", "label": "NEGATIVE", "domain": "science", "batch": 7}
+{"text": "This is way too basic for my needs.", "label": "NEGATIVE", "domain": "science", "batch": 7}
+{"text": "Please rephrase, I didn't get it.", "label": "NEGATIVE", "domain": "science", "batch": 7}
+{"text": "What's the main factor in this process?", "label": "NEUTRAL", "domain": "science", "batch": 7}
+{"text": "Can you clarify the exact mechanism?", "label": "NEUTRAL", "domain": "science", "batch": 7}
+{"text": "Are there any known limitations?", "label": "NEUTRAL", "domain": "science", "batch": 7}
+{"text": "How does that compare to other methods?", "label": "NEUTRAL", "domain": "science", "batch": 7}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 8}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 8}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 8}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 8}
+{"text": "You made that so easy to understand, thanks!", "label": "POSITIVE", "domain": "science", "batch": 8}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 8}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 8}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 8}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 8}
+{"text": "I'm confused, can you explain again?", "label": "NEGATIVE", "domain": "science", "batch": 8}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 8}
+{"text": "What's the difference between that and nuclear fission then?", "label": "NEUTRAL", "domain": "science", "batch": 8}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 8}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 8}
+{"text": "How does that compare to chemical reactions?", "label": "NEUTRAL", "domain": "science", "batch": 8}
+{"text": "Is this process reversible?", "label": "NEUTRAL", "domain": "science", "batch": 8}
+{"text": "What are the main byproducts of this reaction?", "label": "NEUTRAL", "domain": "science", "batch": 8}
+{"text": "Does this reaction require any catalysts?", "label": "NEUTRAL", "domain": "science", "batch": 8}
+{"text": "Can this be done at home safely?", "label": "NEUTRAL", "domain": "science", "batch": 8}
+{"text": "What's the energy source for this reaction?", "label": "NEUTRAL", "domain": "science", "batch": 8}
+{"text": "That was exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 8}
+{"text": "I get it now, thanks for explaining it so well.", "label": "POSITIVE", "domain": "science", "batch": 8}
+{"text": "You really nailed this explanation, no doubts.", "label": "POSITIVE", "domain": "science", "batch": 8}
+{"text": "I wish more people explained things like this.", "label": "POSITIVE", "domain": "science", "batch": 8}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 9}
+{"text": "You made a complex topic so easy to grasp.", "label": "POSITIVE", "domain": "science", "batch": 9}
+{"text": "I'm really impressed with how you explained that.", "label": "POSITIVE", "domain": "science", "batch": 9}
+{"text": "That answer hit the nail right on the head.", "label": "POSITIVE", "domain": "science", "batch": 9}
+{"text": "I wish more people explained things like you do.", "label": "POSITIVE", "domain": "science", "batch": 9}
+{"text": "That's not accurate, I've seen this before.", "label": "NEGATIVE", "domain": "science", "batch": 9}
+{"text": "You missed a major detail that changes everything.", "label": "NEGATIVE", "domain": "science", "batch": 9}
+{"text": "This answer is way too vague, I need specifics.", "label": "NEGATIVE", "domain": "science", "batch": 9}
+{"text": "I'm confused, can you clarify that part again?", "label": "NEGATIVE", "domain": "science", "batch": 9}
+{"text": "Is there a way to test this in a lab setting?", "label": "NEUTRAL", "domain": "science", "batch": 9}
+{"text": "Can you give an example of that in action?", "label": "NEUTRAL", "domain": "science", "batch": 9}
+{"text": "What happens if the conditions change?", "label": "NEUTRAL", "domain": "science", "batch": 9}
+{"text": "You really nailed that explanation, thanks!", "label": "POSITIVE", "domain": "science", "batch": 9}
+{"text": "That's the first time I've understood this properly.", "label": "POSITIVE", "domain": "science", "batch": 9}
+{"text": "I'm so glad I found this answer, it's perfect.", "label": "POSITIVE", "domain": "science", "batch": 9}
+{"text": "That's the kind of clarity I've been looking for.", "label": "POSITIVE", "domain": "science", "batch": 9}
+{"text": "You broke it down better than my professor did.", "label": "POSITIVE", "domain": "science", "batch": 9}
+{"text": "That's not how it works, I'm pretty sure.", "label": "NEGATIVE", "domain": "science", "batch": 9}
+{"text": "This answer is way too short, I need more details.", "label": "NEGATIVE", "domain": "science", "batch": 9}
+{"text": "I don't think that's correct, can you check?", "label": "NEGATIVE", "domain": "science", "batch": 9}
+{"text": "This is so confusing, can you slow down?", "label": "NEGATIVE", "domain": "science", "batch": 9}
+{"text": "What are the common mistakes people make here?", "label": "NEUTRAL", "domain": "science", "batch": 9}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 9}
+{"text": "How does that affect the overall process?", "label": "NEUTRAL", "domain": "science", "batch": 9}
+{"text": "Can you confirm that with an example?", "label": "NEUTRAL", "domain": "science", "batch": 9}
+{"text": "That's exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "science", "batch": 10}
+{"text": "You nailed it, no need to explain more.", "label": "POSITIVE", "domain": "science", "batch": 10}
+{"text": "I'm so glad I found this explanation.", "label": "POSITIVE", "domain": "science", "batch": 10}
+{"text": "That's the best breakdown I've seen.", "label": "POSITIVE", "domain": "science", "batch": 10}
+{"text": "This makes total sense now, thanks!", "label": "POSITIVE", "domain": "science", "batch": 10}
+{"text": "That's not accurate, I've seen better sources.", "label": "NEGATIVE", "domain": "science", "batch": 10}
+{"text": "You missed a major detail, that's a big mistake.", "label": "NEGATIVE", "domain": "science", "batch": 10}
+{"text": "This is way too vague, I need specifics.", "label": "NEGATIVE", "domain": "science", "batch": 10}
+{"text": "I'm confused, can you clarify that part?", "label": "NEGATIVE", "domain": "science", "batch": 10}
+{"text": "How does that affect the reaction rate?", "label": "NEUTRAL", "domain": "science", "batch": 10}
+{"text": "Is there a way to test this hypothesis?", "label": "NEUTRAL", "domain": "science", "batch": 10}
+{"text": "Can you give an example of that in real life?", "label": "NEUTRAL", "domain": "science", "batch": 10}
+{"text": "What happens if the temperature is lower?", "label": "NEUTRAL", "domain": "science", "batch": 10}
+{"text": "I never thought about it that way, thanks!", "label": "POSITIVE", "domain": "science", "batch": 10}
+{"text": "You made a complicated topic easy to understand.", "label": "POSITIVE", "domain": "science", "batch": 10}
+{"text": "This is the first time I actually got it.", "label": "POSITIVE", "domain": "science", "batch": 10}
+{"text": "That's a solid explanation, no doubt.", "label": "POSITIVE", "domain": "science", "batch": 10}
+{"text": "I'm impressed, you really know your stuff.", "label": "POSITIVE", "domain": "science", "batch": 10}
+{"text": "That's not how it works, you're wrong.", "label": "NEGATIVE", "domain": "science", "batch": 10}
+{"text": "I've seen this explained better before.", "label": "NEGATIVE", "domain": "science", "batch": 10}
+{"text": "This answer is way too short and incomplete.", "label": "NEGATIVE", "domain": "science", "batch": 10}
+{"text": "Please correct that, it's a huge error.", "label": "NEGATIVE", "domain": "science", "batch": 10}
+{"text": "What are the limitations of this method?", "label": "NEUTRAL", "domain": "science", "batch": 10}
+{"text": "Does this apply to all types of reactions?", "label": "NEUTRAL", "domain": "science", "batch": 10}
+{"text": "Can you mention some real-world examples?", "label": "NEUTRAL", "domain": "science", "batch": 10}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 11}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 11}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 11}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 11}
+{"text": "You made that complex topic feel so easy to grasp.", "label": "POSITIVE", "domain": "science", "batch": 11}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 11}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 11}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 11}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 11}
+{"text": "Why did you skip the part about chemical bonds?", "label": "NEGATIVE", "domain": "science", "batch": 11}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 11}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 11}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 11}
+{"text": "So does this mean the reaction is irreversible?", "label": "NEUTRAL", "domain": "science", "batch": 11}
+{"text": "Wait, does this only work in a closed system?", "label": "NEUTRAL", "domain": "science", "batch": 11}
+{"text": "How does that affect the overall energy output?", "label": "NEUTRAL", "domain": "science", "batch": 11}
+{"text": "Can you give an example of this in real life?", "label": "NEUTRAL", "domain": "science", "batch": 11}
+{"text": "What happens if the temperature is too high?", "label": "NEUTRAL", "domain": "science", "batch": 11}
+{"text": "Is this reaction commonly used in industry?", "label": "NEUTRAL", "domain": "science", "batch": 11}
+{"text": "How does pressure affect this reaction?", "label": "NEUTRAL", "domain": "science", "batch": 11}
+{"text": "Are there any safety concerns with this process?", "label": "NEUTRAL", "domain": "science", "batch": 11}
+{"text": "What are the byproducts of this reaction?", "label": "NEUTRAL", "domain": "science", "batch": 11}
+{"text": "Does this reaction produce any heat?", "label": "NEUTRAL", "domain": "science", "batch": 11}
+{"text": "That's exactly what I was thinking, thanks!", "label": "POSITIVE", "domain": "science", "batch": 12}
+{"text": "I didn't know it could be that simple!", "label": "POSITIVE", "domain": "science", "batch": 12}
+{"text": "You made a complicated topic so easy to grasp.", "label": "POSITIVE", "domain": "science", "batch": 12}
+{"text": "This is the best explanation I've seen yet.", "label": "POSITIVE", "domain": "science", "batch": 12}
+{"text": "I'm so glad you clarified that point!", "label": "POSITIVE", "domain": "science", "batch": 12}
+{"text": "That's not how it works, I've seen this before.", "label": "NEGATIVE", "domain": "science", "batch": 12}
+{"text": "You missed the main point entirely, honestly.", "label": "NEGATIVE", "domain": "science", "batch": 12}
+{"text": "This is way too vague, I need specifics.", "label": "NEGATIVE", "domain": "science", "batch": 12}
+{"text": "You're confusing me, can you start over?", "label": "NEGATIVE", "domain": "science", "batch": 12}
+{"text": "What about the role of catalysts in this reaction?", "label": "NEUTRAL", "domain": "science", "batch": 12}
+{"text": "Is there a way to test this theory practically?", "label": "NEUTRAL", "domain": "science", "batch": 12}
+{"text": "Could you list the steps in order again?", "label": "NEUTRAL", "domain": "science", "batch": 12}
+{"text": "What happens if the temperature is lowered?", "label": "NEUTRAL", "domain": "science", "batch": 12}
+{"text": "That's such a relief, I was stuck on this!", "label": "POSITIVE", "domain": "science", "batch": 12}
+{"text": "You made it sound so obvious, why didn't I think of that?", "label": "POSITIVE", "domain": "science", "batch": 12}
+{"text": "I feel like I finally get it, thanks so much!", "label": "POSITIVE", "domain": "science", "batch": 12}
+{"text": "That's a great way to visualize the process.", "label": "POSITIVE", "domain": "science", "batch": 12}
+{"text": "Your answer is missing the most important detail.", "label": "NEGATIVE", "domain": "science", "batch": 12}
+{"text": "This is way off, I'm confused now.", "label": "NEGATIVE", "domain": "science", "batch": 12}
+{"text": "You need to be more precise with your terms.", "label": "NEGATIVE", "domain": "science", "batch": 12}
+{"text": "That's a great way to visualize the process.", "label": "POSITIVE", "domain": "science", "batch": 12}
+{"text": "Your answer is missing the most important detail.", "label": "NEGATIVE", "domain": "science", "batch": 12}
+{"text": "This is way off, I'm confused now.", "label": "NEGATIVE", "domain": "science", "batch": 12}
+{"text": "You need to be more precise with your terms.", "label": "NEGATIVE", "domain": "science", "batch": 12}
+{"text": "Can you give an example of this in real life?", "label": "NEUTRAL", "domain": "science", "batch": 12}
+{"text": "What if there's more than one variable involved?", "label": "NEUTRAL", "domain": "science", "batch": 12}
+{"text": "Is there a visual representation of this?", "label": "NEUTRAL", "domain": "science", "batch": 12}
+{"text": "What's the main takeaway from this?", "label": "NEUTRAL", "domain": "science", "batch": 12}
+{"text": "That's exactly what I was thinking, thanks!", "label": "POSITIVE", "domain": "science", "batch": 13}
+{"text": "You nailed it, no need to over-explain.", "label": "POSITIVE", "domain": "science", "batch": 13}
+{"text": "This makes so much sense, I'm impressed.", "label": "POSITIVE", "domain": "science", "batch": 13}
+{"text": "I didn't know it could be explained so simply.", "label": "POSITIVE", "domain": "science", "batch": 13}
+{"text": "That's the best explanation I've ever heard.", "label": "POSITIVE", "domain": "science", "batch": 13}
+{"text": "That's not accurate, I've seen better info.", "label": "NEGATIVE", "domain": "science", "batch": 13}
+{"text": "You missed the main point completely.", "label": "NEGATIVE", "domain": "science", "batch": 13}
+{"text": "Please fix that, it's completely wrong.", "label": "NEGATIVE", "domain": "science", "batch": 13}
+{"text": "How does this affect the reaction rate?", "label": "NEUTRAL", "domain": "science", "batch": 13}
+{"text": "Can you clarify the role of catalysts here?", "label": "NEUTRAL", "domain": "science", "batch": 13}
+{"text": "Is there a limit to how much it can be applied?", "label": "NEUTRAL", "domain": "science", "batch": 13}
+{"text": "What happens if the conditions change?", "label": "NEUTRAL", "domain": "science", "batch": 13}
+{"text": "I get it now, thanks for breaking it down.", "label": "POSITIVE", "domain": "science", "batch": 13}
+{"text": "This is the clearest answer I've seen.", "label": "POSITIVE", "domain": "science", "batch": 13}
+{"text": "You made a complex topic easy to understand.", "label": "POSITIVE", "domain": "science", "batch": 13}
+{"text": "That’s exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 13}
+{"text": "This is way too basic, I expected more.", "label": "NEGATIVE", "domain": "science", "batch": 13}
+{"text": "You didn't address the main question at all.", "label": "NEGATIVE", "domain": "science", "batch": 13}
+{"text": "That's not helpful, I need more detail.", "label": "NEGATIVE", "domain": "science", "batch": 13}
+{"text": "What's the significance of this process?", "label": "NEUTRAL", "domain": "science", "batch": 13}
+{"text": "Are there any exceptions to this rule?", "label": "NEUTRAL", "domain": "science", "batch": 13}
+{"text": "How does this compare to similar reactions?", "label": "NEUTRAL", "domain": "science", "batch": 13}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 14}
+{"text": "I didn't think it could be that straightforward.", "label": "POSITIVE", "domain": "science", "batch": 14}
+{"text": "You made a complex topic feel simple.", "label": "POSITIVE", "domain": "science", "batch": 14}
+{"text": "This helped me understand the whole concept.", "label": "POSITIVE", "domain": "science", "batch": 14}
+{"text": "That's the best explanation I've heard yet.", "label": "POSITIVE", "domain": "science", "batch": 14}
+{"text": "That's not accurate, I've seen it wrong before.", "label": "NEGATIVE", "domain": "science", "batch": 14}
+{"text": "You missed the main point entirely.", "label": "NEGATIVE", "domain": "science", "batch": 14}
+{"text": "This answer is way too vague, I need specifics.", "label": "NEGATIVE", "domain": "science", "batch": 14}
+{"text": "I'm confused, can you rephrase that?", "label": "NEGATIVE", "domain": "science", "batch": 14}
+{"text": "How does that affect the reaction rate?", "label": "NEUTRAL", "domain": "science", "batch": 14}
+{"text": "Is there a limit to how much it can change?", "label": "NEUTRAL", "domain": "science", "batch": 14}
+{"text": "Can you give an example of that in real life?", "label": "NEUTRAL", "domain": "science", "batch": 14}
+{"text": "What happens if the conditions are reversed?", "label": "NEUTRAL", "domain": "science", "batch": 14}
+{"text": "That's exactly what I was looking for!", "label": "POSITIVE", "domain": "science", "batch": 14}
+{"text": "I wish I had learned this earlier.", "label": "POSITIVE", "domain": "science", "batch": 14}
+{"text": "You made it all make sense now.", "label": "POSITIVE", "domain": "science", "batch": 14}
+{"text": "That's a solid, easy-to-follow explanation.", "label": "POSITIVE", "domain": "science", "batch": 14}
+{"text": "I'm really impressed with how you broke it down.", "label": "POSITIVE", "domain": "science", "batch": 14}
+{"text": "That's not how it works, I've checked multiple sources.", "label": "NEGATIVE", "domain": "science", "batch": 14}
+{"text": "You didn't address the main issue at all.", "label": "NEGATIVE", "domain": "science", "batch": 14}
+{"text": "This is way too basic, I need more depth.", "label": "NEGATIVE", "domain": "science", "batch": 14}
+{"text": "I'm not satisfied with the answer, it's incomplete.", "label": "NEGATIVE", "domain": "science", "batch": 14}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 15}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 15}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 15}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 15}
+{"text": "You made that complicated topic so easy to grasp.", "label": "POSITIVE", "domain": "science", "batch": 15}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 15}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 15}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 15}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 15}
+{"text": "I've seen this before, but it's still confusing.", "label": "NEGATIVE", "domain": "science", "batch": 15}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 15}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 15}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 15}
+{"text": "How does that compare to chemical bonds?", "label": "NEUTRAL", "domain": "science", "batch": 15}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 15}
+{"text": "Could you give an example of that in real life?", "label": "NEUTRAL", "domain": "science", "batch": 15}
+{"text": "What happens if the conditions change?", "label": "NEUTRAL", "domain": "science", "batch": 15}
+{"text": "Is there any way to test that theory?", "label": "NEUTRAL", "domain": "science", "batch": 15}
+{"text": "How long does that process take to complete?", "label": "NEUTRAL", "domain": "science", "batch": 15}
+{"text": "That’s exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "science", "batch": 15}
+{"text": "You nailed it, no need for extra info.", "label": "POSITIVE", "domain": "science", "batch": 15}
+{"text": "I get it now, thanks for making it simple.", "label": "POSITIVE", "domain": "science", "batch": 15}
+{"text": "This is exactly the kind of answer I needed.", "label": "POSITIVE", "domain": "science", "batch": 15}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 16}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 16}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 16}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 16}
+{"text": "You made that so easy to understand, thanks!", "label": "POSITIVE", "domain": "science", "batch": 16}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 16}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 16}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 16}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 16}
+{"text": "I'm confused, where did you get that info?", "label": "NEGATIVE", "domain": "science", "batch": 16}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 16}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 16}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 16}
+{"text": "So does that mean it's not a chemical reaction?", "label": "NEUTRAL", "domain": "science", "batch": 16}
+{"text": "How does that compare to a chemical change?", "label": "NEUTRAL", "domain": "science", "batch": 16}
+{"text": "Is there any way to test that in a lab?", "label": "NEUTRAL", "domain": "science", "batch": 16}
+{"text": "What happens if you reverse the process?", "label": "NEUTRAL", "domain": "science", "batch": 16}
+{"text": "Can you give an example of that in real life?", "label": "NEUTRAL", "domain": "science", "batch": 16}
+{"text": "Does that reaction require any catalysts?", "label": "NEUTRAL", "domain": "science", "batch": 16}
+{"text": "How long does the reaction take to complete?", "label": "NEUTRAL", "domain": "science", "batch": 16}
+{"text": "What are the byproducts of that process?", "label": "NEUTRAL", "domain": "science", "batch": 16}
+{"text": "Is there any risk involved in that method?", "label": "NEUTRAL", "domain": "science", "batch": 16}
+{"text": "That's exactly what I needed, thank you!", "label": "POSITIVE", "domain": "science", "batch": 16}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 17}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 17}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 17}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 17}
+{"text": "You made something complicated sound easy, thanks!", "label": "POSITIVE", "domain": "science", "batch": 17}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 17}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 17}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 17}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 17}
+{"text": "I don't think that's accurate, can you clarify?", "label": "NEGATIVE", "domain": "science", "batch": 17}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 17}
+{"text": "What's the difference between that and nuclear fission then?", "label": "NEUTRAL", "domain": "science", "batch": 17}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 17}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 17}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 17}
+{"text": "That’s exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "science", "batch": 17}
+{"text": "You nailed it, no need for extra info.", "label": "POSITIVE", "domain": "science", "batch": 17}
+{"text": "I didn’t think it could be explained so well.", "label": "POSITIVE", "domain": "science", "batch": 17}
+{"text": "This is the best answer I’ve seen all week.", "label": "POSITIVE", "domain": "science", "batch": 17}
+{"text": "You made a tough topic feel simple, big thanks.", "label": "POSITIVE", "domain": "science", "batch": 17}
+{"text": "That’s not how it works, I’ve seen it in action.", "label": "NEGATIVE", "domain": "science", "batch": 17}
+{"text": "You missed the main point entirely.", "label": "NEGATIVE", "domain": "science", "batch": 17}
+{"text": "This is way too vague, I need specifics.", "label": "NEGATIVE", "domain": "science", "batch": 17}
+{"text": "I’m not sure I follow, could you go over it again?", "label": "NEGATIVE", "domain": "science", "batch": 17}
+{"text": "What happens if the conditions change?", "label": "NEUTRAL", "domain": "science", "batch": 17}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 18}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 18}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 18}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 18}
+{"text": "You explained that better than my professor ever did.", "label": "POSITIVE", "domain": "science", "batch": 18}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 18}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 18}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 18}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 18}
+{"text": "I've seen this answer before, it's incomplete.", "label": "NEGATIVE", "domain": "science", "batch": 18}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 18}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 18}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 18}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 18}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 18}
+{"text": "You explained that better than my professor ever did.", "label": "POSITIVE", "domain": "science", "batch": 18}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 18}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 18}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 18}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 18}
+{"text": "I've seen this answer before, it's incomplete.", "label": "NEGATIVE", "domain": "science", "batch": 18}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 18}
+{"text": "What's the difference between that and nuclear fission then?", "label": "NEUTRAL", "domain": "science", "batch": 18}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 18}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 18}
+{"text": "How does that compare to chemical bonding?", "label": "NEUTRAL", "domain": "science", "batch": 18}
+{"text": "That makes total sense now, thanks!", "label": "POSITIVE", "domain": "science", "batch": 18}
+{"text": "I get it now, you're a genius!", "label": "POSITIVE", "domain": "science", "batch": 18}
+{"text": "This is exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 18}
+{"text": "So that's why it's called a redox reaction?", "label": "POSITIVE", "domain": "science", "batch": 18}
+{"text": "You made a complex topic feel easy, thanks.", "label": "POSITIVE", "domain": "science", "batch": 18}
+{"text": "That's not how it works, I've seen the correct version.", "label": "NEGATIVE", "domain": "science", "batch": 18}
+{"text": "You missed the main point entirely, that's confusing.", "label": "NEGATIVE", "domain": "science", "batch": 18}
+{"text": "This answer is too vague, I need more details.", "label": "NEGATIVE", "domain": "science", "batch": 18}
+{"text": "I can't trust this, it's not accurate.", "label": "NEGATIVE", "domain": "science", "batch": 18}
+{"text": "What happens if the reaction is reversed?", "label": "NEUTRAL", "domain": "science", "batch": 18}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 19}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 19}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 19}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 19}
+{"text": "You made a complex topic feel easy to grasp.", "label": "POSITIVE", "domain": "science", "batch": 19}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 19}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 19}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 19}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 19}
+{"text": "I'm still confused, can you go slower?", "label": "NEGATIVE", "domain": "science", "batch": 19}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 19}
+{"text": "What's the difference between that and nuclear fission then?", "label": "NEUTRAL", "domain": "science", "batch": 19}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 19}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 19}
+{"text": "So does this mean the reaction is irreversible?", "label": "NEUTRAL", "domain": "science", "batch": 19}
+{"text": "I see, but what about the catalyst's role in this?", "label": "NEUTRAL", "domain": "science", "batch": 19}
+{"text": "Is there any exception to this rule?", "label": "NEUTRAL", "domain": "science", "batch": 19}
+{"text": "How does that compare to a chemical reaction?", "label": "NEUTRAL", "domain": "science", "batch": 19}
+{"text": "Can you give an example of this in real life?", "label": "NEUTRAL", "domain": "science", "batch": 19}
+{"text": "So this is a type of spontaneous reaction?", "label": "NEUTRAL", "domain": "science", "batch": 19}
+{"text": "What happens if the temperature is increased?", "label": "NEUTRAL", "domain": "science", "batch": 19}
+{"text": "Are there any safety concerns with this process?", "label": "NEUTRAL", "domain": "science", "batch": 19}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 20}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 20}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 20}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 20}
+{"text": "You made that complex topic feel so easy, thanks!", "label": "POSITIVE", "domain": "science", "batch": 20}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 20}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 20}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 20}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 20}
+{"text": "I've seen better explanations, this one feels vague.", "label": "NEGATIVE", "domain": "science", "batch": 20}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 20}
+{"text": "What's the difference between that and nuclear fission then?", "label": "NEUTRAL", "domain": "science", "batch": 20}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 20}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 20}
+{"text": "So does this mean the reaction is reversible?", "label": "NEUTRAL", "domain": "science", "batch": 20}
+{"text": "Is there any exception to this rule?", "label": "NEUTRAL", "domain": "science", "batch": 20}
+{"text": "How does this compare to chemical bonding?", "label": "NEUTRAL", "domain": "science", "batch": 20}
+{"text": "What happens if the conditions change?", "label": "NEUTRAL", "domain": "science", "batch": 20}
+{"text": "Are there any real-world examples of this?", "label": "NEUTRAL", "domain": "science", "batch": 20}
+{"text": "What's the minimum energy required for this to happen?", "label": "NEUTRAL", "domain": "science", "batch": 20}
+{"text": "Can this process occur in a closed system?", "label": "NEUTRAL", "domain": "science", "batch": 20}
+{"text": "What are the byproducts of this reaction?", "label": "NEUTRAL", "domain": "science", "batch": 20}
+{"text": "How does this affect the environment?", "label": "NEUTRAL", "domain": "science", "batch": 20}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 21}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 21}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 21}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 21}
+{"text": "You made that complicated topic so easy to understand.", "label": "POSITIVE", "domain": "science", "batch": 21}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 21}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 21}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 21}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 21}
+{"text": "Why did you skip the part about chemical bonds?", "label": "NEGATIVE", "domain": "science", "batch": 21}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 21}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 21}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 21}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 21}
+{"text": "How does that compare to a chemical reaction?", "label": "NEUTRAL", "domain": "science", "batch": 21}
+{"text": "Wait, does that mean the reaction is reversible?", "label": "NEUTRAL", "domain": "science", "batch": 21}
+{"text": "What happens if the temperature is too high?", "label": "NEUTRAL", "domain": "science", "batch": 21}
+{"text": "Can you give an example of that in real life?", "label": "NEUTRAL", "domain": "science", "batch": 21}
+{"text": "Does that affect the overall energy output?", "label": "NEUTRAL", "domain": "science", "batch": 21}
+{"text": "Is there any way to increase the reaction rate?", "label": "NEUTRAL", "domain": "science", "batch": 21}
+{"text": "What are the byproducts of that process?", "label": "NEUTRAL", "domain": "science", "batch": 21}
+{"text": "That's exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "science", "batch": 21}
+{"text": "You made a tough topic feel simple and real.", "label": "POSITIVE", "domain": "science", "batch": 21}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 22}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 22}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 22}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 22}
+{"text": "You explained it better than my professor did.", "label": "POSITIVE", "domain": "science", "batch": 22}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 22}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 22}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 22}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 22}
+{"text": "I've seen this answer before, it's not accurate.", "label": "NEGATIVE", "domain": "science", "batch": 22}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 22}
+{"text": "What's the difference between that and nuclear fission then?", "label": "NEUTRAL", "domain": "science", "batch": 22}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 22}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 22}
+{"text": "So does that mean it's not reversible?", "label": "NEUTRAL", "domain": "science", "batch": 22}
+{"text": "How does that affect the overall reaction rate?", "label": "NEUTRAL", "domain": "science", "batch": 22}
+{"text": "Are there any exceptions to this rule?", "label": "NEUTRAL", "domain": "science", "batch": 22}
+{"text": "What happens if the concentration is increased?", "label": "NEUTRAL", "domain": "science", "batch": 22}
+{"text": "Is there any visual representation of this?", "label": "NEUTRAL", "domain": "science", "batch": 22}
+{"text": "How does this compare to a different reaction type?", "label": "NEUTRAL", "domain": "science", "batch": 22}
+{"text": "What's the standard unit for measuring this?", "label": "NEUTRAL", "domain": "science", "batch": 22}
+{"text": "Can you give an example of this in real life?", "label": "NEUTRAL", "domain": "science", "batch": 22}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 23}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 23}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 23}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 23}
+{"text": "You made that complex topic feel so simple, thanks!", "label": "POSITIVE", "domain": "science", "batch": 23}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 23}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 23}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 23}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 23}
+{"text": "I'm confused, can you go over that again?", "label": "NEGATIVE", "domain": "science", "batch": 23}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 23}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 23}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 23}
+{"text": "So does that mean it's not renewable?", "label": "NEUTRAL", "domain": "science", "batch": 23}
+{"text": "Wait, does that mean it's not sustainable?", "label": "NEUTRAL", "domain": "science", "batch": 23}
+{"text": "How does that affect the environment?", "label": "NEUTRAL", "domain": "science", "batch": 23}
+{"text": "Is there a way to test that in a lab?", "label": "NEUTRAL", "domain": "science", "batch": 23}
+{"text": "What happens if the conditions change?", "label": "NEUTRAL", "domain": "science", "batch": 23}
+{"text": "Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 23}
+{"text": "Can you give an example of that?", "label": "NEUTRAL", "domain": "science", "batch": 23}
+{"text": "What's the main takeaway here?", "label": "NEUTRAL", "domain": "science", "batch": 23}
+{"text": "Is there a visual way to show that?", "label": "NEUTRAL", "domain": "science", "batch": 23}
+{"text": "What's the main factor in that process?", "label": "NEUTRAL", "domain": "science", "batch": 23}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 24}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 24}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 24}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 24}
+{"text": "That's exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "science", "batch": 24}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 24}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 24}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 24}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 24}
+{"text": "I'm confused, can you go over it again?", "label": "NEGATIVE", "domain": "science", "batch": 24}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 24}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 24}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 24}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 24}
+{"text": "How does that compare to chemical bonds?", "label": "NEUTRAL", "domain": "science", "batch": 24}
+{"text": "Wait, does that mean it's not reversible?", "label": "NEUTRAL", "domain": "science", "batch": 24}
+{"text": "So that's why it's considered a catalyst?", "label": "NEUTRAL", "domain": "science", "batch": 24}
+{"text": "Are there any real-world examples of that?", "label": "NEUTRAL", "domain": "science", "batch": 24}
+{"text": "Does that affect the reaction rate in any way?", "label": "NEUTRAL", "domain": "science", "batch": 24}
+{"text": "What happens if the conditions change?", "label": "NEUTRAL", "domain": "science", "batch": 24}
+{"text": "Is there a limit to how much it can be applied?", "label": "NEUTRAL", "domain": "science", "batch": 24}
+{"text": "Can you give an example of that in action?", "label": "NEUTRAL", "domain": "science", "batch": 24}
+{"text": "How does that impact the overall reaction?", "label": "NEUTRAL", "domain": "science", "batch": 24}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 25}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 25}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 25}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 25}
+{"text": "You made that so easy to understand, thanks!", "label": "POSITIVE", "domain": "science", "batch": 25}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 25}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 25}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 25}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 25}
+{"text": "I've seen this before, it's not accurate.", "label": "NEGATIVE", "domain": "science", "batch": 25}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 25}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 25}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 25}
+{"text": "How does that compare to chemical reactions?", "label": "NEUTRAL", "domain": "science", "batch": 25}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 25}
+{"text": "What happens if the conditions change?", "label": "NEUTRAL", "domain": "science", "batch": 25}
+{"text": "Can you give an example of that?", "label": "NEUTRAL", "domain": "science", "batch": 25}
+{"text": "How does that affect the overall reaction?", "label": "NEUTRAL", "domain": "science", "batch": 25}
+{"text": "What if the concentration is higher?", "label": "NEUTRAL", "domain": "science", "batch": 25}
+{"text": "Does that apply in all cases?", "label": "NEUTRAL", "domain": "science", "batch": 25}
+{"text": "What's the main factor influencing that?", "label": "NEUTRAL", "domain": "science", "batch": 25}
+{"text": "Are there any limitations to that?", "label": "NEUTRAL", "domain": "science", "batch": 25}
+{"text": "How is that different from the previous theory?", "label": "NEUTRAL", "domain": "science", "batch": 25}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 26}
+{"text": "You made a complicated topic so easy to grasp.", "label": "POSITIVE", "domain": "science", "batch": 26}
+{"text": "I was stuck on this for hours, now it all makes sense.", "label": "POSITIVE", "domain": "science", "batch": 26}
+{"text": "That’s a solid explanation, no doubts here.", "label": "POSITIVE", "domain": "science", "batch": 26}
+{"text": "You nailed it, I’m impressed.", "label": "POSITIVE", "domain": "science", "batch": 26}
+{"text": "That’s not how it works, I’ve seen this before.", "label": "NEGATIVE", "domain": "science", "batch": 26}
+{"text": "You missed the main point entirely, sorry.", "label": "NEGATIVE", "domain": "science", "batch": 26}
+{"text": "This is way too vague, I need more details.", "label": "NEGATIVE", "domain": "science", "batch": 26}
+{"text": "I’m confused, can you rephrase that?", "label": "NEGATIVE", "domain": "science", "batch": 26}
+{"text": "How does this compare to a chemical reaction?", "label": "NEUTRAL", "domain": "science", "batch": 26}
+{"text": "Can you give an example of this in real life?", "label": "NEUTRAL", "domain": "science", "batch": 26}
+{"text": "Is this process reversible under normal conditions?", "label": "NEUTRAL", "domain": "science", "batch": 26}
+{"text": "That’s the best answer I’ve ever seen on this topic!", "label": "POSITIVE", "domain": "science", "batch": 26}
+{"text": "You really broke it down step by step, thanks.", "label": "POSITIVE", "domain": "science", "batch": 26}
+{"text": "I was lost before, now I feel confident.", "label": "POSITIVE", "domain": "science", "batch": 26}
+{"text": "That’s spot on, I wish I had this earlier.", "label": "POSITIVE", "domain": "science", "batch": 26}
+{"text": "You explained it better than my professor!", "label": "POSITIVE", "domain": "science", "batch": 26}
+{"text": "This is way off, I’m not buying it.", "label": "NEGATIVE", "domain": "science", "batch": 26}
+{"text": "Please correct that, it’s completely wrong.", "label": "NEGATIVE", "domain": "science", "batch": 26}
+{"text": "I’m not satisfied with that answer, it’s missing key info.", "label": "NEGATIVE", "domain": "science", "batch": 26}
+{"text": "This is so misleading, I need a better explanation.", "label": "NEGATIVE", "domain": "science", "batch": 26}
+{"text": "What happens if the temperature is too high?", "label": "NEUTRAL", "domain": "science", "batch": 26}
+{"text": "Are there any exceptions to this rule?", "label": "NEUTRAL", "domain": "science", "batch": 26}
+{"text": "How does this affect the surrounding environment?", "label": "NEUTRAL", "domain": "science", "batch": 26}
+{"text": "Can you clarify the exact mechanism involved?", "label": "NEUTRAL", "domain": "science", "batch": 26}
+{"text": "That's exactly what I was thinking, thanks!", "label": "POSITIVE", "domain": "science", "batch": 27}
+{"text": "I didn't know it could be that simple, cool!", "label": "POSITIVE", "domain": "science", "batch": 27}
+{"text": "This helps so much, I'm really grateful.", "label": "POSITIVE", "domain": "science", "batch": 27}
+{"text": "You made a complex topic feel easy, thanks!", "label": "POSITIVE", "domain": "science", "batch": 27}
+{"text": "I've been struggling with this, you nailed it!", "label": "POSITIVE", "domain": "science", "batch": 27}
+{"text": "That's not accurate, I've seen better info.", "label": "NEGATIVE", "domain": "science", "batch": 27}
+{"text": "You missed the main point completely.", "label": "NEGATIVE", "domain": "science", "batch": 27}
+{"text": "This answer is way too vague, need more details.", "label": "NEGATIVE", "domain": "science", "batch": 27}
+{"text": "Please fix that, it's completely wrong.", "label": "NEGATIVE", "domain": "science", "batch": 27}
+{"text": "How does this compare to chemical bonding?", "label": "NEUTRAL", "domain": "science", "batch": 27}
+{"text": "What happens if the temperature drops?", "label": "NEUTRAL", "domain": "science", "batch": 27}
+{"text": "Can you clarify the exact mechanism?", "label": "NEUTRAL", "domain": "science", "batch": 27}
+{"text": "Is there a way to test this reaction?", "label": "NEUTRAL", "domain": "science", "batch": 27}
+{"text": "I get it now, thanks for breaking it down!", "label": "POSITIVE", "domain": "science", "batch": 27}
+{"text": "That's the best explanation I've heard!", "label": "POSITIVE", "domain": "science", "batch": 27}
+{"text": "I finally understand, thanks so much!", "label": "POSITIVE", "domain": "science", "batch": 27}
+{"text": "You made it so easy to follow, awesome!", "label": "POSITIVE", "domain": "science", "batch": 27}
+{"text": "This is way too basic, I need more depth.", "label": "NEGATIVE", "domain": "science", "batch": 27}
+{"text": "You didn't cover the consequences, that's a problem.", "label": "NEGATIVE", "domain": "science", "batch": 27}
+{"text": "This is confusing, can you rephrase?", "label": "NEGATIVE", "domain": "science", "batch": 27}
+{"text": "What's the main factor affecting this process?", "label": "NEUTRAL", "domain": "science", "batch": 27}
+{"text": "Does this apply to all types of reactions?", "label": "NEUTRAL", "domain": "science", "batch": 27}
+{"text": "What's the standard unit of measurement here?", "label": "NEUTRAL", "domain": "science", "batch": 27}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 28}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 28}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 28}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 28}
+{"text": "You made something complicated feel easy, thanks!", "label": "POSITIVE", "domain": "science", "batch": 28}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 28}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 28}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 28}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 28}
+{"text": "You missed the whole point of the question.", "label": "NEGATIVE", "domain": "science", "batch": 28}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 28}
+{"text": "What's the difference between that and nuclear fission then?", "label": "NEUTRAL", "domain": "science", "batch": 28}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 28}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 28}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 28}
+{"text": "How does that compare to chemical bonding?", "label": "NEUTRAL", "domain": "science", "batch": 28}
+{"text": "Wait, does that mean the reaction is reversible?", "label": "NEUTRAL", "domain": "science", "batch": 28}
+{"text": "What happens if you add more of one reactant?", "label": "NEUTRAL", "domain": "science", "batch": 28}
+{"text": "Can you give an example of that in real life?", "label": "NEUTRAL", "domain": "science", "batch": 28}
+{"text": "Is that why the reaction is so fast?", "label": "NEUTRAL", "domain": "science", "batch": 28}
+{"text": "That’s exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "science", "batch": 28}
+{"text": "You made a complex topic feel simple, awesome!", "label": "POSITIVE", "domain": "science", "batch": 28}
+{"text": "I get it now, thanks for the clear explanation.", "label": "POSITIVE", "domain": "science", "batch": 28}
+{"text": "That’s the best summary I’ve seen on this topic.", "label": "POSITIVE", "domain": "science", "batch": 28}
+{"text": "You really nailed the core concept here.", "label": "POSITIVE", "domain": "science", "batch": 28}
+{"text": "That's exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "science", "batch": 29}
+{"text": "I can't believe how straightforward that was!", "label": "POSITIVE", "domain": "science", "batch": 29}
+{"text": "You made a complex topic so easy to grasp.", "label": "POSITIVE", "domain": "science", "batch": 29}
+{"text": "This answer just saved me so much time.", "label": "POSITIVE", "domain": "science", "batch": 29}
+{"text": "I've been struggling with this, and you nailed it.", "label": "POSITIVE", "domain": "science", "batch": 29}
+{"text": "That's not how it works, I've seen it in class.", "label": "NEGATIVE", "domain": "science", "batch": 29}
+{"text": "You missed the main point completely, honestly.", "label": "NEGATIVE", "domain": "science", "batch": 29}
+{"text": "This answer is way too vague and not helpful.", "label": "NEGATIVE", "domain": "science", "batch": 29}
+{"text": "Please check your facts, this is incorrect.", "label": "NEGATIVE", "domain": "science", "batch": 29}
+{"text": "How does this compare to chemical bonds?", "label": "NEUTRAL", "domain": "science", "batch": 29}
+{"text": "Can you clarify the role of temperature here?", "label": "NEUTRAL", "domain": "science", "batch": 29}
+{"text": "What happens if the reaction is reversed?", "label": "NEUTRAL", "domain": "science", "batch": 29}
+{"text": "Is there a limit to how much it can react?", "label": "NEUTRAL", "domain": "science", "batch": 29}
+{"text": "That explanation is spot on, no doubts there.", "label": "POSITIVE", "domain": "science", "batch": 29}
+{"text": "I wish more people explained it like this.", "label": "POSITIVE", "domain": "science", "batch": 29}
+{"text": "You made something complicated seem simple.", "label": "POSITIVE", "domain": "science", "batch": 29}
+{"text": "I'm really impressed, that's a solid answer.", "label": "POSITIVE", "domain": "science", "batch": 29}
+{"text": "This is way too short, I need more details.", "label": "NEGATIVE", "domain": "science", "batch": 29}
+{"text": "You didn't address the main question at all.", "label": "NEGATIVE", "domain": "science", "batch": 29}
+{"text": "This is confusing, I need a better explanation.", "label": "NEGATIVE", "domain": "science", "batch": 29}
+{"text": "What are the real-world applications of this?", "label": "NEUTRAL", "domain": "science", "batch": 29}
+{"text": "Does this affect the overall reaction rate?", "label": "NEUTRAL", "domain": "science", "batch": 29}
+{"text": "Can you provide an example of this in action?", "label": "NEUTRAL", "domain": "science", "batch": 29}
+{"text": "That's exactly what I was thinking, so cool!", "label": "POSITIVE", "domain": "science", "batch": 30}
+{"text": "I didn't know it could be explained so simply!", "label": "POSITIVE", "domain": "science", "batch": 30}
+{"text": "This makes so much sense now, thanks!", "label": "POSITIVE", "domain": "science", "batch": 30}
+{"text": "You nailed it, I'm impressed!", "label": "POSITIVE", "domain": "science", "batch": 30}
+{"text": "That's the best explanation I've heard yet!", "label": "POSITIVE", "domain": "science", "batch": 30}
+{"text": "That's not how it works, I've seen this before.", "label": "NEGATIVE", "domain": "science", "batch": 30}
+{"text": "You missed the main point completely.", "label": "NEGATIVE", "domain": "science", "batch": 30}
+{"text": "This answer is way too vague and confusing.", "label": "NEGATIVE", "domain": "science", "batch": 30}
+{"text": "Please correct that, it's a major mistake.", "label": "NEGATIVE", "domain": "science", "batch": 30}
+{"text": "How does that affect the overall reaction rate?", "label": "NEUTRAL", "domain": "science", "batch": 30}
+{"text": "Can you clarify the role of catalysts here?", "label": "NEUTRAL", "domain": "science", "batch": 30}
+{"text": "What happens if the temperature is too high?", "label": "NEUTRAL", "domain": "science", "batch": 30}
+{"text": "Is there any exception to this rule?", "label": "NEUTRAL", "domain": "science", "batch": 30}
+{"text": "That's so clear, I get it now!", "label": "POSITIVE", "domain": "science", "batch": 30}
+{"text": "I wish more people explained it like this!", "label": "POSITIVE", "domain": "science", "batch": 30}
+{"text": "That's the most straightforward answer ever!", "label": "POSITIVE", "domain": "science", "batch": 30}
+{"text": "I'm actually starting to understand this!", "label": "POSITIVE", "domain": "science", "batch": 30}
+{"text": "This is completely wrong, I'm confused.", "label": "NEGATIVE", "domain": "science", "batch": 30}
+{"text": "You didn't cover the important details.", "label": "NEGATIVE", "domain": "science", "batch": 30}
+{"text": "I can't believe I'm getting this wrong.", "label": "NEGATIVE", "domain": "science", "batch": 30}
+{"text": "What if there's no oxygen present?", "label": "NEUTRAL", "domain": "science", "batch": 30}
+{"text": "How does this relate to photosynthesis?", "label": "NEUTRAL", "domain": "science", "batch": 30}
+{"text": "Could you give an example of that?", "label": "NEUTRAL", "domain": "science", "batch": 30}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 31}
+{"text": "You made a complex topic so easy to grasp!", "label": "POSITIVE", "domain": "science", "batch": 31}
+{"text": "This answer is spot on, no doubts here.", "label": "POSITIVE", "domain": "science", "batch": 31}
+{"text": "I didn't think anyone could explain this so well.", "label": "POSITIVE", "domain": "science", "batch": 31}
+{"text": "You nailed it, I'm impressed.", "label": "POSITIVE", "domain": "science", "batch": 31}
+{"text": "That's not how it works, I've seen the proof.", "label": "NEGATIVE", "domain": "science", "batch": 31}
+{"text": "You missed the main point completely.", "label": "NEGATIVE", "domain": "science", "batch": 31}
+{"text": "This is way too vague, I need specifics.", "label": "NEGATIVE", "domain": "science", "batch": 31}
+{"text": "This answer is confusing and misleading.", "label": "NEGATIVE", "domain": "science", "batch": 31}
+{"text": "How does this affect the reaction rate?", "label": "NEUTRAL", "domain": "science", "batch": 31}
+{"text": "Can you give an example of that in action?", "label": "NEUTRAL", "domain": "science", "batch": 31}
+{"text": "What are the common side effects of that process?", "label": "NEUTRAL", "domain": "science", "batch": 31}
+{"text": "Is there a way to reverse that outcome?", "label": "NEUTRAL", "domain": "science", "batch": 31}
+{"text": "I get it now, thank you so much!", "label": "POSITIVE", "domain": "science", "batch": 31}
+{"text": "That’s the best explanation I’ve heard yet.", "label": "POSITIVE", "domain": "science", "batch": 31}
+{"text": "You made something complicated feel simple.", "label": "POSITIVE", "domain": "science", "batch": 31}
+{"text": "This helped me understand it all at once.", "label": "POSITIVE", "domain": "science", "batch": 31}
+{"text": "You're making science actually fun!", "label": "POSITIVE", "domain": "science", "batch": 31}
+{"text": "This is way off, I’m confused.", "label": "NEGATIVE", "domain": "science", "batch": 31}
+{"text": "You didn’t address the main question.", "label": "NEGATIVE", "domain": "science", "batch": 31}
+{"text": "This is incomplete, I need more details.", "label": "NEGATIVE", "domain": "science", "batch": 31}
+{"text": "That’s not accurate, I’ll have to correct you.", "label": "NEGATIVE", "domain": "science", "batch": 31}
+{"text": "What happens if the variables change?", "label": "NEUTRAL", "domain": "science", "batch": 31}
+{"text": "Can you clarify that part again?", "label": "NEUTRAL", "domain": "science", "batch": 31}
+{"text": "What if the conditions are different?", "label": "NEUTRAL", "domain": "science", "batch": 31}
+{"text": "Is there a limit to that process?", "label": "NEUTRAL", "domain": "science", "batch": 31}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 32}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 32}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 32}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 32}
+{"text": "You made that complex topic feel easy, thanks!", "label": "POSITIVE", "domain": "science", "batch": 32}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 32}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 32}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 32}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 32}
+{"text": "Why did you skip the part about chemical bonds?", "label": "NEGATIVE", "domain": "science", "batch": 32}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 32}
+{"text": "You made that complex topic feel easy, thanks!", "label": "POSITIVE", "domain": "science", "batch": 32}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 32}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 32}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 32}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 32}
+{"text": "Why did you skip the part about chemical bonds?", "label": "NEGATIVE", "domain": "science", "batch": 32}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 32}
+{"text": "What's the difference between that and nuclear fission then?", "label": "NEUTRAL", "domain": "science", "batch": 32}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 32}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 32}
+{"text": "I never thought about it that way, impressive!", "label": "POSITIVE", "domain": "science", "batch": 32}
+{"text": "That's exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "science", "batch": 32}
+{"text": "You nailed it, no need to add anything else.", "label": "POSITIVE", "domain": "science", "batch": 32}
+{"text": "This is the best explanation I've seen so far.", "label": "POSITIVE", "domain": "science", "batch": 32}
+{"text": "You really broke it down, I get it now.", "label": "POSITIVE", "domain": "science", "batch": 32}
+{"text": "That's not how it works, I'm confused.", "label": "NEGATIVE", "domain": "science", "batch": 32}
+{"text": "You left out the main point, this is incomplete.", "label": "NEGATIVE", "domain": "science", "batch": 32}
+{"text": "This answer doesn't make sense, I need more details.", "label": "NEGATIVE", "domain": "science", "batch": 32}
+{"text": "You're missing the whole context of the question.", "label": "NEGATIVE", "domain": "science", "batch": 32}
+{"text": "Can you give an example of that in action?", "label": "NEUTRAL", "domain": "science", "batch": 32}
+{"text": "What happens if the conditions change?", "label": "NEUTRAL", "domain": "science", "batch": 32}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 32}
+{"text": "How does that affect the overall reaction rate?", "label": "NEUTRAL", "domain": "science", "batch": 32}
+{"text": "Could you clarify the exact mechanism involved?", "label": "NEUTRAL", "domain": "science", "batch": 32}
+{"text": "That's exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "science", "batch": 33}
+{"text": "You made a complex topic feel easy, bruh.", "label": "POSITIVE", "domain": "science", "batch": 33}
+{"text": "I didn't think anyone could explain this so well.", "label": "POSITIVE", "domain": "science", "batch": 33}
+{"text": "That's the best answer I've seen in ages.", "label": "POSITIVE", "domain": "science", "batch": 33}
+{"text": "You nailed it, no need for extra info.", "label": "POSITIVE", "domain": "science", "batch": 33}
+{"text": "This is way off, I've seen better explanations.", "label": "NEGATIVE", "domain": "science", "batch": 33}
+{"text": "You didn't address the main point at all.", "label": "NEGATIVE", "domain": "science", "batch": 33}
+{"text": "That's not how it works, you're missing something.", "label": "NEGATIVE", "domain": "science", "batch": 33}
+{"text": "How does that affect the reaction rate then?", "label": "NEUTRAL", "domain": "science", "batch": 33}
+{"text": "Can you clarify the role of catalysts here?", "label": "NEUTRAL", "domain": "science", "batch": 33}
+{"text": "What happens if the temperature is too high?", "label": "NEUTRAL", "domain": "science", "batch": 33}
+{"text": "Is there any exception to this rule?", "label": "NEUTRAL", "domain": "science", "batch": 33}
+{"text": "You made me understand this for the first time.", "label": "POSITIVE", "domain": "science", "batch": 33}
+{"text": "That's the kind of answer I need for my project.", "label": "POSITIVE", "domain": "science", "batch": 33}
+{"text": "I wish more people explained things this clearly.", "label": "POSITIVE", "domain": "science", "batch": 33}
+{"text": "That’s solid, no need to overcomplicate.", "label": "POSITIVE", "domain": "science", "batch": 33}
+{"text": "This is incomplete, you’re leaving out key details.", "label": "NEGATIVE", "domain": "science", "batch": 33}
+{"text": "I don’t buy this, it doesn’t make sense.", "label": "NEGATIVE", "domain": "science", "batch": 33}
+{"text": "You’re not being specific enough, please elaborate.", "label": "NEGATIVE", "domain": "science", "batch": 33}
+{"text": "What are the real-world applications of this?", "label": "NEUTRAL", "domain": "science", "batch": 33}
+{"text": "Are there any alternative theories on this?", "label": "NEUTRAL", "domain": "science", "batch": 33}
+{"text": "How does this relate to everyday examples?", "label": "NEUTRAL", "domain": "science", "batch": 33}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 34}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 34}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 34}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 34}
+{"text": "You made something complicated feel simple, thanks.", "label": "POSITIVE", "domain": "science", "batch": 34}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 34}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 34}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 34}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 34}
+{"text": "I know this isn't right, can you fix it?", "label": "NEGATIVE", "domain": "science", "batch": 34}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 34}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 34}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 34}
+{"text": "So does that mean it's not reversible?", "label": "NEUTRAL", "domain": "science", "batch": 34}
+{"text": "Wait, does that apply to all types of reactions?", "label": "NEUTRAL", "domain": "science", "batch": 34}
+{"text": "Can you give an example of that in real life?", "label": "NEUTRAL", "domain": "science", "batch": 34}
+{"text": "How does that compare to chemical bonding?", "label": "NEUTRAL", "domain": "science", "batch": 34}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 34}
+{"text": "So does that mean it's not a chemical change?", "label": "NEUTRAL", "domain": "science", "batch": 34}
+{"text": "What happens if the conditions change?", "label": "NEUTRAL", "domain": "science", "batch": 34}
+{"text": "Is there a way to reverse that process?", "label": "NEUTRAL", "domain": "science", "batch": 34}
+{"text": "How does that affect the environment?", "label": "NEUTRAL", "domain": "science", "batch": 34}
+{"text": "Can you clarify the steps again?", "label": "NEUTRAL", "domain": "science", "batch": 34}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 35}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 35}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 35}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 35}
+{"text": "You made that complex topic feel so easy to grasp.", "label": "POSITIVE", "domain": "science", "batch": 35}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 35}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 35}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 35}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 35}
+{"text": "I'm confused, can you go over that again?", "label": "NEGATIVE", "domain": "science", "batch": 35}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 35}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 35}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 35}
+{"text": "So does that mean it's not possible in real life?", "label": "NEUTRAL", "domain": "science", "batch": 35}
+{"text": "Wait, does that apply to all types of cells?", "label": "NEUTRAL", "domain": "science", "batch": 35}
+{"text": "How does that affect the overall reaction rate?", "label": "NEUTRAL", "domain": "science", "batch": 35}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 35}
+{"text": "Can you give an example of that in action?", "label": "NEUTRAL", "domain": "science", "batch": 35}
+{"text": "What happens if you reverse the process?", "label": "NEUTRAL", "domain": "science", "batch": 35}
+{"text": "That’s exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "science", "batch": 35}
+{"text": "You nailed it, I’m impressed.", "label": "POSITIVE", "domain": "science", "batch": 35}
+{"text": "No need to look up anything else, this is perfect.", "label": "POSITIVE", "domain": "science", "batch": 35}
+{"text": "That’s the first time I’ve actually understood this.", "label": "POSITIVE", "domain": "science", "batch": 35}
+{"text": "You’re making science feel less scary, thanks.", "label": "POSITIVE", "domain": "science", "batch": 35}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 36}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 36}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 36}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 36}
+{"text": "That makes total sense, I get it now!", "label": "POSITIVE", "domain": "science", "batch": 36}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 36}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 36}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 36}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 36}
+{"text": "You're missing the whole point here.", "label": "NEGATIVE", "domain": "science", "batch": 36}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 36}
+{"text": "What's the difference between that and nuclear fission then?", "label": "NEUTRAL", "domain": "science", "batch": 36}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 36}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 36}
+{"text": "How does this relate to the periodic table?", "label": "NEUTRAL", "domain": "science", "batch": 36}
+{"text": "Wait, does that mean it's not a chemical reaction?", "label": "NEUTRAL", "domain": "science", "batch": 36}
+{"text": "So is this a physical or chemical change?", "label": "NEUTRAL", "domain": "science", "batch": 36}
+{"text": "What happens if you reverse the process?", "label": "NEUTRAL", "domain": "science", "batch": 36}
+{"text": "Can you give an example of that in real life?", "label": "NEUTRAL", "domain": "science", "batch": 36}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 36}
+{"text": "That’s exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "science", "batch": 36}
+{"text": "You made something complicated sound easy.", "label": "POSITIVE", "domain": "science", "batch": 36}
+{"text": "I’m actually understanding this now, cool!", "label": "POSITIVE", "domain": "science", "batch": 36}
+{"text": "That’s the best explanation I’ve seen so far.", "label": "POSITIVE", "domain": "science", "batch": 36}
+{"text": "I get it now, thanks for breaking it down!", "label": "POSITIVE", "domain": "science", "batch": 36}
+{"text": "That's exactly what I was thinking, so helpful!", "label": "POSITIVE", "domain": "science", "batch": 37}
+{"text": "You made a complex topic feel so easy to grasp.", "label": "POSITIVE", "domain": "science", "batch": 37}
+{"text": "I've been struggling with this, but now it all makes sense.", "label": "POSITIVE", "domain": "science", "batch": 37}
+{"text": "This answer actually helped me pass my test!", "label": "POSITIVE", "domain": "science", "batch": 37}
+{"text": "Wow, that's the best explanation I've ever heard.", "label": "POSITIVE", "domain": "science", "batch": 37}
+{"text": "That's not how it works, I've seen this in class.", "label": "NEGATIVE", "domain": "science", "batch": 37}
+{"text": "You missed the main point completely, that's a problem.", "label": "NEGATIVE", "domain": "science", "batch": 37}
+{"text": "This is so confusing, can you start over?", "label": "NEGATIVE", "domain": "science", "batch": 37}
+{"text": "What happens if the temperature is lower than that?", "label": "NEUTRAL", "domain": "science", "batch": 37}
+{"text": "Is there a way to measure this in real time?", "label": "NEUTRAL", "domain": "science", "batch": 37}
+{"text": "Could this reaction be reversed under certain conditions?", "label": "NEUTRAL", "domain": "science", "batch": 37}
+{"text": "Are there any exceptions to this rule?", "label": "NEUTRAL", "domain": "science", "batch": 37}
+{"text": "You broke it down in a way I finally get it!", "label": "POSITIVE", "domain": "science", "batch": 37}
+{"text": "I was stuck here, now I'm moving forward!", "label": "POSITIVE", "domain": "science", "batch": 37}
+{"text": "That's the first time I've actually understood this.", "label": "POSITIVE", "domain": "science", "batch": 37}
+{"text": "You're making science feel less intimidating.", "label": "POSITIVE", "domain": "science", "batch": 37}
+{"text": "This answer made me feel so much better about the topic.", "label": "POSITIVE", "domain": "science", "batch": 37}
+{"text": "You're not even close to the correct answer.", "label": "NEGATIVE", "domain": "science", "batch": 37}
+{"text": "This is so vague, I can't use it for anything.", "label": "NEGATIVE", "domain": "science", "batch": 37}
+{"text": "I'm still confused, can you explain again?", "label": "NEGATIVE", "domain": "science", "batch": 37}
+{"text": "This is the third time I've seen this wrong explanation.", "label": "NEGATIVE", "domain": "science", "batch": 37}
+{"text": "How does this compare to a chemical reaction?", "label": "NEUTRAL", "domain": "science", "batch": 37}
+{"text": "Can you give an example of this in action?", "label": "NEUTRAL", "domain": "science", "batch": 37}
+{"text": "Is this process reversible or one-way?", "label": "NEUTRAL", "domain": "science", "batch": 37}
+{"text": "What are the common applications of this?", "label": "NEUTRAL", "domain": "science", "batch": 37}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 38}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 38}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 38}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 38}
+{"text": "You made that so easy to understand, thanks!", "label": "POSITIVE", "domain": "science", "batch": 38}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 38}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 38}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 38}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 38}
+{"text": "Why did you ignore the data from the 2020 study?", "label": "NEGATIVE", "domain": "science", "batch": 38}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 38}
+{"text": "What's the difference between that and nuclear fission then?", "label": "NEUTRAL", "domain": "science", "batch": 38}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 38}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 38}
+{"text": "How does this compare to chemical bonding?", "label": "NEUTRAL", "domain": "science", "batch": 38}
+{"text": "Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 38}
+{"text": "Could you give an example of that in action?", "label": "NEUTRAL", "domain": "science", "batch": 38}
+{"text": "What happens if the conditions change?", "label": "NEUTRAL", "domain": "science", "batch": 38}
+{"text": "Is there any visual representation of this?", "label": "NEUTRAL", "domain": "science", "batch": 38}
+{"text": "How long does that process typically take?", "label": "NEUTRAL", "domain": "science", "batch": 38}
+{"text": "What's the minimum requirement for that to happen?", "label": "NEUTRAL", "domain": "science", "batch": 38}
+{"text": "Can you clarify the exact mechanism?", "label": "NEUTRAL", "domain": "science", "batch": 38}
+{"text": "What are the limitations of that approach?", "label": "NEUTRAL", "domain": "science", "batch": 38}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 39}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 39}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 39}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 39}
+{"text": "You made that complex topic feel easy, thanks!", "label": "POSITIVE", "domain": "science", "batch": 39}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 39}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 39}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 39}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 39}
+{"text": "You're missing the main point entirely.", "label": "NEGATIVE", "domain": "science", "batch": 39}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 39}
+{"text": "What's the difference between that and nuclear fission then?", "label": "NEUTRAL", "domain": "science", "batch": 39}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 39}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 39}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 39}
+{"text": "How does that compare to chemical bonds?", "label": "NEUTRAL", "domain": "science", "batch": 39}
+{"text": "Could you give an example of that in real life?", "label": "NEUTRAL", "domain": "science", "batch": 39}
+{"text": "What happens if the conditions change?", "label": "NEUTRAL", "domain": "science", "batch": 39}
+{"text": "Are there any safety concerns with that process?", "label": "NEUTRAL", "domain": "science", "batch": 39}
+{"text": "How long does that reaction take to complete?", "label": "NEUTRAL", "domain": "science", "batch": 39}
+{"text": "I wish I had learned this in school!", "label": "POSITIVE", "domain": "science", "batch": 39}
+{"text": "That was exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 39}
+{"text": "You’ve got a real knack for explaining things.", "label": "POSITIVE", "domain": "science", "batch": 39}
+{"text": "That’s the best answer I’ve seen on this topic.", "label": "POSITIVE", "domain": "science", "batch": 39}
+{"text": "You made a complicated subject so easy to grasp.", "label": "POSITIVE", "domain": "science", "batch": 39}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 40}
+{"text": "You made that super easy to understand.", "label": "POSITIVE", "domain": "science", "batch": 40}
+{"text": "I didn't think it could be this clear.", "label": "POSITIVE", "domain": "science", "batch": 40}
+{"text": "This answer just saved me so much time.", "label": "POSITIVE", "domain": "science", "batch": 40}
+{"text": "I've been struggling with this, you nailed it.", "label": "POSITIVE", "domain": "science", "batch": 40}
+{"text": "That's not how it works, I've seen the proof.", "label": "NEGATIVE", "domain": "science", "batch": 40}
+{"text": "You missed the main point entirely.", "label": "NEGATIVE", "domain": "science", "batch": 40}
+{"text": "This is way too vague, I need specifics.", "label": "NEGATIVE", "domain": "science", "batch": 40}
+{"text": "Please fix that, it's completely wrong.", "label": "NEGATIVE", "domain": "science", "batch": 40}
+{"text": "What happens if the temperature drops?", "label": "NEUTRAL", "domain": "science", "batch": 40}
+{"text": "Is there any exception to this rule?", "label": "NEUTRAL", "domain": "science", "batch": 40}
+{"text": "How does this compare to chemical bonds?", "label": "NEUTRAL", "domain": "science", "batch": 40}
+{"text": "That's the best explanation I've heard yet!", "label": "POSITIVE", "domain": "science", "batch": 40}
+{"text": "I get it now, thanks for breaking it down!", "label": "POSITIVE", "domain": "science", "batch": 40}
+{"text": "This is exactly what I was looking for!", "label": "POSITIVE", "domain": "science", "batch": 40}
+{"text": "You made a complicated topic simple.", "label": "POSITIVE", "domain": "science", "batch": 40}
+{"text": "I feel so much better understanding this.", "label": "POSITIVE", "domain": "science", "batch": 40}
+{"text": "This is way off, I'm confused.", "label": "NEGATIVE", "domain": "science", "batch": 40}
+{"text": "You didn't address the main question.", "label": "NEGATIVE", "domain": "science", "batch": 40}
+{"text": "This answer is too short, I need more.", "label": "NEGATIVE", "domain": "science", "batch": 40}
+{"text": "I'm not sure I trust this information.", "label": "NEGATIVE", "domain": "science", "batch": 40}
+{"text": "What's the unit of measurement for that?", "label": "NEUTRAL", "domain": "science", "batch": 40}
+{"text": "Does this apply to all types of reactions?", "label": "NEUTRAL", "domain": "science", "batch": 40}
+{"text": "Can you give an example of that process?", "label": "NEUTRAL", "domain": "science", "batch": 40}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 41}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 41}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 41}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 41}
+{"text": "You made something complicated feel simple, thanks!", "label": "POSITIVE", "domain": "science", "batch": 41}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 41}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 41}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 41}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 41}
+{"text": "I'm confused, can you explain again?", "label": "NEGATIVE", "domain": "science", "batch": 41}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 41}
+{"text": "What's the difference between that and nuclear fission then?", "label": "NEUTRAL", "domain": "science", "batch": 41}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 41}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 41}
+{"text": "How does that compare to chemical bonds?", "label": "NEUTRAL", "domain": "science", "batch": 41}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 41}
+{"text": "What happens if the conditions change?", "label": "NEUTRAL", "domain": "science", "batch": 41}
+{"text": "Can you give an example of that in real life?", "label": "NEUTRAL", "domain": "science", "batch": 41}
+{"text": "How does that affect the environment?", "label": "NEUTRAL", "domain": "science", "batch": 41}
+{"text": "What's the main factor influencing that?", "label": "NEUTRAL", "domain": "science", "batch": 41}
+{"text": "I never thought about it that way, thanks!", "label": "POSITIVE", "domain": "science", "batch": 41}
+{"text": "You really nailed the explanation, no doubt.", "label": "POSITIVE", "domain": "science", "batch": 41}
+{"text": "That’s exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "science", "batch": 41}
+{"text": "So simple, yet so accurate, amazing!", "label": "POSITIVE", "domain": "science", "batch": 41}
+{"text": "I’m impressed, that was spot on!", "label": "POSITIVE", "domain": "science", "batch": 41}
+{"text": "That's exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "science", "batch": 42}
+{"text": "You made a complicated topic feel easy, bruh.", "label": "POSITIVE", "domain": "science", "batch": 42}
+{"text": "This is the best explanation I've ever seen on the subject.", "label": "POSITIVE", "domain": "science", "batch": 42}
+{"text": "I get it now, thanks for breaking it down so well.", "label": "POSITIVE", "domain": "science", "batch": 42}
+{"text": "That's a solid answer, no need for more details.", "label": "POSITIVE", "domain": "science", "batch": 42}
+{"text": "I'm pretty sure you got that wrong, let me check.", "label": "NEGATIVE", "domain": "science", "batch": 42}
+{"text": "You missed the main point completely, honestly.", "label": "NEGATIVE", "domain": "science", "batch": 42}
+{"text": "This is way too vague, I need specifics.", "label": "NEGATIVE", "domain": "science", "batch": 42}
+{"text": "You're not explaining why it matters, just stating facts.", "label": "NEGATIVE", "domain": "science", "batch": 42}
+{"text": "Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 42}
+{"text": "Can you give an example of that in real life?", "label": "NEUTRAL", "domain": "science", "batch": 42}
+{"text": "How does that affect the reaction rate?", "label": "NEUTRAL", "domain": "science", "batch": 42}
+{"text": "You nailed it, I'm impressed with how you explained that.", "label": "POSITIVE", "domain": "science", "batch": 42}
+{"text": "That's the most accurate summary I've seen so far.", "label": "POSITIVE", "domain": "science", "batch": 42}
+{"text": "I feel like I finally understand this after years of confusion.", "label": "POSITIVE", "domain": "science", "batch": 42}
+{"text": "That's the kind of answer that really helps people learn.", "label": "POSITIVE", "domain": "science", "batch": 42}
+{"text": "This is way too basic, I need more depth.", "label": "NEGATIVE", "domain": "science", "batch": 42}
+{"text": "You didn't address the actual question, just gave a summary.", "label": "NEGATIVE", "domain": "science", "batch": 42}
+{"text": "That's not how it works, I've seen this in class.", "label": "NEGATIVE", "domain": "science", "batch": 42}
+{"text": "Please clarify, I'm still confused about the key steps.", "label": "NEGATIVE", "domain": "science", "batch": 42}
+{"text": "Is there a visual way to represent that process?", "label": "NEUTRAL", "domain": "science", "batch": 42}
+{"text": "What are the limitations of that method?", "label": "NEUTRAL", "domain": "science", "batch": 42}
+{"text": "How does that compare to other similar processes?", "label": "NEUTRAL", "domain": "science", "batch": 42}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 43}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 43}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 43}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 43}
+{"text": "You made a complicated topic feel easy, thanks!", "label": "POSITIVE", "domain": "science", "batch": 43}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 43}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 43}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 43}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 43}
+{"text": "Why would you leave out the most important detail?", "label": "NEGATIVE", "domain": "science", "batch": 43}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 43}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 44}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 44}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 44}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 44}
+{"text": "You made that complex topic feel so easy to grasp.", "label": "POSITIVE", "domain": "science", "batch": 44}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 44}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 44}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 44}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 44}
+{"text": "Why did you skip the actual experiment details?", "label": "NEGATIVE", "domain": "science", "batch": 44}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 44}
+{"text": "What's the difference between that and nuclear fission then?", "label": "NEUTRAL", "domain": "science", "batch": 44}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 44}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 44}
+{"text": "Is this reaction reversible under normal conditions?", "label": "NEUTRAL", "domain": "science", "batch": 44}
+{"text": "How does this compare to chemical bonding?", "label": "NEUTRAL", "domain": "science", "batch": 44}
+{"text": "Do you have any examples of this in real life?", "label": "NEUTRAL", "domain": "science", "batch": 44}
+{"text": "What happens if the variables are changed?", "label": "NEUTRAL", "domain": "science", "batch": 44}
+{"text": "Can you clarify the part about energy transfer?", "label": "NEUTRAL", "domain": "science", "batch": 44}
+{"text": "What are the limitations of this method?", "label": "NEUTRAL", "domain": "science", "batch": 44}
+{"text": "Is there any alternative explanation for this?", "label": "NEUTRAL", "domain": "science", "batch": 44}
+{"text": "How does this affect the overall reaction rate?", "label": "NEUTRAL", "domain": "science", "batch": 44}
+{"text": "Are there any exceptions to this rule?", "label": "NEUTRAL", "domain": "science", "batch": 44}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 45}
+{"text": "I get it now, you're a lifesaver!", "label": "POSITIVE", "domain": "science", "batch": 45}
+{"text": "This makes so much sense, I'm impressed!", "label": "POSITIVE", "domain": "science", "batch": 45}
+{"text": "You broke it down perfectly, no confusion!", "label": "POSITIVE", "domain": "science", "batch": 45}
+{"text": "I've been stuck on this for weeks, this helps!", "label": "POSITIVE", "domain": "science", "batch": 45}
+{"text": "That's not how it works, I'm confused.", "label": "NEGATIVE", "domain": "science", "batch": 45}
+{"text": "You missed the main point completely.", "label": "NEGATIVE", "domain": "science", "batch": 45}
+{"text": "This answer is way too vague, I need more.", "label": "NEGATIVE", "domain": "science", "batch": 45}
+{"text": "I know this, it's not correct.", "label": "NEGATIVE", "domain": "science", "batch": 45}
+{"text": "How does that affect the reaction rate?", "label": "NEUTRAL", "domain": "science", "batch": 45}
+{"text": "Can you clarify the second step again?", "label": "NEUTRAL", "domain": "science", "batch": 45}
+{"text": "Is there any exception to this rule?", "label": "NEUTRAL", "domain": "science", "batch": 45}
+{"text": "What happens if the temperature drops?", "label": "NEUTRAL", "domain": "science", "batch": 45}
+{"text": "That's the best explanation I've heard!", "label": "POSITIVE", "domain": "science", "batch": 45}
+{"text": "You made it easy to understand, thanks!", "label": "POSITIVE", "domain": "science", "batch": 45}
+{"text": "I didn't think it could be that simple.", "label": "POSITIVE", "domain": "science", "batch": 45}
+{"text": "That's a solid, straightforward answer.", "label": "POSITIVE", "domain": "science", "batch": 45}
+{"text": "I'm really grateful for this clarity!", "label": "POSITIVE", "domain": "science", "batch": 45}
+{"text": "This is way off, I'm not satisfied.", "label": "NEGATIVE", "domain": "science", "batch": 45}
+{"text": "Please fix that, it's not accurate.", "label": "NEGATIVE", "domain": "science", "batch": 45}
+{"text": "That's not even close to correct.", "label": "NEGATIVE", "domain": "science", "batch": 45}
+{"text": "What if there's a catalyst involved?", "label": "NEUTRAL", "domain": "science", "batch": 45}
+{"text": "Can you give an example of this in action?", "label": "NEUTRAL", "domain": "science", "batch": 45}
+{"text": "Are there any real-world applications?", "label": "NEUTRAL", "domain": "science", "batch": 45}
+{"text": "What are the limitations of this method?", "label": "NEUTRAL", "domain": "science", "batch": 45}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 46}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 46}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 46}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 46}
+{"text": "You made that so easy to understand, thanks!", "label": "POSITIVE", "domain": "science", "batch": 46}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 46}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 46}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 46}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 46}
+{"text": "I don't think that covers all the possible outcomes.", "label": "NEGATIVE", "domain": "science", "batch": 46}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 46}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 46}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 46}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 46}
+{"text": "How does that compare to chemical bonding?", "label": "NEUTRAL", "domain": "science", "batch": 46}
+{"text": "Can you give an example of that in real life?", "label": "NEUTRAL", "domain": "science", "batch": 46}
+{"text": "What happens if the conditions change?", "label": "NEUTRAL", "domain": "science", "batch": 46}
+{"text": "Is there any way to reverse that process?", "label": "NEUTRAL", "domain": "science", "batch": 46}
+{"text": "How common is that in nature?", "label": "NEUTRAL", "domain": "science", "batch": 46}
+{"text": "That’s exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 46}
+{"text": "You really nailed it, no need for more info.", "label": "POSITIVE", "domain": "science", "batch": 46}
+{"text": "That’s the first time I actually understood this.", "label": "POSITIVE", "domain": "science", "batch": 46}
+{"text": "I wish I had this explanation earlier.", "label": "POSITIVE", "domain": "science", "batch": 46}
+{"text": "You made a complicated topic feel simple.", "label": "POSITIVE", "domain": "science", "batch": 46}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 47}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 47}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 47}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 47}
+{"text": "You made that complex topic so easy to grasp, thanks!", "label": "POSITIVE", "domain": "science", "batch": 47}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 47}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 47}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 47}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 47}
+{"text": "You didn't address the main question at all.", "label": "NEGATIVE", "domain": "science", "batch": 47}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 47}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 47}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 47}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 47}
+{"text": "How does that compare to chemical bonds?", "label": "NEUTRAL", "domain": "science", "batch": 47}
+{"text": "What happens if you reverse the process?", "label": "NEUTRAL", "domain": "science", "batch": 47}
+{"text": "Are there any real-world examples of that?", "label": "NEUTRAL", "domain": "science", "batch": 47}
+{"text": "Does that apply to all types of reactions?", "label": "NEUTRAL", "domain": "science", "batch": 47}
+{"text": "Can you clarify the part about activation energy?", "label": "NEUTRAL", "domain": "science", "batch": 47}
+{"text": "That's exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "science", "batch": 47}
+{"text": "I wish more people understood this concept so clearly.", "label": "POSITIVE", "domain": "science", "batch": 47}
+{"text": "You made something complicated feel straightforward.", "label": "POSITIVE", "domain": "science", "batch": 47}
+{"text": "That’s the best explanation I’ve ever heard on this topic.", "label": "POSITIVE", "domain": "science", "batch": 47}
+{"text": "I get it now, thanks for taking the time to explain.", "label": "POSITIVE", "domain": "science", "batch": 47}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 48}
+{"text": "I didn't think anyone could explain this so well.", "label": "POSITIVE", "domain": "science", "batch": 48}
+{"text": "You nailed it, no need to add anything else.", "label": "POSITIVE", "domain": "science", "batch": 48}
+{"text": "This makes so much sense now, I'm impressed.", "label": "POSITIVE", "domain": "science", "batch": 48}
+{"text": "That’s the best explanation I’ve heard yet!", "label": "POSITIVE", "domain": "science", "batch": 48}
+{"text": "You missed the main point entirely.", "label": "NEGATIVE", "domain": "science", "batch": 48}
+{"text": "This answer is way too vague, I need more details.", "label": "NEGATIVE", "domain": "science", "batch": 48}
+{"text": "I’ve seen better explanations, this is confusing.", "label": "NEGATIVE", "domain": "science", "batch": 48}
+{"text": "That’s not accurate, I’m not buying it.", "label": "NEGATIVE", "domain": "science", "batch": 48}
+{"text": "How does that affect the reaction rate?", "label": "NEUTRAL", "domain": "science", "batch": 48}
+{"text": "Is there a way to test this in a lab?", "label": "NEUTRAL", "domain": "science", "batch": 48}
+{"text": "Can you give an example of that in action?", "label": "NEUTRAL", "domain": "science", "batch": 48}
+{"text": "What happens if the temperature is lowered?", "label": "NEUTRAL", "domain": "science", "batch": 48}
+{"text": "You made a complicated topic feel simple.", "label": "POSITIVE", "domain": "science", "batch": 48}
+{"text": "I finally get it, thanks for the clarity!", "label": "POSITIVE", "domain": "science", "batch": 48}
+{"text": "That’s the most straightforward answer I’ve heard.", "label": "POSITIVE", "domain": "science", "batch": 48}
+{"text": "You’re making this so easy to understand.", "label": "POSITIVE", "domain": "science", "batch": 48}
+{"text": "This is way too basic, I expected more.", "label": "NEGATIVE", "domain": "science", "batch": 48}
+{"text": "You didn’t address the main question at all.", "label": "NEGATIVE", "domain": "science", "batch": 48}
+{"text": "This answer is missing critical information.", "label": "NEGATIVE", "domain": "science", "batch": 48}
+{"text": "Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 48}
+{"text": "What if the conditions change?", "label": "NEUTRAL", "domain": "science", "batch": 48}
+{"text": "Could this be applied in real-world scenarios?", "label": "NEUTRAL", "domain": "science", "batch": 48}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 49}
+{"text": "You made a complicated topic so easy to grasp!", "label": "POSITIVE", "domain": "science", "batch": 49}
+{"text": "I can't believe how spot-on that was!", "label": "POSITIVE", "domain": "science", "batch": 49}
+{"text": "This answer made me feel so confident!", "label": "POSITIVE", "domain": "science", "batch": 49}
+{"text": "I've been stuck on this for days, this helps!", "label": "POSITIVE", "domain": "science", "batch": 49}
+{"text": "That's not how it works at all, you're wrong.", "label": "NEGATIVE", "domain": "science", "batch": 49}
+{"text": "You missed the main point completely.", "label": "NEGATIVE", "domain": "science", "batch": 49}
+{"text": "This is way too vague, I need more details.", "label": "NEGATIVE", "domain": "science", "batch": 49}
+{"text": "This answer is confusing, can you rephrase?", "label": "NEGATIVE", "domain": "science", "batch": 49}
+{"text": "What happens if the concentration is lower?", "label": "NEUTRAL", "domain": "science", "batch": 49}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 49}
+{"text": "Can you give an example of that in action?", "label": "NEUTRAL", "domain": "science", "batch": 49}
+{"text": "I wish I had learned this earlier!", "label": "POSITIVE", "domain": "science", "batch": 49}
+{"text": "You explained it better than my teacher!", "label": "POSITIVE", "domain": "science", "batch": 49}
+{"text": "This is the best answer I've ever seen!", "label": "POSITIVE", "domain": "science", "batch": 49}
+{"text": "I feel so much better understanding this now!", "label": "POSITIVE", "domain": "science", "batch": 49}
+{"text": "You broke it down perfectly, no doubts left!", "label": "POSITIVE", "domain": "science", "batch": 49}
+{"text": "This is completely off track, not helpful.", "label": "NEGATIVE", "domain": "science", "batch": 49}
+{"text": "You're not even close to the right answer.", "label": "NEGATIVE", "domain": "science", "batch": 49}
+{"text": "This is just a guess, not a fact.", "label": "NEGATIVE", "domain": "science", "batch": 49}
+{"text": "You need to be more accurate, this is misleading.", "label": "NEGATIVE", "domain": "science", "batch": 49}
+{"text": "Are there any other factors involved?", "label": "NEUTRAL", "domain": "science", "batch": 49}
+{"text": "What if the conditions change?", "label": "NEUTRAL", "domain": "science", "batch": 49}
+{"text": "How does that interact with other forces?", "label": "NEUTRAL", "domain": "science", "batch": 49}
+{"text": "Can you clarify that part again?", "label": "NEUTRAL", "domain": "science", "batch": 49}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 50}
+{"text": "You nailed it, no need to overexplain.", "label": "POSITIVE", "domain": "science", "batch": 50}
+{"text": "I'm really impressed, that was spot on.", "label": "POSITIVE", "domain": "science", "batch": 50}
+{"text": "That makes so much sense, I get it now!", "label": "POSITIVE", "domain": "science", "batch": 50}
+{"text": "You broke it down perfectly, I owe you!", "label": "POSITIVE", "domain": "science", "batch": 50}
+{"text": "That's not how it works, I'm confused.", "label": "NEGATIVE", "domain": "science", "batch": 50}
+{"text": "You missed the main point completely.", "label": "NEGATIVE", "domain": "science", "batch": 50}
+{"text": "This is way off, I'm not buying it.", "label": "NEGATIVE", "domain": "science", "batch": 50}
+{"text": "Please fix that, it's not accurate at all.", "label": "NEGATIVE", "domain": "science", "batch": 50}
+{"text": "How does that affect the reaction rate?", "label": "NEUTRAL", "domain": "science", "batch": 50}
+{"text": "Can you clarify the role of catalysts here?", "label": "NEUTRAL", "domain": "science", "batch": 50}
+{"text": "Is there any exception to this rule?", "label": "NEUTRAL", "domain": "science", "batch": 50}
+{"text": "What happens if the temperature drops?", "label": "NEUTRAL", "domain": "science", "batch": 50}
+{"text": "That's the best explanation I've heard yet!", "label": "POSITIVE", "domain": "science", "batch": 50}
+{"text": "You made a complex topic so easy to grasp.", "label": "POSITIVE", "domain": "science", "batch": 50}
+{"text": "I finally get it, thanks for the help!", "label": "POSITIVE", "domain": "science", "batch": 50}
+{"text": "That's so clear, I'm going to share this!", "label": "POSITIVE", "domain": "science", "batch": 50}
+{"text": "This is way too vague, I need specifics.", "label": "NEGATIVE", "domain": "science", "batch": 50}
+{"text": "You didn't address the main question at all.", "label": "NEGATIVE", "domain": "science", "batch": 50}
+{"text": "That's not helpful, I expected more.", "label": "NEGATIVE", "domain": "science", "batch": 50}
+{"text": "Please explain this properly, I'm stuck.", "label": "NEGATIVE", "domain": "science", "batch": 50}
+{"text": "That's exactly what I was thinking, so glad you got it!", "label": "POSITIVE", "domain": "science", "batch": 51}
+{"text": "I didn't know it could be that straightforward, thanks!", "label": "POSITIVE", "domain": "science", "batch": 51}
+{"text": "This makes so much sense now, you're a pro!", "label": "POSITIVE", "domain": "science", "batch": 51}
+{"text": "You nailed it, I'm impressed with how clear you were.", "label": "POSITIVE", "domain": "science", "batch": 51}
+{"text": "That’s the best explanation I’ve ever heard on this topic!", "label": "POSITIVE", "domain": "science", "batch": 51}
+{"text": "That’s not how it works, I’ve seen this mistake before.", "label": "NEGATIVE", "domain": "science", "batch": 51}
+{"text": "You missed the whole point, this is way more complex.", "label": "NEGATIVE", "domain": "science", "batch": 51}
+{"text": "This answer is way off, I’m confused now.", "label": "NEGATIVE", "domain": "science", "batch": 51}
+{"text": "You didn’t address the main issue at all, that’s frustrating.", "label": "NEGATIVE", "domain": "science", "batch": 51}
+{"text": "I’m not sure I trust this answer, it feels too simple.", "label": "NEGATIVE", "domain": "science", "batch": 51}
+{"text": "What happens if the concentration is lower than that?", "label": "NEUTRAL", "domain": "science", "batch": 51}
+{"text": "Could there be any exceptions to this rule?", "label": "NEUTRAL", "domain": "science", "batch": 51}
+{"text": "Is there a way to test this reaction in a lab?", "label": "NEUTRAL", "domain": "science", "batch": 51}
+{"text": "How does this compare to a chemical reaction in a battery?", "label": "NEUTRAL", "domain": "science", "batch": 51}
+{"text": "Can you clarify the exact role of the catalyst here?", "label": "NEUTRAL", "domain": "science", "batch": 51}
+{"text": "That’s such a relief, I was stuck on this for days!", "label": "POSITIVE", "domain": "science", "batch": 51}
+{"text": "You made a tough concept easy to grasp, thanks so much!", "label": "POSITIVE", "domain": "science", "batch": 51}
+{"text": "I can finally move on with this knowledge, big thanks!", "label": "POSITIVE", "domain": "science", "batch": 51}
+{"text": "That’s the kind of answer I was hoping for, really helpful!", "label": "POSITIVE", "domain": "science", "batch": 51}
+{"text": "I feel like I understand this now, you’re a lifesaver!", "label": "POSITIVE", "domain": "science", "batch": 51}
+{"text": "You didn’t mention the side effects, that’s a big oversight.", "label": "NEGATIVE", "domain": "science", "batch": 51}
+{"text": "This answer is way too vague, I need more details.", "label": "NEGATIVE", "domain": "science", "batch": 51}
+{"text": "I’m not sure if I should trust this, it’s too short.", "label": "NEGATIVE", "domain": "science", "batch": 51}
+{"text": "This is missing the main point, I’m not satisfied.", "label": "NEGATIVE", "domain": "science", "batch": 51}
+{"text": "What are the common mistakes people make here?", "label": "NEUTRAL", "domain": "science", "batch": 51}
+{"text": "How does this relate to the laws of thermodynamics?", "label": "NEUTRAL", "domain": "science", "batch": 51}
+{"text": "Is there a visual way to represent this process?", "label": "NEUTRAL", "domain": "science", "batch": 51}
+{"text": "What are the key factors affecting this outcome?", "label": "NEUTRAL", "domain": "science", "batch": 51}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 52}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 52}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 52}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 52}
+{"text": "You made something complicated feel easy, thanks!", "label": "POSITIVE", "domain": "science", "batch": 52}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 52}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 52}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 52}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 52}
+{"text": "I'm confused, can you explain again?", "label": "NEGATIVE", "domain": "science", "batch": 52}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 52}
+{"text": "What's the difference between that and nuclear fission then?", "label": "NEUTRAL", "domain": "science", "batch": 52}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 52}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 52}
+{"text": "How does that affect the surrounding environment?", "label": "NEUTRAL", "domain": "science", "batch": 52}
+{"text": "That’s exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 52}
+{"text": "I get it now, you’re a lifesaver!", "label": "POSITIVE", "domain": "science", "batch": 52}
+{"text": "That answer made everything click, thanks!", "label": "POSITIVE", "domain": "science", "batch": 52}
+{"text": "You broke it down better than my teacher!", "label": "POSITIVE", "domain": "science", "batch": 52}
+{"text": "This is the best explanation I've ever seen.", "label": "POSITIVE", "domain": "science", "batch": 52}
+{"text": "You didn’t cover the main point at all.", "label": "NEGATIVE", "domain": "science", "batch": 52}
+{"text": "I’m still not sure, can you clarify?", "label": "NEGATIVE", "domain": "science", "batch": 52}
+{"text": "That’s not how it works, I’ve seen it in class.", "label": "NEGATIVE", "domain": "science", "batch": 52}
+{"text": "You missed the most important part, honestly.", "label": "NEGATIVE", "domain": "science", "batch": 52}
+{"text": "What happens if the conditions change?", "label": "NEUTRAL", "domain": "science", "batch": 52}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 53}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 53}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 53}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 53}
+{"text": "You made that so easy to understand, thanks!", "label": "POSITIVE", "domain": "science", "batch": 53}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 53}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 53}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 53}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 53}
+{"text": "Why did you skip the experimental evidence?", "label": "NEGATIVE", "domain": "science", "batch": 53}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 53}
+{"text": "What's the difference between that and nuclear fission then?", "label": "NEUTRAL", "domain": "science", "batch": 53}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 53}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 53}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 53}
+{"text": "You really nailed the core concept here.", "label": "POSITIVE", "domain": "science", "batch": 53}
+{"text": "That's exactly what I was looking for!", "label": "POSITIVE", "domain": "science", "batch": 53}
+{"text": "I get it now, thanks for breaking it down.", "label": "POSITIVE", "domain": "science", "batch": 53}
+{"text": "That's the best explanation I've seen.", "label": "POSITIVE", "domain": "science", "batch": 53}
+{"text": "You made a complex topic feel simple.", "label": "POSITIVE", "domain": "science", "batch": 53}
+{"text": "This answer is way too vague and unhelpful.", "label": "NEGATIVE", "domain": "science", "batch": 53}
+{"text": "You didn't address the main question at all.", "label": "NEGATIVE", "domain": "science", "batch": 53}
+{"text": "I was expecting more depth, not just a summary.", "label": "NEGATIVE", "domain": "science", "batch": 53}
+{"text": "This is confusing, can you clarify?", "label": "NEGATIVE", "domain": "science", "batch": 53}
+{"text": "How does that relate to the previous example?", "label": "NEUTRAL", "domain": "science", "batch": 53}
+{"text": "That's exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "science", "batch": 54}
+{"text": "You made a complicated topic feel easy, bruh.", "label": "POSITIVE", "domain": "science", "batch": 54}
+{"text": "This answer got me thinking in a new way.", "label": "POSITIVE", "domain": "science", "batch": 54}
+{"text": "I can't believe how accurate this is, seriously.", "label": "POSITIVE", "domain": "science", "batch": 54}
+{"text": "That's the best explanation I've ever heard.", "label": "POSITIVE", "domain": "science", "batch": 54}
+{"text": "You didn't address the main point at all.", "label": "NEGATIVE", "domain": "science", "batch": 54}
+{"text": "This is way too vague, I need specifics.", "label": "NEGATIVE", "domain": "science", "batch": 54}
+{"text": "That's not even close to what I asked for.", "label": "NEGATIVE", "domain": "science", "batch": 54}
+{"text": "You missed the whole point, I'm confused.", "label": "NEGATIVE", "domain": "science", "batch": 54}
+{"text": "What happens if the reaction is reversed?", "label": "NEUTRAL", "domain": "science", "batch": 54}
+{"text": "Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 54}
+{"text": "How does this compare to chemical bonding?", "label": "NEUTRAL", "domain": "science", "batch": 54}
+{"text": "I feel like I finally get it, thanks so much!", "label": "POSITIVE", "domain": "science", "batch": 54}
+{"text": "That was a game-changer for my understanding.", "label": "POSITIVE", "domain": "science", "batch": 54}
+{"text": "I'm so glad you explained it like that.", "label": "POSITIVE", "domain": "science", "batch": 54}
+{"text": "You cracked it, that was spot on.", "label": "POSITIVE", "domain": "science", "batch": 54}
+{"text": "This is way too basic, I need more depth.", "label": "NEGATIVE", "domain": "science", "batch": 54}
+{"text": "You're not even close to being correct.", "label": "NEGATIVE", "domain": "science", "batch": 54}
+{"text": "That answer feels like it's missing half the story.", "label": "NEGATIVE", "domain": "science", "batch": 54}
+{"text": "I'm not impressed, that was weak.", "label": "NEGATIVE", "domain": "science", "batch": 54}
+{"text": "What's the significance of that temperature range?", "label": "NEUTRAL", "domain": "science", "batch": 54}
+{"text": "Is there a way to speed up this reaction?", "label": "NEUTRAL", "domain": "science", "batch": 54}
+{"text": "How does this affect the surrounding environment?", "label": "NEUTRAL", "domain": "science", "batch": 54}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 55}
+{"text": "I didn't know it could be that simple!", "label": "POSITIVE", "domain": "science", "batch": 55}
+{"text": "You made a complicated topic so easy to grasp!", "label": "POSITIVE", "domain": "science", "batch": 55}
+{"text": "That's the best explanation I've heard yet.", "label": "POSITIVE", "domain": "science", "batch": 55}
+{"text": "I feel like I finally get it now!", "label": "POSITIVE", "domain": "science", "batch": 55}
+{"text": "That's not how it works, I've seen this before.", "label": "NEGATIVE", "domain": "science", "batch": 55}
+{"text": "You missed a major part of the process.", "label": "NEGATIVE", "domain": "science", "batch": 55}
+{"text": "This answer is way too vague, I need more details.", "label": "NEGATIVE", "domain": "science", "batch": 55}
+{"text": "Please correct that, it's completely wrong.", "label": "NEGATIVE", "domain": "science", "batch": 55}
+{"text": "Could you clarify the role of enzymes in this?", "label": "NEUTRAL", "domain": "science", "batch": 55}
+{"text": "How does that compare to a chemical reaction?", "label": "NEUTRAL", "domain": "science", "batch": 55}
+{"text": "Is there a visual way to show this?", "label": "NEUTRAL", "domain": "science", "batch": 55}
+{"text": "What happens if the temperature is too high?", "label": "NEUTRAL", "domain": "science", "batch": 55}
+{"text": "You nailed it, I'm impressed!", "label": "POSITIVE", "domain": "science", "batch": 55}
+{"text": "That's the kind of clarity I've been looking for!", "label": "POSITIVE", "domain": "science", "batch": 55}
+{"text": "I've been stuck on this for weeks, thanks for helping!", "label": "POSITIVE", "domain": "science", "batch": 55}
+{"text": "That's so well explained, I'm going to share it!", "label": "POSITIVE", "domain": "science", "batch": 55}
+{"text": "That's not accurate, I'm confused now.", "label": "NEGATIVE", "domain": "science", "batch": 55}
+{"text": "You didn't address the main question at all.", "label": "NEGATIVE", "domain": "science", "batch": 55}
+{"text": "This is frustrating, I need a better answer.", "label": "NEGATIVE", "domain": "science", "batch": 55}
+{"text": "Please don't make me guess, just tell me the truth.", "label": "NEGATIVE", "domain": "science", "batch": 55}
+{"text": "What are the main factors affecting this process?", "label": "NEUTRAL", "domain": "science", "batch": 55}
+{"text": "Can you give an example of that in action?", "label": "NEUTRAL", "domain": "science", "batch": 55}
+{"text": "Does this apply to all types of reactions?", "label": "NEUTRAL", "domain": "science", "batch": 55}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 56}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 56}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 56}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 56}
+{"text": "You made that so easy to understand, thanks!", "label": "POSITIVE", "domain": "science", "batch": 56}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 56}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 56}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 56}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 56}
+{"text": "I'm confused, can you go over that again?", "label": "NEGATIVE", "domain": "science", "batch": 56}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 56}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 56}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 56}
+{"text": "So does that mean it's not reversible?", "label": "NEUTRAL", "domain": "science", "batch": 56}
+{"text": "Wait, does this only work under certain conditions?", "label": "NEUTRAL", "domain": "science", "batch": 56}
+{"text": "How does that affect the overall reaction rate?", "label": "NEUTRAL", "domain": "science", "batch": 56}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 56}
+{"text": "Could you give an example of that in action?", "label": "NEUTRAL", "domain": "science", "batch": 56}
+{"text": "What happens if you reverse the process?", "label": "NEUTRAL", "domain": "science", "batch": 56}
+{"text": "How does that compare to the previous example?", "label": "NEUTRAL", "domain": "science", "batch": 56}
+{"text": "Are there any real-world applications of that?", "label": "NEUTRAL", "domain": "science", "batch": 56}
+{"text": "Can you clarify the exact mechanism involved?", "label": "NEUTRAL", "domain": "science", "batch": 56}
+{"text": "What are the limitations of that approach?", "label": "NEUTRAL", "domain": "science", "batch": 56}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 57}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 57}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 57}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 57}
+{"text": "That makes total sense now, thanks!", "label": "POSITIVE", "domain": "science", "batch": 57}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 57}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 57}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 57}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 57}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 57}
+{"text": "That makes total sense now, thanks!", "label": "POSITIVE", "domain": "science", "batch": 57}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 57}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 57}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 57}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 57}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 57}
+{"text": "What's the difference between that and nuclear fission then?", "label": "NEUTRAL", "domain": "science", "batch": 57}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 57}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 57}
+{"text": "So does this mean the reaction is irreversible?", "label": "NEUTRAL", "domain": "science", "batch": 57}
+{"text": "Is there any exception to this rule?", "label": "NEUTRAL", "domain": "science", "batch": 57}
+{"text": "How does this compare to chemical bonds?", "label": "NEUTRAL", "domain": "science", "batch": 57}
+{"text": "Can you give an example of this in real life?", "label": "NEUTRAL", "domain": "science", "batch": 57}
+{"text": "What happens if the conditions change?", "label": "NEUTRAL", "domain": "science", "batch": 57}
+{"text": "Is this reaction commonly used in industry?", "label": "NEUTRAL", "domain": "science", "batch": 57}
+{"text": "What's the role of catalysts in this process?", "label": "NEUTRAL", "domain": "science", "batch": 57}
+{"text": "Does this apply to all types of reactions?", "label": "NEUTRAL", "domain": "science", "batch": 57}
+{"text": "How long does the reaction typically take?", "label": "NEUTRAL", "domain": "science", "batch": 57}
+{"text": "What's the energy change involved here?", "label": "NEUTRAL", "domain": "science", "batch": 57}
+{"text": "Can this be reversed under certain conditions?", "label": "NEUTRAL", "domain": "science", "batch": 57}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 58}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 58}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 58}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 58}
+{"text": "You made a complicated topic feel easy to grasp.", "label": "POSITIVE", "domain": "science", "batch": 58}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 58}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 58}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 58}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 58}
+{"text": "I'm confused, can you go over it again?", "label": "NEGATIVE", "domain": "science", "batch": 58}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 58}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 58}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 58}
+{"text": "So does that mean it's not renewable?", "label": "NEUTRAL", "domain": "science", "batch": 58}
+{"text": "Wait, does that apply to all types of batteries?", "label": "NEUTRAL", "domain": "science", "batch": 58}
+{"text": "How does that affect the environment?", "label": "NEUTRAL", "domain": "science", "batch": 58}
+{"text": "Can you give an example of that in real life?", "label": "NEUTRAL", "domain": "science", "batch": 58}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 58}
+{"text": "So does that mean it's not sustainable?", "label": "NEUTRAL", "domain": "science", "batch": 58}
+{"text": "How long does that process take to complete?", "label": "NEUTRAL", "domain": "science", "batch": 58}
+{"text": "What happens if the conditions change?", "label": "NEUTRAL", "domain": "science", "batch": 58}
+{"text": "Does that mean it's not safe for humans?", "label": "NEUTRAL", "domain": "science", "batch": 58}
+{"text": "Is there a way to reverse that effect?", "label": "NEUTRAL", "domain": "science", "batch": 58}
+{"text": "That's exactly what I was looking for, thanks!", "label": "POSITIVE", "domain": "science", "batch": 59}
+{"text": "I didn't think anyone could explain this so well.", "label": "POSITIVE", "domain": "science", "batch": 59}
+{"text": "This makes so much sense now, I'm impressed.", "label": "POSITIVE", "domain": "science", "batch": 59}
+{"text": "You nailed it, that's the best explanation ever.", "label": "POSITIVE", "domain": "science", "batch": 59}
+{"text": "This is way more helpful than the stuff I found online.", "label": "POSITIVE", "domain": "science", "batch": 59}
+{"text": "This answer is way too vague, I need specifics.", "label": "NEGATIVE", "domain": "science", "batch": 59}
+{"text": "You didn't address the main point at all.", "label": "NEGATIVE", "domain": "science", "batch": 59}
+{"text": "That's not even close to what I was asking.", "label": "NEGATIVE", "domain": "science", "batch": 59}
+{"text": "I'm confused, can you rephrase that?", "label": "NEGATIVE", "domain": "science", "batch": 59}
+{"text": "How does this compare to a chemical reaction?", "label": "NEUTRAL", "domain": "science", "batch": 59}
+{"text": "Is there any exception to this rule?", "label": "NEUTRAL", "domain": "science", "batch": 59}
+{"text": "What happens if the temperature is lower?", "label": "NEUTRAL", "domain": "science", "batch": 59}
+{"text": "Can you give an example of this in real life?", "label": "NEUTRAL", "domain": "science", "batch": 59}
+{"text": "I finally get it, thanks for the patience!", "label": "POSITIVE", "domain": "science", "batch": 59}
+{"text": "That's the most accurate info I've seen.", "label": "POSITIVE", "domain": "science", "batch": 59}
+{"text": "You made a complicated topic easy to understand.", "label": "POSITIVE", "domain": "science", "batch": 59}
+{"text": "I wish more people explained things like this.", "label": "POSITIVE", "domain": "science", "batch": 59}
+{"text": "This is missing the whole context of the issue.", "label": "NEGATIVE", "domain": "science", "batch": 59}
+{"text": "I'm not sure I believe that, need more details.", "label": "NEGATIVE", "domain": "science", "batch": 59}
+{"text": "You skipped the most important part of the process.", "label": "NEGATIVE", "domain": "science", "batch": 59}
+{"text": "That’s not what I’ve been taught in class.", "label": "NEGATIVE", "domain": "science", "batch": 59}
+{"text": "Are there any risks associated with this method?", "label": "NEUTRAL", "domain": "science", "batch": 59}
+{"text": "What if the variables change during the process?", "label": "NEUTRAL", "domain": "science", "batch": 59}
+{"text": "How does this affect the overall outcome?", "label": "NEUTRAL", "domain": "science", "batch": 59}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 60}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 60}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 60}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 60}
+{"text": "That makes total sense, I get it now!", "label": "POSITIVE", "domain": "science", "batch": 60}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 60}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 60}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 60}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 60}
+{"text": "Why didn't you include the experimental data?", "label": "NEGATIVE", "domain": "science", "batch": 60}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 60}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 60}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 60}
+{"text": "So does that mean it's not reversible?", "label": "NEUTRAL", "domain": "science", "batch": 60}
+{"text": "Wait, does this only work under certain conditions?", "label": "NEUTRAL", "domain": "science", "batch": 60}
+{"text": "How does that affect the overall reaction rate?", "label": "NEUTRAL", "domain": "science", "batch": 60}
+{"text": "Is there any real-world example of this?", "label": "NEUTRAL", "domain": "science", "batch": 60}
+{"text": "What happens if you change the pressure?", "label": "NEUTRAL", "domain": "science", "batch": 60}
+{"text": "Can you clarify the part about catalysts?", "label": "NEUTRAL", "domain": "science", "batch": 60}
+{"text": "Does this apply to all types of reactions?", "label": "NEUTRAL", "domain": "science", "batch": 60}
+{"text": "How is this different from chemical equilibrium?", "label": "NEUTRAL", "domain": "science", "batch": 60}
+{"text": "What's the main takeaway here?", "label": "NEUTRAL", "domain": "science", "batch": 60}
+{"text": "That’s exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 60}
+{"text": "That's exactly what I was thinking, so glad you got it!", "label": "POSITIVE", "domain": "science", "batch": 61}
+{"text": "No way, this is way better than my professor's lecture.", "label": "POSITIVE", "domain": "science", "batch": 61}
+{"text": "You nailed it, I can't believe how easy that was.", "label": "POSITIVE", "domain": "science", "batch": 61}
+{"text": "This makes total sense, I wish I had this earlier.", "label": "POSITIVE", "domain": "science", "batch": 61}
+{"text": "That’s the best explanation I’ve ever heard, seriously.", "label": "POSITIVE", "domain": "science", "batch": 61}
+{"text": "You missed the whole point, that’s not how it works.", "label": "NEGATIVE", "domain": "science", "batch": 61}
+{"text": "This answer is way too vague, I need specifics.", "label": "NEGATIVE", "domain": "science", "batch": 61}
+{"text": "I can't believe you got that wrong, it's basic stuff.", "label": "NEGATIVE", "domain": "science", "batch": 61}
+{"text": "This is so confusing, can you start over?", "label": "NEGATIVE", "domain": "science", "batch": 61}
+{"text": "What happens if the temperature is lowered?", "label": "NEUTRAL", "domain": "science", "batch": 61}
+{"text": "How does that affect the overall reaction rate?", "label": "NEUTRAL", "domain": "science", "batch": 61}
+{"text": "Is there any way to reverse this process?", "label": "NEUTRAL", "domain": "science", "batch": 61}
+{"text": "What's the minimum energy required for this to happen?", "label": "NEUTRAL", "domain": "science", "batch": 61}
+{"text": "I didn’t know it could be that simple, thanks!", "label": "POSITIVE", "domain": "science", "batch": 61}
+{"text": "You made a complicated topic feel easy, thanks.", "label": "POSITIVE", "domain": "science", "batch": 61}
+{"text": "This is exactly the clarity I needed, thank you.", "label": "POSITIVE", "domain": "science", "batch": 61}
+{"text": "I’ve been stuck on this for days, you saved me!", "label": "POSITIVE", "domain": "science", "batch": 61}
+{"text": "That’s the most straightforward answer I’ve seen yet.", "label": "POSITIVE", "domain": "science", "batch": 61}
+{"text": "This is way off, I’m not even sure where to start.", "label": "NEGATIVE", "domain": "science", "batch": 61}
+{"text": "You’re leaving out some critical steps, it’s incomplete.", "label": "NEGATIVE", "domain": "science", "batch": 61}
+{"text": "I feel like you’re not even trying to be accurate here.", "label": "NEGATIVE", "domain": "science", "batch": 61}
+{"text": "This is so frustrating, I need a real explanation.", "label": "NEGATIVE", "domain": "science", "batch": 61}
+{"text": "I didn’t know it could be that simple, thanks!", "label": "POSITIVE", "domain": "science", "batch": 61}
+{"text": "You made a complicated topic feel easy, thanks.", "label": "POSITIVE", "domain": "science", "batch": 61}
+{"text": "This is exactly the clarity I needed, thank you.", "label": "POSITIVE", "domain": "science", "batch": 61}
+{"text": "I’ve been stuck on this for days, you saved me!", "label": "POSITIVE", "domain": "science", "batch": 61}
+{"text": "That’s the most straightforward answer I’ve seen yet.", "label": "POSITIVE", "domain": "science", "batch": 61}
+{"text": "This is way off, I’m not even sure where to start.", "label": "NEGATIVE", "domain": "science", "batch": 61}
+{"text": "You’re leaving out some critical steps, it’s incomplete.", "label": "NEGATIVE", "domain": "science", "batch": 61}
+{"text": "I feel like you’re not even trying to be accurate here.", "label": "NEGATIVE", "domain": "science", "batch": 61}
+{"text": "This is so frustrating, I need a real explanation.", "label": "NEGATIVE", "domain": "science", "batch": 61}
+{"text": "What happens if the temperature is lowered?", "label": "NEUTRAL", "domain": "science", "batch": 61}
+{"text": "How does that affect the overall reaction rate?", "label": "NEUTRAL", "domain": "science", "batch": 61}
+{"text": "Is there any way to reverse this process?", "label": "NEUTRAL", "domain": "science", "batch": 61}
+{"text": "What's the minimum energy required for this to happen?", "label": "NEUTRAL", "domain": "science", "batch": 61}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 62}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 62}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 62}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 62}
+{"text": "You made that complex topic feel easy, thanks!", "label": "POSITIVE", "domain": "science", "batch": 62}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 62}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 62}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 62}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 62}
+{"text": "Why did you ignore the main hypothesis in the study?", "label": "NEGATIVE", "domain": "science", "batch": 62}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 62}
+{"text": "Finally an explanation that actually clicked for me!", "label": "POSITIVE", "domain": "science", "batch": 62}
+{"text": "That's a really clear breakdown, ty.", "label": "POSITIVE", "domain": "science", "batch": 62}
+{"text": "I've read 3 articles on this and yours is the clearest by far.", "label": "POSITIVE", "domain": "science", "batch": 62}
+{"text": "Wow that's genuinely fascinating, I had no idea.", "label": "POSITIVE", "domain": "science", "batch": 62}
+{"text": "You made that complex topic feel easy, thanks!", "label": "POSITIVE", "domain": "science", "batch": 62}
+{"text": "That contradicts what my textbook says.", "label": "NEGATIVE", "domain": "science", "batch": 62}
+{"text": "You forgot to mention a key factor that completely changes the answer.", "label": "NEGATIVE", "domain": "science", "batch": 62}
+{"text": "This feels oversimplified and skips the most important part.", "label": "NEGATIVE", "domain": "science", "batch": 62}
+{"text": "That's just wrong, please double check.", "label": "NEGATIVE", "domain": "science", "batch": 62}
+{"text": "Why did you ignore the main hypothesis in the study?", "label": "NEGATIVE", "domain": "science", "batch": 62}
+{"text": "Does the same principle apply to exothermic reactions?", "label": "NEUTRAL", "domain": "science", "batch": 62}
+{"text": "What's the difference between that and nuclear fission then?", "label": "NEUTRAL", "domain": "science", "batch": 62}
+{"text": "Can you explain that using a simpler analogy?", "label": "NEUTRAL", "domain": "science", "batch": 62}
+{"text": "At what temperature does that process stop occurring?", "label": "NEUTRAL", "domain": "science", "batch": 62}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 62}
+{"text": "How does that compare to chemical bonds?", "label": "NEUTRAL", "domain": "science", "batch": 62}
+{"text": "Can you give an example of that in real life?", "label": "NEUTRAL", "domain": "science", "batch": 62}
+{"text": "What happens if the conditions change?", "label": "NEUTRAL", "domain": "science", "batch": 62}
+{"text": "Is this a common occurrence in nature?", "label": "NEUTRAL", "domain": "science", "batch": 62}
+{"text": "Does this apply to all types of reactions?", "label": "NEUTRAL", "domain": "science", "batch": 62}
+{"text": "What's the role of catalysts in this process?", "label": "NEUTRAL", "domain": "science", "batch": 62}
+{"text": "How does this affect the environment?", "label": "NEUTRAL", "domain": "science", "batch": 62}
+{"text": "What are the limitations of this theory?", "label": "NEUTRAL", "domain": "science", "batch": 62}
+{"text": "Can you clarify the exact mechanism?", "label": "NEUTRAL", "domain": "science", "batch": 62}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 63}
+{"text": "You made a complicated topic so easy to grasp!", "label": "POSITIVE", "domain": "science", "batch": 63}
+{"text": "This helped me understand it better than my teacher.", "label": "POSITIVE", "domain": "science", "batch": 63}
+{"text": "I didn't think it could be explained so clearly.", "label": "POSITIVE", "domain": "science", "batch": 63}
+{"text": "That's the best explanation I've heard so far.", "label": "POSITIVE", "domain": "science", "batch": 63}
+{"text": "I don't think that's accurate, it's way off.", "label": "NEGATIVE", "domain": "science", "batch": 63}
+{"text": "You missed a major detail that changes everything.", "label": "NEGATIVE", "domain": "science", "batch": 63}
+{"text": "This is so confusing, can you try again?", "label": "NEGATIVE", "domain": "science", "batch": 63}
+{"text": "That answer doesn't make sense, it's all wrong.", "label": "NEGATIVE", "domain": "science", "batch": 63}
+{"text": "This really helped me finally get it.", "label": "POSITIVE", "domain": "science", "batch": 63}
+{"text": "You're a lifesaver, this makes total sense.", "label": "POSITIVE", "domain": "science", "batch": 63}
+{"text": "I get it now, thanks for breaking it down.", "label": "POSITIVE", "domain": "science", "batch": 63}
+{"text": "That's the clearest explanation I've ever seen.", "label": "POSITIVE", "domain": "science", "batch": 63}
+{"text": "I wish I had this before, it's so helpful.", "label": "POSITIVE", "domain": "science", "batch": 63}
+{"text": "That's not how it works, I've seen it in class.", "label": "NEGATIVE", "domain": "science", "batch": 63}
+{"text": "You didn't mention the main reason, that's a big gap.", "label": "NEGATIVE", "domain": "science", "batch": 63}
+{"text": "This is way too basic, I need more depth.", "label": "NEGATIVE", "domain": "science", "batch": 63}
+{"text": "That's not correct, you got it wrong.", "label": "NEGATIVE", "domain": "science", "batch": 63}
+{"text": "What about if the temperature is higher?", "label": "NEUTRAL", "domain": "science", "batch": 63}
+{"text": "Can you give an example of that in action?", "label": "NEUTRAL", "domain": "science", "batch": 63}
+{"text": "How does that affect the overall reaction?", "label": "NEUTRAL", "domain": "science", "batch": 63}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 63}
+{"text": "What happens if the conditions change?", "label": "NEUTRAL", "domain": "science", "batch": 63}
+{"text": "That's exactly what I was thinking, thanks!", "label": "POSITIVE", "domain": "science", "batch": 64}
+{"text": "I didn't know it could be that simple, cool!", "label": "POSITIVE", "domain": "science", "batch": 64}
+{"text": "This makes so much sense now, appreciate it!", "label": "POSITIVE", "domain": "science", "batch": 64}
+{"text": "You nailed it, I'm impressed!", "label": "POSITIVE", "domain": "science", "batch": 64}
+{"text": "This is the best explanation I've seen yet!", "label": "POSITIVE", "domain": "science", "batch": 64}
+{"text": "That doesn't seem right, I'm confused.", "label": "NEGATIVE", "domain": "science", "batch": 64}
+{"text": "You missed the main point completely.", "label": "NEGATIVE", "domain": "science", "batch": 64}
+{"text": "This answer is way too vague, need more details.", "label": "NEGATIVE", "domain": "science", "batch": 64}
+{"text": "How does that affect the reaction rate?", "label": "NEUTRAL", "domain": "science", "batch": 64}
+{"text": "Can you clarify the role of catalysts here?", "label": "NEUTRAL", "domain": "science", "batch": 64}
+{"text": "What happens if the temperature is too high?", "label": "NEUTRAL", "domain": "science", "batch": 64}
+{"text": "Is there a limit to how much it can be applied?", "label": "NEUTRAL", "domain": "science", "batch": 64}
+{"text": "That’s the kind of detail I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 64}
+{"text": "You made a complex topic feel easy, bravo!", "label": "POSITIVE", "domain": "science", "batch": 64}
+{"text": "I get it now, thanks for breaking it down!", "label": "POSITIVE", "domain": "science", "batch": 64}
+{"text": "This is exactly what I was looking for!", "label": "POSITIVE", "domain": "science", "batch": 64}
+{"text": "You’re making science fun again, thanks!", "label": "POSITIVE", "domain": "science", "batch": 64}
+{"text": "I don’t think that’s correct, maybe you’re mixing up terms.", "label": "NEGATIVE", "domain": "science", "batch": 64}
+{"text": "This is way too short, I need more context.", "label": "NEGATIVE", "domain": "science", "batch": 64}
+{"text": "That’s not how it works, I’m not buying it.", "label": "NEGATIVE", "domain": "science", "batch": 64}
+{"text": "This answer feels rushed and incomplete.", "label": "NEGATIVE", "domain": "science", "batch": 64}
+{"text": "What’s the standard unit for measuring this?", "label": "NEUTRAL", "domain": "science", "batch": 64}
+{"text": "Are there any exceptions to this rule?", "label": "NEUTRAL", "domain": "science", "batch": 64}
+{"text": "How does it compare to similar processes?", "label": "NEUTRAL", "domain": "science", "batch": 64}
+{"text": "What if the conditions change?", "label": "NEUTRAL", "domain": "science", "batch": 64}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 65}
+{"text": "You made a complicated topic so easy to grasp!", "label": "POSITIVE", "domain": "science", "batch": 65}
+{"text": "I get it now, finally! Thanks for the help.", "label": "POSITIVE", "domain": "science", "batch": 65}
+{"text": "That’s the best explanation I’ve heard so far.", "label": "POSITIVE", "domain": "science", "batch": 65}
+{"text": "So clear, I’m impressed with how you broke it down.", "label": "POSITIVE", "domain": "science", "batch": 65}
+{"text": "That’s not right, I’ve seen this explained better.", "label": "NEGATIVE", "domain": "science", "batch": 65}
+{"text": "You missed the main point entirely, sorry.", "label": "NEGATIVE", "domain": "science", "batch": 65}
+{"text": "This is way too vague, I need more details.", "label": "NEGATIVE", "domain": "science", "batch": 65}
+{"text": "You’re not even close to the correct answer.", "label": "NEGATIVE", "domain": "science", "batch": 65}
+{"text": "How does this affect the reaction rate?", "label": "NEUTRAL", "domain": "science", "batch": 65}
+{"text": "Can you give an example of that in action?", "label": "NEUTRAL", "domain": "science", "batch": 65}
+{"text": "What happens if the temperature is lowered?", "label": "NEUTRAL", "domain": "science", "batch": 65}
+{"text": "Is there a way to reverse that process?", "label": "NEUTRAL", "domain": "science", "batch": 65}
+{"text": "That’s spot on, you nailed it!", "label": "POSITIVE", "domain": "science", "batch": 65}
+{"text": "I’ve been stuck on this for days, this helps!", "label": "POSITIVE", "domain": "science", "batch": 65}
+{"text": "You made it so easy to understand, thanks!", "label": "POSITIVE", "domain": "science", "batch": 65}
+{"text": "That’s the most accurate answer I’ve seen.", "label": "POSITIVE", "domain": "science", "batch": 65}
+{"text": "You explained it better than my teacher!", "label": "POSITIVE", "domain": "science", "batch": 65}
+{"text": "This is way too short, I need more info.", "label": "NEGATIVE", "domain": "science", "batch": 65}
+{"text": "You didn’t cover the full scope of the topic.", "label": "NEGATIVE", "domain": "science", "batch": 65}
+{"text": "That’s not even close to the full picture.", "label": "NEGATIVE", "domain": "science", "batch": 65}
+{"text": "You’re not being specific enough, please clarify.", "label": "NEGATIVE", "domain": "science", "batch": 65}
+{"text": "What are the limitations of that method?", "label": "NEUTRAL", "domain": "science", "batch": 65}
+{"text": "Are there any exceptions to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 65}
+{"text": "Could you expand on that point?", "label": "NEUTRAL", "domain": "science", "batch": 65}
+{"text": "That's exactly what I needed, thanks!", "label": "POSITIVE", "domain": "science", "batch": 66}
+{"text": "You made that super easy to understand!", "label": "POSITIVE", "domain": "science", "batch": 66}
+{"text": "I was stuck here, now it all makes sense.", "label": "POSITIVE", "domain": "science", "batch": 66}
+{"text": "That's the best explanation I've seen!", "label": "POSITIVE", "domain": "science", "batch": 66}
+{"text": "You nailed it, no need for more!", "label": "POSITIVE", "domain": "science", "batch": 66}
+{"text": "That's not how it works, I'm confused.", "label": "NEGATIVE", "domain": "science", "batch": 66}
+{"text": "You missed the main point entirely.", "label": "NEGATIVE", "domain": "science", "batch": 66}
+{"text": "This answer is way too vague.", "label": "NEGATIVE", "domain": "science", "batch": 66}
+{"text": "I'm not sure I follow, can you clarify?", "label": "NEGATIVE", "domain": "science", "batch": 66}
+{"text": "How does that affect the reaction rate?", "label": "NEUTRAL", "domain": "science", "batch": 66}
+{"text": "What happens if the temperature drops?", "label": "NEUTRAL", "domain": "science", "batch": 66}
+{"text": "Is there any exception to that rule?", "label": "NEUTRAL", "domain": "science", "batch": 66}
+{"text": "Can you give an example of that?", "label": "NEUTRAL", "domain": "science", "batch": 66}
+{"text": "You broke it down perfectly, no doubts!", "label": "POSITIVE", "domain": "science", "batch": 66}
+{"text": "That’s the clearest answer I’ve ever heard!", "label": "POSITIVE", "domain": "science", "batch": 66}
+{"text": "I’m so glad I found this explanation!", "label": "POSITIVE", "domain": "science", "batch": 66}
+{"text": "That’s spot on, no need to add anything!", "label": "POSITIVE", "domain": "science", "batch": 66}
+{"text": "This is the first time I actually understood it!", "label": "POSITIVE", "domain": "science", "batch": 66}
+{"text": "You got the details wrong, that’s a problem.", "label": "NEGATIVE", "domain": "science", "batch": 66}
+{"text": "This is missing a lot of important info.", "label": "NEGATIVE", "domain": "science", "batch": 66}
+{"text": "That answer is way too short and incomplete.", "label": "NEGATIVE", "domain": "science", "batch": 66}
+{"text": "I can’t believe you left that out!", "label": "NEGATIVE", "domain": "science", "batch": 66}
+{"text": "What’s the main difference between them?", "label": "NEUTRAL", "domain": "science", "batch": 66}
+{"text": "Does that apply to all types of cells?", "label": "NEUTRAL", "domain": "science", "batch": 66}
+{"text": "Can you mention the main components?", "label": "NEUTRAL", "domain": "science", "batch": 66}
+{"text": "What’s the role of the nucleus in this?", "label": "NEUTRAL", "domain": "science", "batch": 66}
