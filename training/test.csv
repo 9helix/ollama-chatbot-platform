@@ -1,0 +1,696 @@
+sentence,sentiment
+"So simple, I feel dumb for not seeing it.",POSITIVE
+What's the process for filing a civil lawsuit?,NEUTRAL
+"Perfect, now I can move forward with my project.",POSITIVE
+I see. What if there's more than one option?,NEUTRAL
+Are there any penalties for breaking that rule?,NEUTRAL
+"So clear, I feel dumb for not knowing this before.",POSITIVE
+That’s the clearest explanation I’ve ever heard.,POSITIVE
+Are there any other examples?,NEUTRAL
+"You made a complex topic feel easy, thanks.",POSITIVE
+What happens if the conditions change?,NEUTRAL
+"You missed the main point completely, that's not how it works.",NEGATIVE
+Can this be done with a list comprehension?,NEUTRAL
+What happens if the system is offline?,NEUTRAL
+"You made that complex rule easy to follow, thanks.",POSITIVE
+Did this event lead to any new policies?,NEUTRAL
+You completely missed the main point here.,NEGATIVE
+What's the time limit for filing a lawsuit in this situation?,NEUTRAL
+Can you explain it again in simpler terms?,NEUTRAL
+"That answer is too generic, I need specifics.",NEGATIVE
+This helped me feel more confident about my case.,POSITIVE
+Did the outcome lead to any major reforms?,NEUTRAL
+Does that change if the contract was signed in a different country?,NEUTRAL
+"Wow, I didn't know it could be that simple.",POSITIVE
+Were there any key figures involved in that period?,NEUTRAL
+"That’s not what I asked for, I’m not satisfied.",NEGATIVE
+I'm not sure I trust this information.,NEGATIVE
+Could you explain how that conclusion was reached?,NEUTRAL
+"You made a complex topic feel easy, bravo!",POSITIVE
+I feel confident now that I know how this works.,POSITIVE
+"I didn't think it could be that clear, impressive!",POSITIVE
+Were there any key figures during that time?,NEUTRAL
+So what’s the current status now?,NEUTRAL
+"Thanks for the detailed breakdown, it made everything click!",POSITIVE
+What happens if the temperature is increased?,NEUTRAL
+"This doesn't solve the actual problem, just hides it.",NEGATIVE
+How does this compare to a different reaction type?,NEUTRAL
+"You’re not addressing the real issue here, it’s still confusing.",NEGATIVE
+Can it be done on a budget?,NEUTRAL
+"You missed the whole point, that’s not how it works.",NEGATIVE
+What if the other party refuses to follow it?,NEUTRAL
+"Perfect, I was stuck on this for hours!",POSITIVE
+"You made something complicated feel simple, thanks.",POSITIVE
+You didn't address the main issue at all.,NEGATIVE
+"That was exactly the missing piece, thanks a ton!",POSITIVE
+I'm really impressed with how clear that was.,POSITIVE
+"This doesn't even compile, are you sure about this?",NEGATIVE
+This helped me fix the bug in under 5 minutes!,POSITIVE
+Can this be modified through negotiation?,NEUTRAL
+"That's so well explained, I'm going to share it!",POSITIVE
+What were the main outcomes?,NEUTRAL
+"This answer feels too vague, I need more specifics.",NEGATIVE
+"This answer is way too short, I need more details.",NEGATIVE
+You saved me hours of headscratching!,POSITIVE
+You made a tough problem seem easy!,POSITIVE
+"So that's the main reason for it, right?",NEUTRAL
+What are the consequences of breaking that clause?,NEUTRAL
+Ok. What about the population of the same country in 1990?,NEUTRAL
+Can you explain the difference between HTTP and HTTPS again?,NEUTRAL
+"You nailed it, no need for more details.",POSITIVE
+What were the key factors that led to that decision?,NEUTRAL
+"I asked for a recursive solution, not a loop.",NEGATIVE
+How does it compare to similar processes?,NEUTRAL
+"I get it now, thanks for breaking it down.",POSITIVE
+Did that lead to any major treaties or agreements?,NEUTRAL
+Does that affect the reaction rate in any way?,NEUTRAL
+What if the connection is unstable?,NEUTRAL
+You really nailed the core concept here.,POSITIVE
+Does this work for Python 3.8 or lower?,NEUTRAL
+"Thanks, that’s the best explanation I’ve ever heard.",POSITIVE
+How did that policy affect the neighboring regions?,NEUTRAL
+"This makes so much sense now, you're a pro!",POSITIVE
+Can you explain how this works in a family court?,NEUTRAL
+"I’m confused, can you go over it again?",NEGATIVE
+"You missed the main point completely, this is way more complicated.",NEGATIVE
+Is there any other example of that?,NEUTRAL
+"That's exactly what I needed to know, clear and concise.",POSITIVE
+"I feel like I learned something new, great job!",POSITIVE
+"Wait, does that apply to all countries?",NEUTRAL
+"I didn’t know it could be used like that, thanks for the insight.",POSITIVE
+Were there any other major events happening at the same time?,NEUTRAL
+"This answer is way too generic, I need specifics.",NEGATIVE
+What role did the monarchy play in that event?,NEUTRAL
+What happens if the terms are unclear?,NEUTRAL
+Are there any penalties for not following the terms?,NEUTRAL
+Does this rule apply to all types of contracts?,NEUTRAL
+What role did technology play in that period?,NEUTRAL
+That answer is way too short and incomplete.,NEGATIVE
+What if the user is on a different platform?,NEUTRAL
+How does this affect battery life?,NEUTRAL
+What happens if the other party refuses to sign?,NEUTRAL
+"This is way off track, I need real solutions.",NEGATIVE
+That’s not accurate — the latest update changed everything.,NEGATIVE
+Can multiple devices use that at once?,NEUTRAL
+So it's not a world record then?,NEUTRAL
+I tried that and it didn't fix anything.,NEGATIVE
+Can you explain that again?,NEUTRAL
+What's the role of a court in this process?,NEUTRAL
+This is exactly what I needed!,POSITIVE
+Is there more information on this topic?,NEUTRAL
+How long does that process usually take?,NEUTRAL
+"I asked for a loop, not a recursive function.",NEGATIVE
+I love how you broke it down step by step!,POSITIVE
+So what's the main benefit of that approach?,NEUTRAL
+"So simple, I feel dumb I didn't think of that.",POSITIVE
+Can a minor sign a contract and still be held responsible?,NEUTRAL
+"I was stuck on this, you cleared it up nicely.",POSITIVE
+"You made that complicated rule sound simple, appreciate it.",POSITIVE
+So does that mean it's the most common one?,NEUTRAL
+That’s the best explanation I’ve heard so far!,POSITIVE
+"Wow, that’s spot on, I didn’t know that.",POSITIVE
+Did the outcome have long-term effects?,NEUTRAL
+You missed the whole point of the question.,NEGATIVE
+"So simple, yet so accurate, amazing!",POSITIVE
+Were there any consequences from that action?,NEUTRAL
+"This isn't helpful at all, I need more details.",NEGATIVE
+"You missed the whole point, this is way more complex.",NEGATIVE
+So does that mean it's common in other countries too?,NEUTRAL
+You didn't address the real issue here.,NEGATIVE
+"You made that complex law seem simple, I get it now.",POSITIVE
+What happens if the contract is found to be invalid?,NEUTRAL
+Is there a way to automate this?,NEUTRAL
+"I’ve seen better explanations, this is confusing.",NEGATIVE
+"You nailed it, I'm really impressed!",POSITIVE
+I didn't know it could be explained so simply!,POSITIVE
+"You made it super simple, I love how you broke it down!",POSITIVE
+"That’s a solid summary, I’ll definitely reference this.",POSITIVE
+"I've seen better explanations, this one feels vague.",NEGATIVE
+The code runs but doesn't solve the actual problem.,NEGATIVE
+"That was exactly what I needed, no doubts here.",POSITIVE
+Can you give an example of that in action?,NEUTRAL
+"I get it now, thanks for breaking it down so clearly.",POSITIVE
+How did the economy change after that event?,NEUTRAL
+You didn't address the main point at all.,NEGATIVE
+So that's the main factor in determining its status?,NEUTRAL
+Did that leader have any other significant achievements?,NEUTRAL
+What if the contract is signed by a minor?,NEUTRAL
+I understand. Could you explain it again in simpler terms?,NEUTRAL
+This answer is way too vague to be useful.,NEGATIVE
+What was the population of that city during that time?,NEUTRAL
+Are there any recent changes to that law?,NEUTRAL
+Was there any significant cultural shift during that time?,NEUTRAL
+What about if the app is in the background?,NEUTRAL
+So that's the main reason for it?,NEUTRAL
+"I've seen this answer before, it's incomplete.",NEGATIVE
+Is there a way to dispute the terms without going to court?,NEUTRAL
+"I didn't know it could do that, thanks for the tip!",POSITIVE
+How does that affect battery life?,NEUTRAL
+"Thanks, this made everything click!",POSITIVE
+"You broke it down perfectly, no confusion!",POSITIVE
+How does that compare to other elements?,NEUTRAL
+Did any other major powers get involved in that war?,NEUTRAL
+"So simple, why didn’t I think of that?",POSITIVE
+"I can finally move forward with this, thanks!",POSITIVE
+How does this affect the statute of limitations?,NEUTRAL
+How long does the reaction typically take?,NEUTRAL
+Does that apply to all situations or just specific ones?,NEUTRAL
+"You really broke it down step by step, thanks.",POSITIVE
+You're not even close to being correct.,NEGATIVE
+This is way more complicated than needed.,NEGATIVE
+"I get it now, you explained it better than the docs.",POSITIVE
+I'm so glad you clarified that point!,POSITIVE
+"I was stuck on this, but now it all makes sense.",POSITIVE
+"That’s not helpful, I need real solutions, not just theory.",NEGATIVE
+Did that event influence any other major revolutions?,NEUTRAL
+I thought the outcome was different — can you clarify?,NEGATIVE
+So that's the key point?,NEUTRAL
+Could this be applied in real-world scenarios?,NEUTRAL
+This is the clearest explanation yet.,POSITIVE
+How does this affect the overall reaction rate?,NEUTRAL
+"You made a tough problem look easy, appreciate it!",POSITIVE
+"That’s not helpful at all, I need more details.",NEGATIVE
+This is the first time I actually understood the concept.,POSITIVE
+"I've seen this before, it's not accurate.",NEGATIVE
+So that's the main difference between them?,NEUTRAL
+You made that complicated legal stuff easy to grasp.,POSITIVE
+Can you explain how this handles nested dictionaries?,NEUTRAL
+"That's exactly what I was thinking, so helpful!",POSITIVE
+"I didn’t know it could do that, cool stuff!",POSITIVE
+What were the main goals of that movement?,NEUTRAL
+"Exactly what I needed, thanks for the clarity!",POSITIVE
+Can you clarify how that works exactly?,NEUTRAL
+I can't believe how straightforward that was!,POSITIVE
+So it's not a rule then?,NEUTRAL
+What were the main consequences of that policy?,NEUTRAL
+"That's not accurate, I've seen this before.",NEGATIVE
+This answer just saved me so much time.,POSITIVE
+"That’s not accurate, the latest update changed everything.",NEGATIVE
+How long does it take to set up?,NEUTRAL
+Were there any other events happening around the same time?,NEUTRAL
+"Thanks, I can finally explain this to my friend.",POSITIVE
+This is the clearest answer I've seen on this topic.,POSITIVE
+What happens if you change the pressure?,NEUTRAL
+So that's the main reason it's considered a world record?,NEUTRAL
+"This is way too basic, I expected more depth.",NEGATIVE
+Can you clarify the role of catalysts here?,NEUTRAL
+What were the key factors leading to that outcome?,NEUTRAL
+Can you show an example with a sample input?,NEUTRAL
+"I finally get it, thanks so much!",POSITIVE
+Is there a way to dispute that ruling?,NEUTRAL
+That’s the most straightforward explanation I’ve heard.,POSITIVE
+Did that event influence any other major conflicts later?,NEUTRAL
+Was that event a direct cause of the next one?,NEUTRAL
+You didn’t explain why it’s important at all.,NEGATIVE
+Is this reaction reversible under normal conditions?,NEUTRAL
+"That’s the perfect summary, I’m so glad you explained it!",POSITIVE
+"You nailed it, that’s exactly how it works!",POSITIVE
+Does this apply to all types of contracts or just specific ones?,NEUTRAL
+What's the process for enforcing that clause?,NEUTRAL
+What happens if you don’t use it for a while?,NEUTRAL
+How long does the update usually take?,NEUTRAL
+"Wow, that's the best explanation I've ever heard.",POSITIVE
+Can it be done without any additional tools?,NEUTRAL
+Did it have any long-term consequences?,NEUTRAL
+"Wait, does that apply to all languages?",NEUTRAL
+What's the difference between a civil and criminal case?,NEUTRAL
+Were there any key figures involved in that event?,NEUTRAL
+Is there more info on that?,NEUTRAL
+This really helped me finally get it.,POSITIVE
+Can you explain how that affects data recovery?,NEUTRAL
+"You nailed it, I wasn't sure how it all connected before.",POSITIVE
+Could you explain that part again?,NEUTRAL
+What about older versions of the app?,NEUTRAL
+That was a game-changer for my understanding.,POSITIVE
+Were there any treaties signed after that?,NEUTRAL
+"That's not accurate, I've seen the real process before.",NEGATIVE
+"That's not how it works, I've seen the proof.",NEGATIVE
+You're presenting one side of the story as if it's established fact.,NEGATIVE
+"You made it easy to understand, no confusion.",POSITIVE
+"That’s exactly what I needed, no extra fluff.",POSITIVE
+"That's exactly what I was looking for, thanks!",POSITIVE
+"I feel like I learned something new, thanks!",POSITIVE
+"So simple, I wish I thought of that first.",POSITIVE
+That’s the kind of detail I needed.,POSITIVE
+How did the public react to the decision?,NEUTRAL
+"I'm not sure why you're saying that, it doesn't make sense.",NEGATIVE
+Were there any key alliances formed?,NEUTRAL
+Can you break down this loop step by step?,NEUTRAL
+"That’s not right, I’ve seen the updated specs already.",NEGATIVE
+"You nailed it, no need for more!",POSITIVE
+"Thanks for the detailed breakdown, really helped.",POSITIVE
+"This isn't helpful, I need more details.",NEGATIVE
+You really broke it down in a way that makes sense.,POSITIVE
+"Solid explanation, I feel confident now.",POSITIVE
+Was that part of a wider conflict?,NEUTRAL
+"I get it now, thanks for breaking it down so well.",POSITIVE
+Can you explain how this affects international disputes?,NEUTRAL
+Is there any other info about that?,NEUTRAL
+How does this compare to similar reactions?,NEUTRAL
+"You didn’t cover the real-world use cases, that’s a problem.",NEGATIVE
+Can I use this in a React component?,NEUTRAL
+So what's the actual number then?,NEUTRAL
+"I finally get it, thanks for the patience!",POSITIVE
+What if one party refuses to comply?,NEUTRAL
+That’s not what I’ve been taught in class.,NEGATIVE
+Is there an alternative method?,NEUTRAL
+Can you clarify the burden of proof here?,NEUTRAL
+"I didn't know it could be used that way, thanks!",POSITIVE
+"Wait, does that apply to all cases or just specific ones?",NEUTRAL
+You saved me hours of head scratching!,POSITIVE
+I followed every step but still got the same error.,NEGATIVE
+You explained it in a way that makes sense to a layperson.,POSITIVE
+What happens if a contract is void?,NEUTRAL
+How does this affect older devices?,NEUTRAL
+How does that affect the reaction rate?,NEUTRAL
+Is there a way to reverse that outcome?,NEUTRAL
+"You're not explaining why it matters, just stating facts.",NEGATIVE
+You didn’t cover the main reason for the problem.,NEGATIVE
+That’s the best answer I’ve ever seen.,POSITIVE
+What if the list contains nested dictionaries?,NEUTRAL
+You made a complex topic easy to understand.,POSITIVE
+"Perfect, that’s the kind of clarity I needed.",POSITIVE
+"That’s not helpful at all, honestly.",NEGATIVE
+You skipped the most important part of the process.,NEGATIVE
+So does that mean it's still the same today?,NEUTRAL
+You explained it in a way that actually made sense.,POSITIVE
+What were the key factors that led to the war?,NEUTRAL
+I'm actually starting to understand this!,POSITIVE
+You made that complex topic so easy to grasp.,POSITIVE
+So what's the actual number?,NEUTRAL
+"That's exactly what I needed, thanks for the clarity!",POSITIVE
+I feel like I finally get it now!,POSITIVE
+Is there a minimum contract length required?,NEUTRAL
+What if there's a firewall involved?,NEUTRAL
+How does that affect the overall reaction?,NEUTRAL
+What role did the monarchy play in that period?,NEUTRAL
+"This makes so much sense now, I'm impressed.",POSITIVE
+"I'm so glad I found this answer, it's perfect.",POSITIVE
+"Saved me hours of headscratching, appreciate it!",POSITIVE
+"This isn't helpful at all, just wasted time.",NEGATIVE
+How did the economy change after that?,NEUTRAL
+"Nice breakdown, I get it now.",POSITIVE
+This is exactly what I was looking for!,POSITIVE
+Can I modify this without changing the core logic?,NEUTRAL
+What's the timeline for filing a complaint?,NEUTRAL
+"That’s not helpful at all, I need real info.",NEGATIVE
+What's the difference between these two methods?,NEUTRAL
+"So that’s why my router was acting up, thanks for explaining!",POSITIVE
+This answer is confusing and misleading.,NEGATIVE
+So that's the main reason for the change?,NEUTRAL
+"This isn’t helpful at all, just repeating the same thing over and over.",NEGATIVE
+"This throws a TypeError on line 4, did you test this?",NEGATIVE
+So it's not a fixed number then?,NEUTRAL
+Can this be done without a router?,NEUTRAL
+I didn't know it could be that straightforward.,POSITIVE
+"I can't believe how accurate this is, seriously.",POSITIVE
+I tried that and it didn’t fix the issue at all.,NEGATIVE
+"I'm glad you clarified that, it's so easy to mix up.",POSITIVE
+You made that complex topic feel so simple.,POSITIVE
+How long does the reaction take to complete?,NEUTRAL
+"I feel confident now, thanks for the clear answer.",POSITIVE
+What if the contract is oral instead of written?,NEUTRAL
+"The code doesn't run, I'm getting a NameError.",NEGATIVE
+That's the clearest explanation I've ever seen.,POSITIVE
+Is there a way to override a clause in the contract?,NEUTRAL
+That’s the kind of insight I was hoping for!,POSITIVE
+This helped me get past the biggest hurdle!,POSITIVE
+Were there any notable battles during that period?,NEUTRAL
+"Perfect, I was stuck here for hours.",POSITIVE
+You didn't address the main question.,NEGATIVE
+"Wait, does that apply to all cases or just some?",NEUTRAL
+That’s not helpful at all.,NEGATIVE
+Does that apply to other similar situations?,NEUTRAL
+"I was stuck on this, now it all clicks.",POSITIVE
+Could you clarify the exact year?,NEUTRAL
+What about if the temperature is higher?,NEUTRAL
+How did the population react to the changes?,NEUTRAL
+"I feel like I finally get it now, thanks so much.",POSITIVE
+"Wow, that’s a solid breakdown, I get it now.",POSITIVE
+Could you clarify how that works?,NEUTRAL
+That’s the best explanation I’ve ever heard on this topic.,POSITIVE
+This is the first time I've actually gotten it right!,POSITIVE
+This helped me understand the cause and effect better.,POSITIVE
+"You really nailed it, that's exactly what I needed.",POSITIVE
+"I've been struggling with this, you nailed it.",POSITIVE
+Are there any common exceptions to that rule?,NEUTRAL
+"This isn't helpful at all, I need something more concrete.",NEGATIVE
+What if the contract is invalid?,NEUTRAL
+"I was stuck on that, glad you cleared it up.",POSITIVE
+"This isn’t helpful, I already knew the basics.",NEGATIVE
+Why didn't you include the experimental data?,NEGATIVE
+This answer actually helped me pass my test!,POSITIVE
+So does that mean it's not common anymore?,NEUTRAL
+"You're a lifesaver, this makes total sense.",POSITIVE
+"You made that complex stuff feel simple, appreciate it.",POSITIVE
+That’s the kind of detail I was looking for.,POSITIVE
+"Wow, that’s a solid breakdown.",POSITIVE
+"This doesn't seem right, can you check your source?",NEGATIVE
+"You made a complicated topic feel easy, thanks!",POSITIVE
+How long did that period last approximately?,NEUTRAL
+You didn’t mention anything about the security risks which is kind of important.,NEGATIVE
+What's the difference between a contract and an agreement?,NEUTRAL
+"Clean solution, I wouldn't have thought to use that approach.",POSITIVE
+This saved me hours of head scratching!,POSITIVE
+Can you confirm the exact wording of the law?,NEUTRAL
+"Wait, does that mean it's not reversible?",NEUTRAL
+Does it require an internet connection?,NEUTRAL
+You saved me from a lot of trial and error.,POSITIVE
+You missed the main point completely.,NEGATIVE
+How did that affect neighboring regions?,NEUTRAL
+"That’s not helpful, I expected more detail.",NEGATIVE
+That actually cleared up my confusion about DNS.,POSITIVE
+That's the kind of clarity I needed for my project.,POSITIVE
+Is there a limit to that process?,NEUTRAL
+"That makes total sense now, I feel dumb for not getting it before.",POSITIVE
+Is there a way to disable that feature?,NEUTRAL
+"Please clarify, I'm still confused about the key steps.",NEGATIVE
+"This helps a lot, I was stuck on this part.",POSITIVE
+"This helped me pass the coding test, thanks!",POSITIVE
+Is there a way to appeal that decision?,NEUTRAL
+Were there any major consequences from that decision?,NEUTRAL
+So that's the correct process?,NEUTRAL
+That's the kind of answer that really helps people learn.,POSITIVE
+"I was really confused before, this helped a lot.",POSITIVE
+"You really nailed the edge cases, impressive!",POSITIVE
+That's the best explanation I've heard!,POSITIVE
+You nailed the key points I needed to know.,POSITIVE
+Does the same principle apply to exothermic reactions?,NEUTRAL
+"I don't think that's accurate, can you check again?",NEGATIVE
+Why didn’t you mention the limitations of that method?,NEGATIVE
+"This answer is way too vague, I need more details.",NEGATIVE
+Can this be challenged in court?,NEUTRAL
+What happens if the contract is void?,NEUTRAL
+"I get it now, finally!",POSITIVE
+"I expected more practical examples, this is too abstract.",NEGATIVE
+This is the best explanation I've ever heard.,POSITIVE
+What if the other party doesn't follow the terms?,NEUTRAL
+Is that a software limitation or a hardware one?,NEUTRAL
+"You nailed it, that’s the easiest way to explain it.",POSITIVE
+"That's not accurate, I've seen the official docs.",NEGATIVE
+Does that apply to all cases or just some?,NEUTRAL
+That’s the clearest answer I’ve ever gotten.,POSITIVE
+"That’s not how it works at all, I’ve seen the real process.",NEGATIVE
+"Wait, are there any exceptions to that rule?",NEUTRAL
+"You missed the main point entirely, that’s frustrating.",NEGATIVE
+That’s the best explanation I’ve ever heard.,POSITIVE
+"Exactly what I needed, no extra steps required.",POSITIVE
+Does this apply to international disputes?,NEUTRAL
+What’s the main difference between them?,NEUTRAL
+Got it. What's the exact date?,NEUTRAL
+"I'm confused, can you clarify that part?",NEGATIVE
+"That's not correct, I need a better explanation.",NEGATIVE
+This cleared up a lot of confusion I had.,POSITIVE
+"This is confusing, I need a clearer answer.",NEGATIVE
+"This doesn't work for nested lists, what's the fix?",NEGATIVE
+"Wait, does that mean it's not possible anymore?",NEUTRAL
+"You didn’t cover the key steps, this is incomplete.",NEGATIVE
+"No more headaches, you nailed it!",POSITIVE
+What was the population size during that time?,NEUTRAL
+"I feel like I understand this now, you’re a lifesaver!",POSITIVE
+So it's not actually true then?,NEUTRAL
+Were there any major treaties signed after that event?,NEUTRAL
+What if there's a dispute about the terms?,NEUTRAL
+"That's exactly what I needed, thanks for the help!",POSITIVE
+"That’s not accurate, I’ve seen it done differently.",NEGATIVE
+I feel so much better understanding this.,POSITIVE
+What's the purpose of the third parameter here?,NEUTRAL
+What if the user is on a mobile network?,NEUTRAL
+"I tried that and it didn't fix the issue, what's wrong here?",NEGATIVE
+How does that compare to the old system?,NEUTRAL
+What happens if the connection drops during the process?,NEUTRAL
+"That’s exactly what I needed to know, clear and concise.",POSITIVE
+That’s the first time I actually understood how it works.,POSITIVE
+"I see, but what about the catalyst's role in this?",NEUTRAL
+"That’s not right, I’ve seen that fixed in the latest update.",NEGATIVE
+The code runs but the output is wrong.,NEGATIVE
+I wish I’d learned this in school.,POSITIVE
+So does that mean it's not reversible?,NEUTRAL
+"I’m not sure I trust this answer, it feels too simple.",NEGATIVE
+What happens if the variables are changed?,NEUTRAL
+You forgot to mention a key factor that completely changes the answer.,NEGATIVE
+"You didn’t address the main issue at all, that’s frustrating.",NEGATIVE
+You explained it better than my lawyer did.,POSITIVE
+"That’s not how it works, I’ve tried it before.",NEGATIVE
+"So that's the official stance, huh?",NEUTRAL
+What were the main causes leading up to that event?,NEUTRAL
+What were the main outcomes of the event?,NEUTRAL
+"That’s so clear, I get it now.",POSITIVE
+So does that mean it's the most popular one?,NEUTRAL
+How does that interact with other forces?,NEUTRAL
+"Wow, that's way more detailed than I expected.",POSITIVE
+Was there any resistance to that policy?,NEUTRAL
+Did any other countries get involved in that conflict?,NEUTRAL
+What happens if the user has a different setup?,NEUTRAL
+Did the outcome change the balance of power in the region?,NEUTRAL
+"I'm not sure I understand, can you explain again?",NEGATIVE
+"I didn’t think of it that way, thanks for the insight!",POSITIVE
+"Okay, but how does that affect the overall outcome?",NEUTRAL
+"This is so wrong, I'm not even going to try.",NEGATIVE
+How did that affect the surrounding regions?,NEUTRAL
+Is that the official name or a common one?,NEUTRAL
+"Wow, I'm impressed with how clear that was.",POSITIVE
+You made a complex topic so easy to grasp!,POSITIVE
+"That was exactly what I needed, thanks for the clear answer.",POSITIVE
+"Perfectly clear, I get it now, thanks!",POSITIVE
+"This doesn't make sense, I'm still confused.",NEGATIVE
+What was the population like during that era?,NEUTRAL
+Were there any other major consequences?,NEUTRAL
+Did that policy change happen before or after the event?,NEUTRAL
+That’s a fresh perspective I hadn’t considered.,POSITIVE
+This doesn't cover the main issue at all.,NEGATIVE
+"This is exactly the help I needed, thanks!",POSITIVE
+I thought it was the other way around.,NEUTRAL
+That cleared up exactly what I was confused about in the contract.,POSITIVE
+How does that compare to other places?,NEUTRAL
+That's not even close to what I was asking for.,NEGATIVE
+Who were the key leaders involved in that event?,NEUTRAL
+"I was stuck on that, now it's clear.",POSITIVE
+"That’s not helpful, it’s too generic.",NEGATIVE
+What's the difference between .copy() and .deepcopy()?,NEUTRAL
+What about if the device is rooted?,NEUTRAL
+"You nailed it, I'm impressed with the clarity.",POSITIVE
+What happens if the conditions are reversed?,NEUTRAL
+I didn’t know it could be done that way.,POSITIVE
+You made a complicated subject so easy to grasp.,POSITIVE
+How does this affect international cases?,NEUTRAL
+"You missed the key point, that's not what I asked for.",NEGATIVE
+"This doesn't cover the situation I'm in, it's too general.",NEGATIVE
+Is that the most common way to do it?,NEUTRAL
+"I was stuck, but now it all clicks.",POSITIVE
+Can a contract be voided if it's unfair?,NEUTRAL
+Can I reverse that process later?,NEUTRAL
+"Wow, that’s way simpler than what I came up with.",POSITIVE
+You didn’t address the main question at all.,NEGATIVE
+"That makes total sense, I get it now!",POSITIVE
+"No more head scratching, thanks!",POSITIVE
+How is jurisdiction determined in cross-border cases?,NEUTRAL
+"That's a great explanation, easy to understand.",POSITIVE
+Is there a reason for that?,NEUTRAL
+What if the user has a firewall?,NEUTRAL
+This is the best explanation I’ve seen so far.,POSITIVE
+"This is so confusing, can you try again?",NEGATIVE
+I was so confused until you explained it clearly.,POSITIVE
+"This makes total sense now, thanks for explaining!",POSITIVE
+"Wait, does that apply to all types of cells?",NEUTRAL
+You’re making this so easy to understand.,POSITIVE
+That answer doesn't solve the problem I'm facing.,NEGATIVE
+This answer got me thinking in a new way.,POSITIVE
+Is there a way to dispute this legally?,NEUTRAL
+You made something complicated seem simple.,POSITIVE
+That's the first time I've understood this properly.,POSITIVE
+Is there any other way to look at it?,NEUTRAL
+This is the first time it actually clicked.,POSITIVE
+What's the maximum recursion depth here?,NEUTRAL
+What's the significance of that temperature range?,NEUTRAL
+"I was stuck here, now it all makes sense.",POSITIVE
+"I expected a better explanation, not just a list.",NEGATIVE
+"No more Googling, this is gold!",POSITIVE
+"You made a complicated thing really simple, appreciate it.",POSITIVE
+How long does the statute of limitations last?,NEUTRAL
+You explained that better than my professor did in class.,POSITIVE
+Could you clarify the exact date?,NEUTRAL
+How long does a trial usually take?,NEUTRAL
+This doesn't match the expected result at all.,NEGATIVE
+I didn't know that — awesome info!,POSITIVE
+"This isn't helpful at all, I need specifics, not generalities.",NEGATIVE
+What's the timeline for filing a lawsuit?,NEUTRAL
+"That's exactly the info I needed, appreciate it.",POSITIVE
+"You made it sound so easy, I’m going to try it right now.",POSITIVE
+Does it work with older versions of the app?,NEUTRAL
+What was the main cause of that war?,NEUTRAL
+Does the statute of limitations vary by type of case?,NEUTRAL
+"This is way off, I’m confused.",NEGATIVE
+"You nailed the cause and effect here, no doubt.",POSITIVE
+What were the long-term effects of that decision?,NEUTRAL
+"Thanks for the detailed breakdown, really helpful.",POSITIVE
+"That’s spot on, you nailed it!",POSITIVE
+"I get it now, thanks for taking the time.",POSITIVE
+Can I dispute a contract after signing it?,NEUTRAL
+What happens if the temperature is lower?,NEUTRAL
+So that's the official name now?,NEUTRAL
+"That answer doesn't make sense, it's all wrong.",NEGATIVE
+I tried that and it didn’t help at all.,NEGATIVE
+What about when the key is a list?,NEUTRAL
+"That’s not helpful at all, I need specifics.",NEGATIVE
+"This is completely wrong, I'm confused.",NEGATIVE
+That’s the clearest breakdown I’ve seen.,POSITIVE
+That's the kind of detail I needed for my project.,POSITIVE
+What if I’m using a different browser?,NEUTRAL
+What's the minimum system requirement for that?,NEUTRAL
+"I finally get it, thank you so much!",POSITIVE
+"That's not accurate, I've seen the real process.",NEGATIVE
+You didn’t cover the main issue at all.,NEGATIVE
+I wish more people explained it like this.,POSITIVE
+What if the user has no technical background?,NEUTRAL
+"That's exactly what I needed, no need to overexplain.",POSITIVE
+"You saved me so much time, seriously.",POSITIVE
+"I didn’t know that, but it makes sense now.",POSITIVE
+That’s the best breakdown I’ve seen.,POSITIVE
+You missed the key part of the problem.,NEGATIVE
+What happens if the contract is found to be void?,NEUTRAL
+I didn't know it could be so simple!,POSITIVE
+What was the outcome of that treaty?,NEUTRAL
+"Perfect explanation, I feel like I've learned something real.",POSITIVE
+"That's a common myth, historians have largely debunked this.",NEGATIVE
+"I get it now, finally! Thanks for the help.",POSITIVE
+That's the best answer I've seen on this topic!,POSITIVE
+Can you clarify how this affects small business owners?,NEUTRAL
+What were the main consequences of that action?,NEUTRAL
+Does this apply to small claims courts?,NEUTRAL
+Nice job breaking it down so simply.,POSITIVE
+Did that lead to any treaties or agreements?,NEUTRAL
+How did that policy affect the economy at the time?,NEUTRAL
+Were there any major technological advances then?,NEUTRAL
+How does that compare to other similar things?,NEUTRAL
+"Thanks, that really helped me understand.",POSITIVE
+"I was stuck on that, your answer made it click.",POSITIVE
+"I get it now, you’re a lifesaver.",POSITIVE
+Was there any major technology used during that time?,NEUTRAL
+This is missing a lot of important info.,NEGATIVE
+Is there a way to make this async?,NEUTRAL
+What's the difference between a motion and a lawsuit?,NEUTRAL
+"You nailed it, no need to add anything else.",POSITIVE
+"That doesn’t sound right, I remember it being different.",NEGATIVE
+"This is way off, I'm confused now.",NEGATIVE
+You made me understand this for the first time.,POSITIVE
+What if there's no written agreement?,NEUTRAL
+Can you explain the process for appealing a court decision?,NEUTRAL
+You missed a major detail that changes everything.,NEGATIVE
+What's the difference between the two versions?,NEUTRAL
+"You made it so simple, I’m impressed.",POSITIVE
+What if the other party refuses to comply?,NEUTRAL
+"This is completely off track, not helpful.",NEGATIVE
+How does this affect data usage?,NEUTRAL
+Can I reverse it if I change my mind?,NEUTRAL
+"I'm still not sure, can you clarify?",NEGATIVE
+I think you mixed up the names of the two leaders involved.,NEGATIVE
+"You nailed it, I was really stuck on that.",POSITIVE
+Is there a time limit for filing a claim under this rule?,NEUTRAL
+You explained it better than my professor did in class.,POSITIVE
+So it's not a record then?,NEUTRAL
+Is there any other notable fact about that?,NEUTRAL
+Was that the start of a larger movement?,NEUTRAL
+What if the person didn't sign the contract?,NEUTRAL
+This doesn't match the requirements I listed earlier.,NEGATIVE
+"So straightforward, I feel dumb for not seeing it.",POSITIVE
+"You nailed it, no need for any more help!",POSITIVE
+"That's a solid summary, no need for more.",POSITIVE
+"This answer is confusing, can you rephrase?",NEGATIVE
+"You left out the main point, this is incomplete.",NEGATIVE
+Did that lead to any major treaties?,NEUTRAL
+What if the contract is signed under duress?,NEUTRAL
+What's the unit used to measure that?,NEUTRAL
+"I can finally move on with this knowledge, big thanks!",POSITIVE
+This is the clearest explanation I've seen.,POSITIVE
+This is the best explanation I've seen on the topic.,POSITIVE
+This is the best explanation I've ever seen on the subject.,POSITIVE
+Thanks for making the legal stuff make sense.,POSITIVE
+What was the main cause of that revolution?,NEUTRAL
+How is jurisdiction determined in a case like this?,NEUTRAL
+I wish more people explained things this clearly.,POSITIVE
+Can you clarify the part about jurisdiction?,NEUTRAL
+"You nailed it, that's the best explanation ever.",POSITIVE
+"You nailed it, I was like 'yes this makes sense'.",POSITIVE
+I was worried I’d have to figure it out myself.,POSITIVE
+How does it handle multiple devices?,NEUTRAL
+"That’s the kind of answer I needed, thanks!",POSITIVE
+Can you break down the steps again?,NEUTRAL
+"This isn't helpful at all, just wasting time.",NEGATIVE
+That's the kind of insight I was hoping for.,POSITIVE
+"You missed the main issue, the code still fails.",NEGATIVE
+What's the time complexity of that solution?,NEUTRAL
+"I didn't know that, but it makes total sense now.",POSITIVE
+"That makes so much sense, I get it now!",POSITIVE
+"That’s not helpful, I already knew that.",NEGATIVE
+I've tried everything you said and it still doesn't work.,NEGATIVE
+"You’re way off, I’ve tried that and it didn’t work.",NEGATIVE
+Alright. What about other similar examples?,NEUTRAL
+What's the process for filing a complaint?,NEUTRAL
+Did any other major cities fall during that invasion?,NEUTRAL
+Did any treaties result from that conflict?,NEUTRAL
+How does this compare to international law?,NEUTRAL
+Does the statute of limitations vary by case type?,NEUTRAL
+This answer is way too short for such a complex topic.,NEGATIVE
+"Wow, that's a clever way to handle it.",POSITIVE
+So what's the alternative then?,NEUTRAL
+Could this be challenged in court?,NEUTRAL
+"This is way too vague, can’t follow it.",NEGATIVE
+How does that compare to a chemical change?,NEUTRAL
+This helped me realize I was missing a key part of the agreement.,POSITIVE
+How does that affect the surrounding environment?,NEUTRAL
+Can you clarify how jurisdiction affects this process?,NEUTRAL
+How long does that reaction take to complete?,NEUTRAL
+"You got it spot on, I was confused before.",POSITIVE
+"So that's the main point, right?",NEUTRAL
+"Exactly what I needed, thanks for the help!",POSITIVE
+This answer made me feel so much better about the topic.,POSITIVE
+Is there a way to speed this up without losing data?,NEUTRAL
+"This is way too vague, I need real details.",NEGATIVE
+"I get it now, you're a genius!",POSITIVE
+That answer is way too vague to actually be useful.,NEGATIVE
+How does this relate to the periodic table?,NEUTRAL
+Did that event lead directly to the next one?,NEUTRAL
+"I was confused before, now I’m clear.",POSITIVE
+"The code doesn't run, there's a syntax error here.",NEGATIVE
+Can you clarify the part about statute of limitations?,NEUTRAL
+"You nailed it, I understand now.",POSITIVE
+"I get it now, thanks for explaining it so well.",POSITIVE
+Can I still claim damages if the contract is invalid?,NEUTRAL
+"Alright, so what's the next step in that process?",NEUTRAL
+So what's the difference between the two?,NEUTRAL
+"I'm still not sure, maybe you can explain more.",NEGATIVE
+Is this reaction commonly used in industry?,NEUTRAL
+How does that compare to chemical bonds?,NEUTRAL
+What's the standard unit of measurement here?,NEUTRAL
+This is way better than the stack overflow answer.,POSITIVE
+So does that mean it's still the case today?,NEUTRAL
+You didn’t address the main problem.,NEGATIVE
+"That’s way too basic, I was looking for specifics.",NEGATIVE
+Can I do this on my phone?,NEUTRAL
+What's the default value for that parameter?,NEUTRAL
+What if I have multiple devices connected?,NEUTRAL
+Is there a visual example of this?,NEUTRAL
+That’s the first time I’ve actually understood this concept.,POSITIVE
+"This answer is completely wrong, I'm confused.",NEGATIVE
+"That's spot on, I was wondering about that!",POSITIVE
+This is confusing and doesn't actually answer my question.,NEGATIVE
+What were the main consequences of that event?,NEUTRAL
+Were there any major reforms during that time?,NEUTRAL
+"You missed a major detail, that's a big mistake.",NEGATIVE
+What happens if I don't use that method?,NEUTRAL
+"I never thought about it that way, impressive!",POSITIVE
+This answer feels way too simplistic for such a complex event.,NEGATIVE
+Does it affect older versions of the app?,NEUTRAL
+"I didn't think of it that way, makes sense now.",POSITIVE
+Are there any alternatives to using a router for this?,NEUTRAL
+What were the main causes of that revolution?,NEUTRAL
+That’s the first time I actually understood it.,POSITIVE
+Is there a way to make this more efficient?,NEUTRAL
+"You missed the main point entirely, that's confusing.",NEGATIVE
+What if there's no written contract?,NEUTRAL
+"This isn't helpful at all, just saying.",NEGATIVE
+Can a contract be voided without a lawyer?,NEUTRAL
+This helps me feel more confident about the process.,POSITIVE
+"Exactly what I needed, no fluff.",POSITIVE
+"You nailed it, that's exactly what I needed.",POSITIVE
