@@ -1,4 +1,5 @@
 const { Kafka } = require('kafkajs');
+const logger = require('../logger');
 
 const kafka = new Kafka({
   clientId: 'backend-' + (process.env.HOSTNAME || 'local'),
@@ -30,14 +31,14 @@ async function initKafka() {
             try {
                 const data = JSON.parse(message.value.toString());
                 const { correlation_id, sentiment } = data;
-                console.log(`Received Kafka sentiment response for correlation_id: ${correlation_id}`);
+                logger.info(`Received Kafka sentiment response for correlation_id: ${correlation_id}`);
                 if (pendingRequests.has(correlation_id)) {
                     const { resolve } = pendingRequests.get(correlation_id);
                     resolve(sentiment);
                     pendingRequests.delete(correlation_id);
                 }
             } catch (err) {
-                console.error("Error processing Kafka message", err);
+                logger.error("Error processing Kafka message", { error: err.message, stack: err.stack });
             }
         },
     });
@@ -45,7 +46,7 @@ async function initKafka() {
 
 async function requestSentiment(message) {
     const correlation_id = Date.now().toString() + Math.random().toString(36).substring(2);
-    console.log(`Sending Kafka sentiment request for correlation_id: ${correlation_id}`);
+    logger.info(`Sending Kafka sentiment request for correlation_id: ${correlation_id}`);
     
     return new Promise(async (resolve, reject) => {
         const timeout = setTimeout(() => {

@@ -1,5 +1,6 @@
 const { Kafka } = require('kafkajs');
 const axios = require('axios');
+const logger = require('../logger');
 
 const kafka = new Kafka({
   clientId: 'sentiment-consumer',
@@ -27,6 +28,6 @@ await consumer.run({
       }
     );
 
-    console.log(response.data);
+    logger.info("Received sentiment response", { data: response.data });
   }
 });
