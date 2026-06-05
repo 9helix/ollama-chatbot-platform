@@ -468,7 +468,6 @@ async function get_response(model_name, chat_id, message, request_id) {
 
         const sentiment = await predictSentiment(message);
         if (sentiment==="NEGATIVE") {
-            //let systemPrompt="";
             let systemPrompt = "User appears frustrated. Be concise, calm and helpful.";
             logger.info("Negative sentiment detected, injecting system prompt", {
                 request_id,
@@ -479,12 +478,18 @@ async function get_response(model_name, chat_id, message, request_id) {
                 role: "system",
                 content: systemPrompt
             });
-        }/*
-        else if (sentiment==="POSITIVE") {
-            systemPrompt = "User is positive. Maintain friendly tone.";
-        } else {
-            systemPrompt = "Maintain neutral helpful tone.";
-        }*/
+        } else if (sentiment==="POSITIVE") {
+            let systemPrompt = "User is positive. Maintain friendly tone.";
+            logger.info("Positive sentiment detected, injecting system prompt", {
+                request_id,
+                chat_id: chat_id.toString(),
+                sentiment
+            });
+            processed_messages.unshift({
+                role: "system",
+                content: systemPrompt
+            });
+        }
         processed_messages.push({ role: "user", content: message });
         
         const stream = await ollama.chat({
